@@ -35,7 +35,7 @@ MANUAL = {
     # vanilla / common
     "Алмаз": "minecraft_diamond", "Алмазы": "minecraft_diamond",
     "Уголь": "minecraft_coal_block", "Угольный блок": "minecraft_coal_block",
-    "Редстоун": "minecraft_redstone", "Красная пыль": "minecraft_redstone", "Красный камень": "minecraft_redstone",
+    "Редстоун": "minecraft_redstone_dust", "Красная пыль": "minecraft_redstone_dust", "Красный камень": "minecraft_redstone_dust",
     "Изумруд": "minecraft_emerald",
     "Земля": "minecraft_dirt",
     "Медь": "uniresources_blockCopper", "Медный блок": "uniresources_blockCopper",
