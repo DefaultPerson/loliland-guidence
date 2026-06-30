@@ -1,0 +1,17 @@
+{
+"Узел ауры в банке": "thaumcraft::blocks/jar_side",
+"Творческая МЭ ячейка хранения эссенции": "appliedenergistics2::models/item/aspect_cell_creative",
+"Строитель мультиструктур": "loli_utility::models/item/structure_builder",
+"Лазерный сборочный стол": "lolienergistics::blocks/lazer_core",
+"Базовый лазер": "lolienergistics::blocks/lazer_1",
+"Плита зарядки Жезлов": "loli_utility::models/block/charger_plate/style_0/wand_style_0",
+"Набалдашник Пандемониум": "forbidden::misc/pandemonium",
+"Базовый механизм пчеловода": "extrabees::tile/ApiaristMachine",
+"Генетическая машина": "genetics::tile/GeneticMachine",
+"Улучшенная генетическая машина": "genetics::tile/AdvGeneticMachine",
+"Семя истинного кварца": "appliedenergistics2::models/item/crystal_certus_quartz_1",
+"Жидкостная Нейтрониевая сингулярность": "lolienergistics::items/singularity/molten_neutronium",
+"Стабилизированный спаунер": "minecraft::blocks/mob_spawner",
+"Микрозвезда: Солнце": "lolienergistics::misc/microstar/sun/normal/glow",
+"Микрозвезда: Zodius": "lolienergistics::misc/microstar/zodius/normal/glow"
+}

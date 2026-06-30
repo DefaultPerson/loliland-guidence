@@ -1,0 +1,10 @@
+{
+"Узел ауры в банке": "thaumcraft::blocks/jar_side",
+"Лазерный сборочный стол": "lolienergistics::blocks/lazer_core",
+"Базовый лазер": "lolienergistics::blocks/lazer_1",
+"Набалдашник Пандемониум": "forbidden::misc/pandemonium",
+"Жидкостная Нейтрониевая сингулярность": "lolienergistics::items/singularity/molten_neutronium",
+"Стабилизированный спаунер": "minecraft::blocks/mob_spawner",
+"Микрозвезда: Солнце": "lolienergistics::misc/microstar/sun/normal/glow",
+"Микрозвезда: Zodius": "lolienergistics::misc/microstar/zodius/normal/glow"
+}
