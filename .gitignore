@@ -16,8 +16,11 @@ meta/_item_icons_report.txt
 # Regenerable icon-pipeline artifacts (derived from game/ jars)
 meta/tex_catalog.json
 meta/tex_catalog.txt
+meta/tex_catalog_full.json
+meta/tex_catalog_full.txt
 meta/lang_bridge.txt
 meta/wf_input.json
+meta/wf_input2.json
 meta/det_resolved.json
 meta/residual.json
 
