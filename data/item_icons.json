@@ -278,6 +278,7 @@
 "Механический бассейн маны": "icons/lolimagically_MechanicalManaPool.png",
 "Меч бесконечности": "icons/Avaritia_Infinity_Sword.png",
 "Микрозвезда: Zodius": "icons/lolienergistics_misc_microstar_zodius_normal_glow.png",
+"Микрозвезда: Зодиус": "icons/lolienergistics_misc_microstar_zodius_normal_glow.png",
 "Микрозвезда: Солнце": "icons/lolienergistics_misc_microstar_sun_normal_glow.png",
 "Микросхема из ниобия": "icons/lolienergistics_consumable_niobium_microcircuit.png",
 "Мистическая кровавая руна": "icons/lolimagically_runes_blood_rune_mk_1_0.png",
@@ -588,6 +589,7 @@
 "Ядро портала в Альфхейм": "icons/alfheim_AlfheimPortal.png",
 "Ядро промышленного улья": "icons/loli_forestry_industrial_hive__iso.png",
 "Ядро пчелиной фабрики": "icons/loli_forestry_bee_factory__iso.png",
+"Ядро: Зодиус": "icons/lolienergistics_misc_microstar_zodius_core_glow.png",
 "Якорь путешествия": "icons/loli_utility_travel_anchor.png",
 "броня Воля Древних": "icons/botania_terrasteelChest.png"
 }
