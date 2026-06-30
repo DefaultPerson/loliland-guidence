@@ -13,6 +13,13 @@ bin_yt-dlp
 meta/tex/
 meta/*.png
 meta/_item_icons_report.txt
+# Regenerable icon-pipeline artifacts (derived from game/ jars)
+meta/tex_catalog.json
+meta/tex_catalog.txt
+meta/lang_bridge.txt
+meta/wf_input.json
+meta/det_resolved.json
+meta/residual.json
 
 # Research corpus (large: youtube subtitles/audio)
 /research/
