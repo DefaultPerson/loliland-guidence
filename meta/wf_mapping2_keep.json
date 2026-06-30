@@ -1,0 +1,13 @@
+{
+"Тигель": "thaumcraft::misc/r_crucible",
+"Совершенная Центрифуга": "forestry::blocks/centrifuge.0",
+"Легендарный Репликатор": "lolienergistics::blocks/legendary_replicator_core",
+"Молот инженера": "ic2::items/itemToolForgeHammer",
+"Сжатый уголь": "ic2::items/itemPartCoalBlock",
+"Камень Вис": "thaumcraft::items/vis_amulet_lesser",
+"Фильтрующая труба для эссенции": "thaumcraft::blocks/pipe_filter",
+"броня Воля Древних": "botania::items/terrasteelChest",
+"Матка": "forestry::items/analyzer/queen",
+"Магическая пасека": "magicbees::blocks/thaumicapiary.0",
+"Высекатель": "appliedenergistics2::blocks/BlockKnowledgeInscriber"
+}

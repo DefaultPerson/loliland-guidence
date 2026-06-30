@@ -68,7 +68,7 @@ NON_CUBE = re.compile(r'conduit|pipe|cable|\bwire\b|fluix|pylon|pedestal|altar|p
 MIN_OPAQUE = 0.42   # full-cube faces are near-opaque; flowers/plants/rings-with-holes fall below
 
 def is_cube(name, entry):
-    if not entry['path'].startswith('blocks/'):   # only real block textures (not misc/models/gui/items)
+    if not (entry['path'].startswith('blocks/') or entry['path'].startswith('tile/')):  # block faces only
         return False
     blob = (entry['path'] + ' ' + name).lower()
     if NON_CUBE.search(blob):
