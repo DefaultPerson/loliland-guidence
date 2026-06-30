@@ -1,0 +1,1071 @@
+ic2.uumatter=Материя
+
+lolienergistics.key.legendary_vajra_setting=Настройки Легендарной Ваджры
+
+enchantment.level.20=XX
+enchantment.level.15=XV
+
+tile.itemStoneGenerator.name=Промышленный генератор булыжника
+tile.blockMolecularFarm.name=Молекулярная ферма
+
+tile.blockMolecular.name=Молекулярный преобразователь
+tile.blockMolecularX1.name=Молекулярный преобразователь
+tile.blockMolecularX10.name=Промышленный молекулярный преобразователь
+tile.blockLegendaryMolecular.name=Легендарный молекулярный преобразователь
+
+tile.blockMaceratorX6.name=Расширенный сингулярный дробитель
+tile.blockMaceratorX12.name=Промышленный сингулярный дробитель
+
+tile.blockCompressorX6.name=Расширенный сингулярный компрессор
+tile.blockCompressorX12.name=Промышленный сингулярный компрессор
+
+tile.blockExtractorX6.name=Расширенный сингулярный экстрактор
+tile.blockExtractorX12.name=Промышленный сингулярный экстрактор
+
+tile.blockRecyclerX6.name=Расширенный сингулярный утилизатор
+tile.blockRecyclerX12.name=Промышленный сингулярный утилизатор
+
+tile.blockMetalFormerX6.name=Расширенный сингулярный металлоформовочный механизм
+tile.blockMetalFormerX12.name=Промышленный сингулярный металлоформовочный механизм
+
+tile.blockElectricFurnaceX6.name=Расширенная сингулярная электропечь
+tile.blockElectricFurnaceX12.name=Промышленная сингулярная электропечь
+
+tile.blockCentrifugeX6.name=Расширенная термальная центрифуга
+tile.blockCentrifugeX12.name=Промышленная термальная центрифуга
+
+tile.blockCutterX6.name=Расширенный режущий механизм
+tile.blockCutterX12.name=Промышленный режущий механизм
+
+tile.blockIndustrialFillingX6.name=Расширенный разливочный механизм
+tile.blockIndustrialFillingX12.name=Промышленный разливочный механизм
+
+tile.blockNeutronX1.name=Сингулярный генератор нейтрония
+tile.blockNeutronX2.name=Сингулярный генератор нейтрония
+tile.blockNeutronX3.name=Сингулярный генератор нейтрония
+tile.blockNeutronX4.name=Сингулярный генератор нейтрония
+tile.blockNeutronX5.name=Сингулярный генератор нейтрония
+tile.blockNeutronBase.name=Сборщик нейтрония
+
+tile.blockMatterX1.name=Сингулярный генератор жидкой материи
+tile.blockMatterX2.name=Сингулярный генератор жидкой материи
+tile.blockMatterX3.name=Сингулярный генератор жидкой материи
+tile.blockMatterX4.name=Сингулярный генератор жидкой материи
+tile.blockMatterX5.name=Сингулярный генератор жидкой материи
+tile.blockMatterX6.name=Сингулярный генератор жидкой материи
+tile.blockMatterX7.name=Сингулярный генератор жидкой материи
+tile.blockMatterX8.name=Сингулярный генератор жидкой материи
+tile.blockMatterX9.name=Сингулярный генератор жидкой материи
+tile.blockMatterX10.name=Сингулярный генератор жидкой материи
+
+tile.blockMatterSolidT0.name=Генератор твердой материи
+tile.blockMatterSolidT1.name=Генератор твердой материи
+tile.blockMatterSolidT2.name=Генератор твердой материи
+tile.blockMatterSolidT3.name=Генератор твердой материи
+tile.blockMatterSolidT4.name=Генератор твердой материи
+tile.blockMatterSolidT5.name=Генератор твердой материи
+tile.blockMatterSolidT6.name=Генератор твердой материи
+tile.blockMatterSolidT7.name=Генератор твердой материи
+tile.blockMatterSolidT8.name=Генератор твердой материи
+tile.blockMatterSolidT9.name=Генератор твердой материи
+
+tile.blockMatterSolidT0X6.name=Расширенный генератор твердой материи
+tile.blockMatterSolidT1X6.name=Расширенный генератор твердой материи
+tile.blockMatterSolidT2X6.name=Расширенный генератор твердой материи
+tile.blockMatterSolidT3X6.name=Расширенный генератор твердой материи
+tile.blockMatterSolidT4X6.name=Расширенный генератор твердой материи
+tile.blockMatterSolidT5X6.name=Расширенный генератор твердой материи
+tile.blockMatterSolidT6X6.name=Расширенный генератор твердой материи
+tile.blockMatterSolidT7X6.name=Расширенный генератор твердой материи
+tile.blockMatterSolidT8X6.name=Расширенный генератор твердой материи
+tile.blockMatterSolidT9X6.name=Расширенный генератор твердой материи
+
+tile.blockMatterSolidT0X12.name=Промышленный генератор твердой материи
+tile.blockMatterSolidT1X12.name=Промышленный генератор твердой материи
+tile.blockMatterSolidT2X12.name=Промышленный генератор твердой материи
+tile.blockMatterSolidT3X12.name=Промышленный генератор твердой материи
+tile.blockMatterSolidT4X12.name=Промышленный генератор твердой материи
+tile.blockMatterSolidT5X12.name=Промышленный генератор твердой материи
+tile.blockMatterSolidT6X12.name=Промышленный генератор твердой материи
+tile.blockMatterSolidT7X12.name=Промышленный генератор твердой материи
+tile.blockMatterSolidT8X12.name=Промышленный генератор твердой материи
+tile.blockMatterSolidT9X12.name=Промышленный генератор твердой материи
+
+tile.blockEnergyNeutronCombinerL1.name=Энергетический объединитель нейтрония
+tile.blockEnergyNeutronCombinerL2.name=Энергетический объединитель нейтрония
+tile.blockEnergyNeutronCombinerL3.name=Энергетический объединитель нейтрония
+tile.blockEnergyNeutronCombinerL4.name=Энергетический объединитель нейтрония
+tile.blockEnergyNeutronCombinerL5.name=Энергетический объединитель нейтрония
+
+tile.blockElectricX1.name=Гибридное МФЭХ
+tile.blockElectricX2.name=Расширенное гибридное МФЭХ
+tile.blockElectricX3.name=Промышленное гибридное МФЭХ
+
+tile.blockPowerConverter.name=Квантовый конвертер
+
+tile.blockWaterGenerate.name=Генератор воды
+
+tile.blockLavaGenerateX1.name=Ультимативный генератор лавы 1 уровня
+tile.blockLavaGenerateX2.name=Ультимативный генератор лавы 2 уровня
+tile.blockLavaGenerateX3.name=Ультимативный генератор лавы 3 уровня
+
+tile.blockNeutronCombiner.name=Объединитель нейтрония
+tile.blockQuantumReplicator.name=Квантовый репликатор
+tile.blockQuantumReplicator.name=Квантовый репликатор
+tile.blockWitcherFarm.name=Ферма визеров
+tile.blockMatterCombiner.name=Объединитель материи “Жидкой”
+
+lolienergistics:item.upgrade_speed_1.name=Улучшенный ускоритель
+lolienergistics:item.upgrade_speed_2.name=Продвинутый ускоритель
+lolienergistics:item.upgrade_quantum_generator.name=Улучшение: Квантовый генератор
+lolienergistics:item.augment_machine_speed.name=Квантовый усилитель
+lolienergistics:item.particle_accelerator_1.name=Улучшение: Ускоритель частиц (1 уровня)
+lolienergistics:item.particle_accelerator_2.name=Улучшение: Ускоритель частиц (2 уровня)
+lolienergistics:item.particle_accelerator_3.name=Улучшение: Ускоритель частиц (3 уровня)
+lolienergistics:item.multiply_module_1.name=Молекулярный модуль удачи (2 уровня)
+lolienergistics:item.multiply_module_2.name=Молекулярный модуль удачи (5 уровня)
+lolienergistics:item.multiply_module_3.name=Молекулярный модуль удачи (10 уровня)
+
+lolienergistics:item.thermal_protection_upgrade.name=Улучшение: Термозащита радиаторов
+lolienergistics:item.efficient_injector_upgrade.name=Улучшение: Эффективный инжектор
+
+lolienergistics:item.infinity_pickaxe_ultra.name=Легендарный Разрушитель Мира
+lolienergistics:item.legendary_vajra.name=Легендарная Ваджра
+lolienergistics:item.advanced_solar_helmet.name=Улучшенный солнечный шлем
+lolienergistics:item.hybrid_solar_helmet.name=Гибридный солнечный шлем
+lolienergistics:item.ultimate_solar_helmet.name=Ультимейт солнечный шлем
+
+lolienergistics:item.sunnarium.name=Саннариум
+lolienergistics:item.sunnarium_alloy.name=Сплав саннариума
+lolienergistics:item.sunnarium_part.name=Часть саннариума
+lolienergistics:item.irradiant_uranium.name=Излучающий уран
+lolienergistics:item.enriched_sunnarium.name=Обогащенный саннариум
+lolienergistics:item.enriched_sunnarium_alloy.name=Обогащенный сплав саннариума
+lolienergistics:item.irradiant_glass_plane.name=Излучающая стеклянная поверхность
+lolienergistics:item.iridium_iron_plate.name=Иридиевая-железная пластина
+lolienergistics:item.reinforced_iridium_iron_plate.name=Армированная иридиевая-железная пластина
+lolienergistics:item.irradiant_reinforced_plate.name=Излучающая армированная пластина
+lolienergistics:item.ingot_iridium.name=Слиток иридия
+lolienergistics:item.uran_ingot.name=Слиток урана
+lolienergistics:item.mt_core.name=Ядро молекулярного преобразователя
+lolienergistics:item.quantum_core.name=Квантовое ядро
+
+lolienergistics:item.box_nano.name=Нано коробка удачи
+lolienergistics:item.box_quantum.name=Квантовая коробка удачи
+lolienergistics:item.box_divine_rpg.name=Коробка удачи Divine RPG
+
+lolienergistics:item.matter.name=Материя
+lolienergistics:item.matter_turquoise.name=Бирюзовая материя
+lolienergistics:item.matter_purple.name=Фиолетовая материя
+lolienergistics:item.matter_sparkling.name=Искрящаяся материя
+lolienergistics:item.matter_luminous_turquoise.name=Светящаяся бирюзовая материя
+lolienergistics:item.matter_luminous_red.name=Светящаяся красная материя
+lolienergistics:item.matter_luminous_pink.name=Светящаяся розовая материя
+lolienergistics:item.matter_loose_blue.name=Сыпучая светло-голубая материя
+lolienergistics:item.matter_loose_pink.name=Сыпучая светло-розовая материя
+lolienergistics:item.matter_mutated_violet_turquoise.name=Мутировавшая фиолетово-бирюзовая материя
+
+lolienergistics:item.ingot_rose_gold.name=Слиток розового золота
+
+lolienergistics:item.neutronium_accumulation.name=Скопление нейтрония
+lolienergistics:item.neutronium_catalyst.name=Каталист из нейтрония
+lolienergistics:item.infinity_singularity.name=Инфинити сингулярность
+lolienergistics:item.infinity_dust.name=Инфинити пыль
+lolienergistics:item.infinity_nugget.name=Инфинити самородок
+lolienergistics:item.infinity_dragon_awakened_heart.name=Пробужденное сердце инфинити дракона
+
+lolienergistics:item.core_unifier_fluid_matter.name=Ядро объединителя жидкой материи
+lolienergistics:item.core_unifier_neutronium.name=Ядро объединителя нейтрония
+
+lolienergistics:item.dispersion_core.name=Дисперсионное ядро
+lolienergistics:item.gravitomagnetic_core.name=Гравимагнитное ядро
+lolienergistics:item.anisotropic_core.name=Анизотропическое ядро
+lolienergistics:item.fluctuation_core.name=Флуктуационное ядро
+lolienergistics:item.aberration_core.name=Аберрационное ядро
+lolienergistics:item.parametric_core.name=Параметрическое ядро
+lolienergistics:item.chromodynamic_core.name=Хромодинамическое ядро
+lolienergistics:item.antimaterial_core.name=Антиматериальное ядро
+lolienergistics:item.sparkling_core.name=Искрящееся ядро
+
+lolienergistics:item.armor_crafting_core.name=Ядро создания брони
+lolienergistics:item.sword_crafting_core.name=Ядро создания оружия
+
+lolienergistics:item.advanced_light_absorbing_plate.name=Продвинутая светопоглощающая пластина
+lolienergistics:item.niobium_ingot.name=Слиток ниобия
+lolienergistics:item.niobium_pcb.name=Печатная плата из ниобия
+lolienergistics:item.niobium_thin_sheet.name=Тонкий лист ниобия
+lolienergistics:item.niobium_microcircuit.name=Микросхема из ниобия
+lolienergistics:item.niobium_chip.name=Чип из ниобия
+
+lolienergistics:item.galvanized_niobium_ingot.name=Гальванизированный слиток ниобия
+lolienergistics:item.galvanized_niobium_sheet.name=Гальванизированный лист ниобия
+lolienergistics:item.galvanized_niobium_board.name=Гальванизированная плата из ниобия
+lolienergistics:item.electroplated_niobium_chip.name=Гальванизированная микросхема из ниобия
+lolienergistics:item.electroplated_niobium_charged_chip.name=Гальванизированный заряженный чип из ниобия
+
+lolienergistics:item.bimetallic_microcircuit.name=Биметаллическая микросхема
+
+lolienergistics:item.coding_plate_yellow.name=Желтая кодирующая пластина
+lolienergistics:item.coding_plate_green.name=Зеленая кодирующая пластина
+lolienergistics:item.coding_plate_pink.name=Розовая кодирующая пластина
+lolienergistics:item.coding_plate_gray.name=Серая кодирующая пластина
+lolienergistics:item.coding_plate_purple.name=Фиолетовая кодирующая пластина
+
+lolienergistics:item.ametrine.name=Аметрин
+lolienergistics:item.ametrine_shard.name=Осколок аметрина
+lolienergistics:item.ametrine_crystal.name=Кристалл аметрина
+lolienergistics:item.ametrine_energy_element.name=Энергетический элемент из аметрина
+lolienergistics:item.ametrine_ingot.name=Слиток аметрина
+lolienergistics:item.ametrine_plate.name=Аметриновая пластина
+lolienergistics:item.ametrine_base.name=Аметриновая основа
+lolienergistics:item.ametrine_plasma_core.name=Ядро с аметриновой плазмой
+
+lolienergistics:item.fluorite.name=Флюорит
+lolienergistics:item.fluorite_shard.name=Осколок флюорита
+lolienergistics:item.fluorite_crystal.name=Кристалл флюорита
+lolienergistics:item.fluorite_energy_element.name=Энергетический элемент из флюорита
+lolienergistics:item.fluorite_ingot.name=Слиток флюорита
+lolienergistics:item.fluorite_plate.name=Флюоритовая пластина
+lolienergistics:item.fluorite_base.name=Флюоритовая основа
+lolienergistics:item.fluorite_plasma_core.name=Ядро с флюоритовой плазмой
+
+lolienergistics:item.chrysolite.name=Хризолит
+lolienergistics:item.chrysolite_shard.name=Осколок хризолита
+lolienergistics:item.chrysolite_crystal.name=Кристалл хризолита
+lolienergistics:item.chrysolite_energy_element.name=Энергетический элемент из хризолита
+lolienergistics:item.chrysolite_ingot.name=Слиток хризолита
+lolienergistics:item.chrysolite_plate.name=Хризолитовая пластина
+lolienergistics:item.chrysolite_base.name=Хризолитовая основа
+lolienergistics:item.chrysolite_plasma_core.name=Ядро с хризолитовой плазмой
+
+lolienergistics:item.energized_crystal_ametrine.name=Наполненный энергией кристалл аметрина
+lolienergistics:item.energized_crystal_fluorite.name=Наполненный энергией кристалл флюорита
+lolienergistics:item.energized_crystal_chrysolite.name=Наполненный энергией кристалл хризолита
+
+
+#Thaumcraft
+lolienergistics:item.living_flesh.name=Живая плоть
+lolienergistics:item.fetid_ashes.name=Зловонный прах
+lolienergistics:item.bone_growth.name=Костяной нарост
+lolienergistics:item.blood_clot.name=Кровяной сгусток
+lolienergistics:item.shabby_wing.name=Потрепанное крыло
+lolienergistics:item.cracked_bird_bone.name=Треснувшая птичья кость
+lolienergistics:item.cracked_skull.name=Треснувший череп
+lolienergistics:item.horrific_something.name=Ужасающее нечто
+lolienergistics:item.clouded_eyeball.name=Помутневшее глазное яблоко
+lolienergistics:item.blue_iris_pupil.name=Голубая радужка со зрачком
+lolienergistics:item.green_iris_pupil.name=Зеленая радужка со зрачком
+lolienergistics:item.brown_iris_pupil.name=Каряя радужка со зрачком
+lolienergistics:item.gray_iris_pupil.name=Серая радужка со зрачком
+lolienergistics:item.blue_damaged_iris.name=Поврежденная голубая радужка
+lolienergistics:item.green_damaged_iris.name=Поврежденная зеленая радужка
+lolienergistics:item.brown_damaged_iris.name=Поврежденная каряя радужка
+lolienergistics:item.gray_damaged_iris.name=Поврежденная серая радужка
+lolienergistics:item.adamantium_cluster_ethereal.name=Кластер из эфирного адамантия
+lolienergistics:item.adamantium_cluster_ghost.name=Кластер из призрачного адамантия
+lolienergistics:item.adamantium_cluster_arcane.name=Кластер из чародейского адамантия
+lolienergistics:item.adamantium_cluster_dragon.name=Кластер из дракониевого адамантия
+lolienergistics:item.adamantium_cluster_infernal.name=Инфернальный кластер из адамантия
+
+
+#Forestry
+lolienergistics:item.bee_core.name=Пчелиный сердечник
+lolienergistics:item.improvement_beekeeper_panels.name=Улучшение для панелей пчеловода
+lolienergistics:item.blue_iridescent_crystal_plate.name=Голубая переливающаяся кристальная пластина
+lolienergistics:item.green_iridescent_crystal_plate.name=Зеленая переливающаяся кристальная пластина
+lolienergistics:item.purple_iridescent_crystal_plate.name=Фиолетовая переливающаяся кристальная пластина
+lolienergistics:item.amber_iridescent_crystal_plate.name=Янтарная переливающаяся кристальная пластина
+lolienergistics:item.blue_crystal_bee_frame.name=Голубой кристальный пчелиный каркас
+lolienergistics:item.green_crystal_bee_frame.name=Зеленая кристальный пчелиный каркас
+lolienergistics:item.purple_crystal_bee_frame.name=Фиолетовая кристальный пчелиный каркас
+lolienergistics:item.amber_crystal_bee_frame.name=Янтарная кристальный пчелиный каркас
+lolienergistics:item.four-color_crystal_bee_frame.name=Четырехцветный кристальный пчелиный каркас
+lolienergistics:item.blue_iridescent_crystal_honeycombs.name=Переливающийся кристалл из голубых сот
+lolienergistics:item.green_iridescent_crystal_honeycombs.name=Переливающийся кристалл из зеленых сот
+lolienergistics:item.purple_iridescent_crystal_honeycombs.name=Переливающийся кристалл из фиолетовых сот
+lolienergistics:item.amber_iridescent_crystal_honeycombs.name=Переливающийся кристалл из янтарных сот
+lolienergistics:item.blue_iridescent_compressed_honeycombs.name=Спрессованные голубые переливающиеся соты
+lolienergistics:item.green_iridescent_compressed_honeycombs.name=Спрессованные зеленые переливающиеся соты
+lolienergistics:item.purple_iridescent_compressed_honeycombs.name=Спрессованные фиолетовые переливающиеся соты
+lolienergistics:item.amber_iridescent_compressed_honeycombs.name=Спрессованные янтарные переливающиеся соты
+
+
+#Botania
+lolienergistics:item.empty_magic_bud.name=Пустой магический бутон
+lolienergistics:item.cherry_blossomed_flower_bud.name=Наполненный цветами вишни бутон
+lolienergistics:item.flower_filled_iris_bud.name=Наполненный цветами ириса бутон
+lolienergistics:item.flower_filled_oleander_bud.name=Наполненный цветами олеандра бутон
+lolienergistics:item.bud_filled_sunflower_petals.name=Наполненный лепестками подсолнуха бутон
+lolienergistics:item.flower_filled_rose_bud.name=Наполненный цветами розы бутон
+lolienergistics:item.multicolor_magic_bud.name=Многоцветный магический бутон
+lolienergistics:item.cherry_flowers.name=Цветы вишневого дерева
+lolienergistics:item.iris_flowers.name=Цветы ирисового дерева
+lolienergistics:item.oleander_flowers.name=Цветы олеандрового дерева
+lolienergistics:item.sunflower_flowers.name=Цветы подсолнухового дерева
+lolienergistics:item.sakura_flowers.name=Цветы сакуры
+
+
+#DivineRPG
+lolienergistics:item.fusion_nightmares.name=Сплав кошмаров
+lolienergistics:item.fusion_mortum.name=Сплав мортума
+lolienergistics:item.fusion_mystery_dungeon.name=Сплав подземелья тайн
+lolienergistics:item.fusion_dream.name=Сплав сновидений
+lolienergistics:item.fusion_parallel_dimension.name=Сплав параллельных измерений
+lolienergistics:item.colorless_stone.name=Бесцветный камень
+lolienergistics:item.rare_purple_stone.name=Редкий пурпурный камень
+lolienergistics:item.nightmares_stone.name=Камень кошмаров
+lolienergistics:item.mortum_stone.name=Камень мортума
+lolienergistics:item.mystery_dungeon_stone.name=Камень подземелья тайн
+lolienergistics:item.dream_stone.name=Камень сновидений
+lolienergistics:item.awakened_nightmares_stone.name=Пробужденный камень кошмаров
+lolienergistics:item.awakened_mortum_stone.name=Пробужденный камень мортума
+lolienergistics:item.awakened_mystery_dungeon_stone.name=Пробужденный камень подземелья тайн
+lolienergistics:item.awakened_dream_stone.name=Пробужденный камень сновидений
+lolienergistics:item.dark_nightmares_stone.name=Темный камень кошмаров
+lolienergistics:item.dark_mortum_stone.name=Темный камень мортума
+lolienergistics:item.dark_mystery_dungeon_stone.name=Темный камень подземелья тайн
+lolienergistics:item.dark_dream_stone.name=Темный камень сновидений
+
+
+#GalactiCraft
+lolienergistics:item.galaxy_singularity_red.name=Красная галактическая сингулярность
+lolienergistics:item.galaxy_singularity_blue.name=Голубая галактическая сингулярность
+lolienergistics:item.galaxy_singularity_green.name=Зеленая галактическая сингулярность
+lolienergistics:item.galaxy_singularity_gold.name=Золотистая галактическая сингулярность
+lolienergistics:item.galaxy_singularity_multicolor.name=Переливающаяся галактическая сингулярность
+
+
+#Nevermine
+lolienergistics:item.aoa_green_core.name=Хроматическое зеленое ядро
+lolienergistics:item.aoa_red_core.name=Хроматическое красное ядро
+lolienergistics:item.aoa_purple_core.name=Хроматическое фиолетовое ядро
+lolienergistics:item.aoa_pink_core.name=Хроматическое розовое ядро
+lolienergistics:item.aoa_ultimate_core.name=Хроматическое ультимативное ядро
+lolienergistics:item.aoa_green_element.name=Хроматический зеленый элемент
+lolienergistics:item.aoa_red_element.name=Хроматический красный элемент
+lolienergistics:item.aoa_purple_element.name=Хроматический фиолетовый элемент
+lolienergistics:item.aoa_pink_element.name=Хроматический розовый элемент
+lolienergistics:item.aoa_ultimate_element.name=Хроматический многоцветный элемент
+
+
+#BloodMagic
+lolienergistics:item.empty_demon_contract.name=Пустой договор с демоном
+lolienergistics:item.asmodeus_demon_contract.name=Договор с демоном: Асмодей
+lolienergistics:item.belphegor_demon_contract.name=Договор с демоном: Бельфегор
+lolienergistics:item.beelzebub_demon_contract.name=Договор с демоном: Вельзевул
+lolienergistics:item.leviathan_demon_contract.name=Договор с демоном: Левиафан
+lolienergistics:item.lucifer_demon_contract.name=Договор с демоном: Люцифер
+lolienergistics:item.ritual_blood_jar.name=Банка с ритуальной кровью
+
+#Mekanism
+lolienergistics:item.substrate.name=Субстрат
+lolienergistics:item.hdpe_pellet.name=Шарик полиэтилена НД
+lolienergistics:item.hdpe_rod.name=Стержень полиэтилена НД
+lolienergistics:item.hdpe_sheet.name=Лист полиэтилена НД
+lolienergistics:item.bio_fuel.name=Биотопливо
+lolienergistics:item.salt.name=Соль
+lolienergistics:item.compressed_diamond.name=Сжатый алмаз
+lolienergistics:item.compressed_obsidian.name=Сжатый обсидиан
+lolienergistics:item.electrolytic_core.name=Электролитическое ядро
+
+lolienergistics:item.atomic_disassembler.name=Атомный разборщик
+
+lolienergistics:item.atomic_disassembler.mode.normal=Обычный
+lolienergistics:item.atomic_disassembler.mode.slow=Медленный
+lolienergistics:item.atomic_disassembler.mode.fast=Быстрый
+lolienergistics:item.atomic_disassembler.mode.vein=Жильная добыча
+lolienergistics:item.atomic_disassembler.mode.off=Выключен
+
+lolienergistics:tile.rotary_condensentrator.name=Роторный сгуститель
+lolienergistics:tile.steam_boiler.name=Паровой котёл
+lolienergistics:tile.industrial_steam_boiler.name=Промышленный паровой котёл
+lolienergistics:tile.crystal_growth_chamber.name=Камера роста кристаллов
+lolienergistics:tile.crystal_charging_chamber.name=Камера зарядки кристаллов
+
+lolienergistics:item.basis_capacitor.name=Основа для конденсатора
+lolienergistics:item.cololess_capacitor.name=Бесцветный конденсатор
+lolienergistics:item.bronze_allow_capacitor.name=Конденсатор из бронзового сплава
+lolienergistics:item.glowstone_allow_capacitor.name=Конденсатор из светокаменного сплава
+lolienergistics:item.obsidian_allow_capacitor.name=Конденсатор из обсидианового сплава
+lolienergistics:item.osmium_allow_capacitor.name=Конденсатор из осмиевого сплава
+lolienergistics:item.multialloy_allow_capacitor.name=Конденсатор из мультисплава
+
+
+#Thermal
+lolienergistics:item.basis_thermodynamic_core.name=Основа для термодинамического ядра
+lolienergistics:item.purple_spectrum_thermodynamic_core.name=Термодинамическое ядро фиолетового спектра
+lolienergistics:item.red_spectrum_thermodynamic_core.name=Термодинамическое ядро красного спектра
+lolienergistics:item.transparent_thermodynamic_core.name=Прозрачное термодинамическое ядро
+lolienergistics:item.turquoise_spectrum_thermodynamic_core.name=Термодинамическое ядро бирюзового спектра
+lolienergistics:item.holographic_thermodynamic_core.name=Голографическое термодинамическое ядро
+
+
+#Minechem
+lolienergistics:item.atomic_collider_1.name=Сжатый атомный коллайдер
+lolienergistics:item.atomic_collider_2.name=Дважды сжатый атомный коллайдер
+lolienergistics:item.atomic_collider_3.name=Трижды сжатый атомный коллайдер
+lolienergistics:item.atomic_collider_4.name=Четырежды сжатый атомный коллайдер
+lolienergistics:item.atomic_collider_ultimate.name=Предельно сжатый атомный коллайдер
+
+
+tile.BlockQED.name=Автоматический QED
+tile.BlockFission.name=Элементарная термоядерная камера
+tile.BlockFusion.name=Элементарная ядерная камера
+
+tile.blockDynamoBase.name=Кинетический генератор
+tile.blockDynamoTier1.name=Улучшенный кинетический генератор (1 уровня)
+tile.blockDynamoTier2.name=Улучшенный кинетический генератор (2 уровня)
+tile.blockDynamoTier3.name=Улучшенный кинетический генератор (3 уровня)
+tile.blockThermoelectricGenBase.name=Термоэлектрический генератор
+tile.blockThermoelectricGenTier1.name=Улучшенный термоэлектрический генератор (1 уровня)
+tile.blockThermoelectricGenTier2.name=Улучшенный термоэлектрический генератор (2 уровня)
+tile.blockThermoelectricGenTier3.name=Улучшенный термоэлектрический генератор (3 уровня)
+
+tile.blockCompressedNeutronS1X1.name=Сжатый генератор нейтрония
+tile.blockCompressedNeutronS1X2.name=Сжатый генератор нейтрония
+tile.blockCompressedNeutronS1X3.name=Сжатый генератор нейтрония
+tile.blockCompressedNeutronS1X4.name=Сжатый генератор нейтрония
+tile.blockCompressedNeutronS1X5.name=Сжатый генератор нейтрония
+
+tile.blockCompressedNeutronS2X1.name=Дважды сжатый генератор нейтрония
+tile.blockCompressedNeutronS2X2.name=Дважды сжатый генератор нейтрония
+tile.blockCompressedNeutronS2X3.name=Дважды сжатый генератор нейтрония
+tile.blockCompressedNeutronS2X4.name=Дважды сжатый генератор нейтрония
+tile.blockCompressedNeutronS2X5.name=Дважды сжатый генератор нейтрония
+
+tile.blockCompressedNeutronS3X1.name=Трижды сжатый генератор нейтрония
+tile.blockCompressedNeutronS3X2.name=Трижды сжатый генератор нейтрония
+tile.blockCompressedNeutronS3X3.name=Трижды сжатый генератор нейтрония
+tile.blockCompressedNeutronS3X4.name=Трижды сжатый генератор нейтрония
+tile.blockCompressedNeutronS3X5.name=Трижды сжатый генератор нейтрония
+
+tile.ethereal_panel.name=Эфирная панель тауматурга
+tile.ghost_panel.name=Призрачная панель тауматурга
+tile.arcane_panel.name=Чародейская панель тауматурга
+tile.dragon_panel.name=Дракониевая панель тауматурга
+tile.ultimate_infernal_panel.name=Ультимативная инфернальная панель тауматурга
+
+tile.asmodeus_demonic_panel.name=Демоническая панель Асмодея
+tile.belphegor_demonic_panel.name=Демоническая панель Бельфегора
+tile.beelzebub_demonic_panel.name=Демоническая панель Вельзевула
+tile.leviathan_demonic_panel.name=Демоническая панель Левиафана
+tile.lucifer_ultimate_demonic_panel.name=Ультимативная демоническая панель Люцифера
+
+tile.bronze_electrolyzed_panel.name=Панель из электролизованного бронзового сплава
+tile.glowstone_electrolyzed_panel.name=Панель из электролизованного светокаменного сплава
+tile.obsidian_electrolyzed_panel.name=Панель из электролизованного обсидианового сплава
+tile.osmium_electrolyzed_panel.name=Панель из электролизованного осмиевого сплава
+tile.multiallow_ultimate_electrolyzed_panel.name=Ультимативная панель из электролизованного мультисплава
+
+tile.red_galactic_panel.name=Галактическая панель с красным лучом
+tile.blue_galactic_panel.name=Галактическая панель с голубым лучом
+tile.green_galactic_panel.name=Галактическая панель с зеленым лучом
+tile.yellow_galactic_panel.name=Галактическая панель с золотистым лучом
+tile.ultimate_panel_galaxy.name=Ультимативная переливающаяся галактическая панель
+
+tile.purple_spectrum_thermodynamic_panel.name=Термодинамическая панель фиолетового спектра
+tile.red_spectrum_thermodynamic_panel.name=Термодинамическая панель красного спектра
+tile.transparent_thermodynamic_panel.name=Прозрачная термодинамическая панель
+tile.turquoise_spectrum_thermodynamic_panel.name=Термодинамическая панель бирюзового спектра
+tile.ultimate_holographic_thermodynamic_panel.name=Ультимативная голографическая термодинамическая панель
+
+tile.atomic_panel_1.name=Сжатая атомная панель
+tile.atomic_panel_2.name=Дважды сжатая атомная панель
+tile.atomic_panel_3.name=Трижды сжатая атомная панель
+tile.atomic_panel_4.name=Четырежды сжатая атомная панель
+tile.atomic_panel_ultimate.name=Предельно сжатая атомная панель
+
+tile.heavenly_minizio_panel.name=Небесная Миницио Панель
+tile.celestial_atsio_panel.name=Небесная Ацио Панель
+tile.celestial_crucio_panel.name=Небесная Круцио Панель
+tile.celestial_imperio_panel.name=Небесная Империо Панель
+tile.celestial_zivicio_panel.name=Небесная Зивицио Панель
+tile.ultimate_heaven_panel.name=Ультимативная Панель Небес
+
+gui.MolecularTransformer.input=Input
+gui.MolecularTransformer.output=Output
+gui.MolecularTransformer.energyPerOperation=Energy
+gui.MolecularTransformer.energyPerTick=EU/t
+gui.MolecularTransformer.progress=Progress
+gui.MolecularTransformer.energyRequired=Стоимость
+
+# ================== [WIPE 05.2023] ==================
+lolienergistics:gui.molecular_output.text=Результат
+lolienergistics:gui.molecular_energy_required.text=Стоимость
+
+lolienergistics:gui.advanced_unifier_charge.text=Заряд: §e
+lolienergistics:gui.advanced_unifier_generation.text=Генерация: §e
+
+lolienergistics:tile.double_molecular.name=Двойной молекулярный преобразователь
+lolienergistics:tile.centrifuge.name=Расширенная термальная центрифуга
+lolienergistics:tile.coolant_factory.name=Фабрика хладагента
+
+lolienergistics:tile.advanced_energy_unifier_base.name=Улучшенный энергетический объединитель
+lolienergistics:tile.advanced_energy_unifier_gold.name=Улучшенный энергетический объединитель из розового золота
+
+lolienergistics:tile.deep_storage_unit.name=Глубокое хранилище
+
+lolienergistics:tile.cluster_unpacker.name=Кластерный распаковщик
+
+lolienergistics:item.upgrade_resource_gen0.name=Улучшение: Генератор воды
+lolienergistics:item.upgrade_resource_gen1.name=Улучшение: Генератор лавы
+lolienergistics:item.upgrade_resource_gen2.name=Улучшение: Генератор булыжника
+lolienergistics:item.upgrade_resource_gen3.name=Улучшение: Автоплавка
+lolienergistics:item.upgrade_resource_gen4.name=Улучшение: Генератор утильсырья
+
+lolienergistics:item.engineer_core_scanner.name=Колонковый сканер инженера
+
+lolienergistics:item_conduit_tier1.name=Аметриновая предметная труба
+lolienergistics:item_conduit_tier2.name=Флюоритовая предметная труба
+lolienergistics:item_conduit_tier3.name=Хризолитовая предметная труба
+
+lolienergistics:power_conduit_tier1.name=Аметриновая энергетическая труба
+lolienergistics:power_conduit_tier2.name=Флюоритовая энергетическая труба
+lolienergistics:power_conduit_tier3.name=Хризолитовая энергетическая труба
+
+lolienergistics:liquid_conduit_tier1.name=Аметриновая жидкостная труба
+lolienergistics:liquid_conduit_tier2.name=Флюоритовая жидкостная труба
+lolienergistics:liquid_conduit_tier3.name=Хризолитовая жидкостная труба
+
+lolienergistics:item.grinding_ball0.name=Аметриновый шарик
+lolienergistics:item.grinding_ball1.name=Флюоритовый шарик
+lolienergistics:item.grinding_ball2.name=Хризолитовый шарик
+
+lolienergistics:tile.ender_capacitor_tier1.name=Аметриновый блок-конденсатор
+lolienergistics:tile.ender_capacitor_tier2.name=Флюоритовый блок-конденсатор
+lolienergistics:tile.ender_capacitor_tier3.name=Хризолитовый блок-конденсатор
+
+lolienergistics:tile.assembly_table.name=Лазерный сборочный стол
+lolienergistics:tile.assembly_laser_tier1.name=Базовый лазер
+lolienergistics:tile.assembly_laser_tier2.name=Улучшенный лазер
+lolienergistics:tile.assembly_laser_tier3.name=Гибридный лазер
+lolienergistics:tile.assembly_laser_tier4.name=Квантовый лазер
+lolienergistics:tile.assembly_laser_tier5.name=Ультимативный лазер
+
+lolienergistics:tile.advanced_cutter_machine.name=Улучшенный Режущий механизм
+lolienergistics:tile.advanced_solar_destiller.name=Продвинутый солнечный опреснитель
+lolienergistics:tile.legendary_replicator.name=Легендарный Репликатор
+lolienergistics:tile.legendary_replicator_core.name=Ядро легендарного репликатора
+lolienergistics:tile.quantum_glass.name=Квантовое стекло
+
+lolienergistics:tile.advanced_qed.name=Продвинутый Автоматический QED
+
+lolienergistics:item.quantum_assembly_tool.name=Квантовый инструмент сборки
+
+lolienergistics:tile.machine_frame.name=Ниобиевый корпус механизма
+
+lolienergistics:tile.quantum_farm.name=Квантовая Ферма ресурсов
+lolienergistics:tile.chemical_decomposer.name=Элементарный Химический разложитель
+lolienergistics:tile.chemical_synthesizer.name=Элементарный Химический синтезатор
+lolienergistics:tile.liquid_thickener.name=Сгуститель
+lolienergistics:tile.element_converter.name=Преобразователь элементов
+lolienergistics:tile.plasma_charger.name=Плазменный зарядник
+
+lolienergistics:item.neutron_star.name=Нейтронная звезда
+lolienergistics:item.charged_neutron_star.name=Заряженная нейтронная звезда
+
+lolienergistics:tile.capillary_filler.name=Капиллярный наполнитель
+lolienergistics:tile.industrial_capillary_filler.name=Промышленный Капиллярный наполнитель
+lolienergistics:tile.industrial_mixer.name=Промышленный смеситель
+lolienergistics:tile.mixer_core.name=Ядро смесителя
+lolienergistics:tile.mixer_glass.name=Стекло смесителя
+
+lolienergistics:tile.niobium_tank.name=Ниобиевый резервуар
+lolienergistics:tile.niobium_plating.name=Ниобиевая обшивка
+
+lolienergistics:item.farm_upgrade_speed_1.name=Улучшения: Ускоритель генерации (1 уровня)
+lolienergistics:item.farm_upgrade_speed_2.name=Улучшения: Ускоритель генерации (2 уровня)
+lolienergistics:item.farm_upgrade_speed_3.name=Улучшения: Ускоритель генерации (3 уровня)
+
+lolienergistics:item.farm_upgrade_focus_1.name=Улучшения: Фокусировка (Белая)
+lolienergistics:item.farm_upgrade_focus_2.name=Улучшения: Фокусировка (Оранжевая)
+lolienergistics:item.farm_upgrade_focus_3.name=Улучшения: Фокусировка (Синяя)
+lolienergistics:item.farm_upgrade_focus_4.name=Улучшения: Фокусировка (Жёлтая)
+lolienergistics:item.farm_upgrade_focus_5.name=Улучшения: Фокусировка (Зелёная)
+lolienergistics:item.farm_upgrade_focus_6.name=Улучшения: Фокусировка (Серая)
+lolienergistics:item.farm_upgrade_focus_7.name=Улучшения: Фокусировка (Фиолетовая)
+lolienergistics:item.farm_upgrade_focus_8.name=Улучшения: Фокусировка (Красная)
+lolienergistics:item.farm_upgrade_focus_9.name=Улучшения: Фокусировка (Чёрная)
+
+lolienergistics:item.stable_mendeleev_fragment.name=Стабильный осколок Менделеева
+lolienergistics:item.unstable_mendeleev_fragment.name=Нестабильный осколок Менделеева
+lolienergistics:item.mendeleev_ingot.name=Слиток Менделеева
+lolienergistics:item.mendeleev_plate.name=Пластина Менделеева
+lolienergistics:item.communion_clot.name=Сгусток Коммуния
+lolienergistics:item.elerium_crystal.name=Кристалл элериума
+lolienergistics:item.rengenium_ingot.name=Ренгеньевый слиток
+lolienergistics:item.palladium_ingot.name=Палладиевый слиток
+lolienergistics:item.palladium_plate.name=Палладиевая пластина
+lolienergistics:item.molybdenum_ingot.name=Слиток Молибдена
+lolienergistics:item.molybdenum_plate.name=Пластина Молибдена
+lolienergistics:item.drop_concentrated_mercury_liquid.name=Капля Сконцентрированной меркуриевой жидкости
+lolienergistics:item.ultrafin_ingot.name=Слиток Ультрафина
+lolienergistics:item.ultrafin_plate.name=Пластина Ультрафина
+
+item.concentrated_mercury_bucket.name=Концентрированная меркуриевая жидкость
+tile.concentrated_mercury.name=Концентрированная меркуриевая жидкость
+fluid.concentrated_mercury=Концентрированная меркуриевая жидкость
+
+fluid.red_energonium=Красный Энергоний
+fluid.dark_energonium=Тёмный Энергоний
+
+lolienergistics:item.neutron_star.name=Нейтронная звезда
+lolienergistics:item.charged_neutron_star.name=Заряженная нейтронная звезда
+lolienergistics:item.red_energon.name=Красный Энергон
+lolienergistics:item.dark_energon.name=Тёмный Энергон
+lolienergistics:item.energy_pulsating_crystal.name=Энергонный пульсирующий кристалл
+
+lolienergistics:item.advanced_cell.name=Усиленная жидкостная капсула
+lolienergistics:item.ultimate_cell.name=Сверхпрочная жидкостная капсула
+lolienergistics:item.quantum_cell.name=Сингулярная жидкостная капсула
+lolienergistics:item.flask.name=Фляга
+
+lolienergistics:item.portable_charging_module.name=Портативный заряжающий модуль
+lolienergistics:item.upgrade_liquid_tightener.name=Жидкостный затягиватель
+lolienergistics:item.upgrade_gas_ejector.name=Газовый выталкиватель
+lolienergistics:item.upgrade_gas_puller.name=Газовый затягиватель
+lolienergistics:item.thermal_insulator1.name=Улучшение: Термоизолятор 1 ур.
+lolienergistics:item.thermal_insulator2.name=Улучшение: Термоизолятор 2 ур.
+lolienergistics:item.thermal_insulator3.name=Улучшение: Термоизолятор 3 ур.
+
+lolienergistics:item.upgrade_singular_buck0.name=Улучшение: Сингулярный бак 1 ур.
+lolienergistics:item.upgrade_singular_buck1.name=Улучшение: Сингулярный бак 2 ур.
+lolienergistics:item.upgrade_singular_buck2.name=Улучшение: Сингулярный бак 3 ур.
+
+lolienergistics:item.star_matter_ingot.name=Слиток звёздной материи
+
+lolienergistics:item.astrolion_core.name=Ядро: Астролион
+lolienergistics:item.sun_core.name=Ядро: Солнце
+lolienergistics:item.sirius_core.name=Ядро: Сириус
+lolienergistics:item.zodius_core.name=Ядро: Зодиус
+
+lolienergistics:item.astrolion_micro_star.name=Микрозвезда: Астролион
+lolienergistics:item.sun_micro_star.name=Микрозвезда: Солнце
+lolienergistics:item.sirius_micro_star.name=Микрозвезда: Сириус
+lolienergistics:item.zodius_micro_star.name=Микрозвезда: Зодиус
+
+lolienergistics:item.astrolion_dead.name=Угасшая Микрозвезда: Астролион
+lolienergistics:item.sun_dead.name=Угасшая Микрозвезда: Солнце
+lolienergistics:item.sirius_dead.name=Угасшая Микрозвезда: Сириус
+lolienergistics:item.zodius_dead.name=Угасшая Микрозвезда: Зодиус
+
+lolienergistics:tile.star_matter.name=Блок звёздной материи
+lolienergistics:tile.thermal_induction_module1.name=Тепловой индукционный модуль 1 ур.
+lolienergistics:tile.thermal_induction_module2.name=Тепловой индукционный модуль 2 ур.
+lolienergistics:tile.thermal_induction_module3.name=Тепловой индукционный модуль 3 ур.
+lolienergistics:tile.thermal_induction_module4.name=Тепловой индукционный модуль 4 ур.
+
+lolienergistics:tile.liquid_neutron_compressor.name=Жидкостный компрессор нейтрония
+lolienergistics:tile.crystallization_cooling_complex.name=Ядро охлаждающего комплекса
+lolienergistics:tile.heliospheric_charging_center.name=Гелиосферное зарядное ядро
+lolienergistics:tile.thermonuclear_smelting_complex.name=Ядро плавильного комплекса
+lolienergistics:tile.smelting_plant.name=Плавильная установка
+
+lolienergistics:tile.crystallization_cooling_complex.nei=Кристаллизационный охлаждающий комплекс
+lolienergistics:tile.thermonuclear_smelting_complex.nei=Термоядерный плавильный комплекс
+
+lolienergistics:tile.heat_resistant_glass.name=Жаропрочное стекло
+lolienergistics:tile.smelting_complex_base.name=Основание плавильного комплекса
+lolienergistics:tile.smelting_complex_sheathing.name=Покрытие плавильного комплекса
+lolienergistics:tile.cryogenic_glass.name=Криогенное стекло
+lolienergistics:tile.resistant_tank.name=Термостойкий резервуар
+lolienergistics:tile.tungsten_plating.name=Вольфрамовая обшивка
+lolienergistics:tile.niobium_coil.name=Большая ниобиевая катушка
+lolienergistics:tile.heliospheric_stabilizer.name=Гелиосферный стабилизатор
+
+lolienergistics:tile.red_energon_generator.name=Генератор красного энергона
+lolienergistics:tile.dark_energon_generator.name=Генератор тёмного энергона
+
+lolienergistics:tile.energon_converter_core.name=Ядро преобразователя энергония
+lolienergistics:tile.energon_converter.name=Преобразователь энергония
+lolienergistics:tile.energon_synthesizer_core.name=Энергонное ядро синтезатора
+lolienergistics:tile.energon_synthesizer.name=Энергонный синтезатор
+
+lolienergistics:tile.energon_base.name=Энергонная основа
+lolienergistics:tile.energon_glass.name=Энергонное стекло
+lolienergistics:tile.energon_plating.name=Энергонная обшивка
+
+fluid.element.Com.name=Коммуний
+fluid.element.Elr.name=Элериум
+fluid.element.Drc.name=Дракулин
+fluid.element.Ntr.name=Нейтролин
+fluid.element.Ze.name=Нулевой элемент
+fluid.element.Uf.name=Ультрафин
+fluid.element.Cot.name=Хаосиум
+fluid.element.Sci.name=Искрин
+
+fluid.phase_plasmoreactive=Фазовый Плазмореактив
+fluid.heliotropic_plasmoreactive=Гелиотропный Плазмореактив
+fluid.luminescent_plasmoreactive=Люминофазный Плазмореактив
+fluid.exothermic_plasmoreactive=Экзотермический Плазмореактив
+fluid.quark_plasmoreactive=Кварковый Плазмореактив
+fluid.hemolymph=Гемолимфа
+
+fluid.dragon_blood=Кровь дракона
+fluid.dragon_chaos_blood=Кровь дракона Хаоса
+fluid.ice_dragon_blood=Кровь дракона Льда
+fluid.fire_dragon_blood=Кровь дракона Огня
+fluid.infinity_dragon_blood=Кровь дракона Бесконечности
+fluid.infinite_demon_dragon_blood=Кровь демонического дракона Бесконечности
+
+fluid.dark_matter=Тёмная материя
+
+lolienergistics:item.phase_plasmoreactive_bucket.name=Ведро Фазового Плазмореактива
+lolienergistics:item.heliotropic_plasmoreactive_bucket.name=Ведро Гелиотропного Плазмореактива
+lolienergistics:item.luminescent_plasmoreactive_bucket.name=Ведро Люминофазного Плазмореактива
+lolienergistics:item.exothermic_plasmoreactive_bucket.name=Ведро Экзотермического Плазмореактива
+lolienergistics:item.quark_plasmoreactive_bucket.name=Ведро Кваркового Плазмореактива
+lolienergistics:item.hemolymph_bucket.name=Ведро Гемолимфы
+
+lolienergistics:item.dragon_blood_bucket.name=Ведро Крови дракона
+lolienergistics:item.dragon_chaos_blood_bucket.name=Ведро Крови дракона Хаоса
+lolienergistics:item.ice_dragon_blood_bucket.name=Ведро Крови дракона Льда
+lolienergistics:item.fire_dragon_blood_bucket.name=Ведро Крови дракона Огня
+lolienergistics:item.infinity_dragon_blood_bucket.name=Ведро Крови дракона Бесконечности
+lolienergistics:item.infinite_demon_dragon_blood_bucket.name=Ведро Крови демонического дракона Бесконечности
+
+lolienergistics:item.dark_matter_bucket.name=Ведро Тёмной материи
+
+tooltip.upgrade.upgrade_liquid_tightener=Автоматически вводить жидкость с %s стороны
+tooltip.upgrade.upgrade_gas_ejector=Автоматически выталкивать газ с %s стороны
+tooltip.upgrade.upgrade_gas_puller=Автоматически затягивать газ с %s стороны
+
+itemGroup.lolienergistics.global=LoliLand IC2 Energistics: Механизмы
+itemGroup.lolienergistics.minechem=LoliLand IC2 Energistics: Химия
+
+fluid.molten_iridium_ore=Расплавленный Иридий
+fluid.molten_niobium=Расплавленный Ниобий
+fluid.molten_sannarium=Расплавленный Саннариум
+fluid.molten_spark_matter=Расплавленная Искрящаяся материя
+fluid.molten_ametrine=Расплавленный Аметрин
+fluid.molten_fluorite=Расплавленный Флюорит
+fluid.molten_chrysolite=Расплавленный Хризолит
+fluid.molten_nether_star=Расплавленная Адская Звезда
+fluid.molten_super_alloy=Расплавленный Сверхсплав
+fluid.molten_skyfiry=Расплавленный Скайфарий
+fluid.molten_sebastyanit=Расплавленный Себастьянит
+fluid.molten_radvirium=Расплавленный Радвириум
+fluid.molten_gladium=Расплавленный Гладий
+fluid.molten_neutronium=Расплавленный Нейтроний
+fluid.molten_crystal_matrix=Расплавленная Кристаллическая матрица
+fluid.molten_infinity_ingot=Расплавленный Слиток Бесконечности
+fluid.molten_adamantium=Расплавленный Адамантий
+fluid.molten_adamantium_ethereal=Расплавленный Эфирный адамантий
+fluid.molten_adamantium_ghost=Расплавленный Призрачный адамантий
+fluid.molten_adamantium_arcane=Расплавленный Чародейский адамантий
+fluid.molten_adamantium_dragon=Расплавленный Дракониевый адамантий
+fluid.molten_mobius=Расплавленный Мобиус
+fluid.molten_bedrockium=Расплавленный Бедрокий
+
+lolienergistics:item.molten_iridium_ore_bucket.name=Ведро расплавленного Иридия
+lolienergistics:item.molten_niobium_bucket.name=Ведро расплавленного Ниобия
+lolienergistics:item.molten_sannarium_bucket.name=Ведро расплавленного Саннариума
+lolienergistics:item.molten_spark_matter_bucket.name=Ведро расплавленной Искрящейся материи
+lolienergistics:item.molten_ametrine_bucket.name=Ведро расплавленного Аметрина
+lolienergistics:item.molten_fluorite_bucket.name=Ведро расплавленного Флюорита
+lolienergistics:item.molten_chrysolite_bucket.name=Ведро расплавленного Хризолита
+lolienergistics:item.molten_nether_star_bucket.name=Ведро расплавленной Адской Звезды
+lolienergistics:item.molten_super_alloy_bucket.name=Ведро расплавленного Сверхсплава
+lolienergistics:item.molten_skyfiry_bucket.name=Ведро расплавленного Скайфария
+lolienergistics:item.molten_sebastyanit_bucket.name=Ведро расплавленного Себастьянита
+lolienergistics:item.molten_radvirium_bucket.name=Ведро расплавленного Радвириума
+lolienergistics:item.molten_gladium_bucket.name=Ведро расплавленного Гладия
+lolienergistics:item.molten_neutronium_bucket.name=Ведро расплавленного Нейтрония
+lolienergistics:item.molten_crystal_matrix_bucket.name=Ведро расплавленной Кристаллической матрицы
+lolienergistics:item.molten_infinity_ingot_bucket.name=Ведро расплавленного Слитка Бесконечности
+lolienergistics:item.molten_adamantium_bucket.name=Ведро расплавленного Адамантия
+lolienergistics:item.molten_adamantium_ethereal_bucket.name=Ведро расплавленного Эфирного адамантия
+lolienergistics:item.molten_adamantium_ghost_bucket.name=Ведро расплавленного Призрачного адамантия
+lolienergistics:item.molten_adamantium_arcane_bucket.name=Ведро расплавленного Чародейского адамантия
+lolienergistics:item.molten_adamantium_dragon_bucket.name=Ведро расплавленного Дракониевого адамантия
+lolienergistics:item.molten_mobius_bucket.name=Ведро расплавленного Мобиуса
+lolienergistics:item.molten_bedrockium_bucket.name=Ведро расплавленного Бедрокия
+
+lolienergistics:item.fluid_singularity_molten_iridium_ore.name=Жидкостная Иридиевая сингулярность
+lolienergistics:item.fluid_singularity_molten_niobium.name=Жидкостная Ниобиевая сингулярность
+lolienergistics:item.fluid_singularity_molten_sannarium.name=Жидкостная Саннариумовая сингулярность
+lolienergistics:item.fluid_singularity_molten_spark_matter.name=Жидкостная сингулярность из Искрящейся материи
+lolienergistics:item.fluid_singularity_molten_ametrine.name=Жидкостная Аметриновая сингулярность
+lolienergistics:item.fluid_singularity_molten_fluorite.name=Жидкостная Флюоритовая сингулярность
+lolienergistics:item.fluid_singularity_molten_chrysolite.name=Жидкостная Хризолитовая сингулярность
+lolienergistics:item.fluid_singularity_molten_nether_star.name=Жидкостная сингулярность из Звёзд Ада
+lolienergistics:item.fluid_singularity_molten_super_alloy.name=Жидкостная сингулярность из Сверхсплава
+lolienergistics:item.fluid_singularity_molten_skyfiry.name=Жидкостная Скайфариевая сингулярность
+lolienergistics:item.fluid_singularity_molten_sebastyanit.name=Жидкостная Себастьянитовая сингулярность
+lolienergistics:item.fluid_singularity_molten_radvirium.name=Жидкостная Радвириумовая сингулярность
+lolienergistics:item.fluid_singularity_molten_gladium.name=Жидкостная Гладиевая сингулярность
+lolienergistics:item.fluid_singularity_molten_neutronium.name=Жидкостная Нейтрониевая сингулярность
+lolienergistics:item.fluid_singularity_molten_crystal_matrix.name=Жидкостная Кристально-матриксная сингулярность
+lolienergistics:item.fluid_singularity_molten_infinity_ingot.name=Жидкостная сингулярность из Слитков Бесконечности
+lolienergistics:item.fluid_singularity_molten_adamantium.name=Жидкостная сингулярность из Адамантия
+lolienergistics:item.fluid_singularity_molten_adamantium_ethereal.name=Жидкостная сингулярность из Эфирного адамантия
+lolienergistics:item.fluid_singularity_molten_adamantium_ghost.name=Жидкостная сингулярность из Призрачного адамантия
+lolienergistics:item.fluid_singularity_molten_adamantium_arcane.name=Жидкостная сингулярность из Чародейского адамантия
+lolienergistics:item.fluid_singularity_molten_adamantium_dragon.name=Жидкостная сингулярность из Дракониевого адамантия
+lolienergistics:item.fluid_singularity_molten_mobius.name=Жидкостная Мобиус сингулярность
+lolienergistics:item.fluid_singularity_molten_bedrockium.name=Жидкостная Бедрокиевая сингулярность
+
+lolienergistics:item.focus_energy_ball.name=Energy Ball Focus
+lolienergistics:item.vis_discount.tooltip=Vis Discount
+
+lolienergistics:item.electric_boots_traveller.name=Electric Boots of the Traveller
+lolienergistics:item.nano_boots_traveller.name=Nanosuit Boots of the Traveller
+lolienergistics:item.quantum_boots_traveller.name=Quantum Boots of the Traveller
+lolienergistics:item.electric_scribing_tool.name=Electric Scribing Tools
+
+lolienergistics:item.infused_quantum_chest.name=Infused Quantum Chestplate
+
+lolienergistics.key.unequip=Unequip
+
+lolienergistics:item.electric_goggles.name=Electric Goggles of Revealing
+lolienergistics:item.nano_thaumic_helmet.name=Nanosuit Goggles of Revealing
+lolienergistics:item.quantum_thaumic_helmet.name=Quantum Goggles of Revealing
+lolienergistics:item.solar_helmet_revealing.name=Solar Goggles of Revealing
+
+lolienergistics:item.energy_crystal.name=Энергокристалл
+lolienergistics:item.osmium_plate.name=Осмиевая пластина
+lolienergistics:item.osmium_wire.name=Осмиевый провод
+lolienergistics:item.osmiridium_ingot.name=Слиток осмирида
+lolienergistics:item.osmiridium_plate.name=Осмиридовая пластина
+lolienergistics:item.osmiridium_gear.name=Шестерня осмирида
+lolienergistics:item.osmiridium_capacitor.name=Конденсатор осмирида
+lolienergistics:item.conductive_chip.name=Проводящий чип
+lolienergistics:item.quantum_chip.name=Квантовый чип
+lolienergistics:item.crystal_ypsilonium.name=Кристалл Ипсилония
+lolienergistics:item.superalloy_ingot.name=Сверхсплав
+lolienergistics:item.gladia_ingot.name=Гладиевый слиток
+lolienergistics:item.sebastyanite_mixture.name=Себастьянитовая смесь
+
+lolienergistics:item.sebastyanite_pile_dust.name=Кучка Себастьянитовой пыли
+lolienergistics:item.sebastyanite_dust.name=Себастьянитовая пыль
+lolienergistics:item.sebastyanite_ingot.name=Себастьянитовый слиток
+
+lolienergistics:item.skyfiry_pile_dust.name=Кучка Скайфариевой пыли
+lolienergistics:item.skyfiry_dust.name=Скайфариевая пыль
+lolienergistics:item.skyfiry_ingot.name=Скайфариевый слиток
+
+lolienergistics:item.radvirium_pile_dust.name=Кучка Радвириумовой пыли
+lolienergistics:item.radvirium_dust.name=Радвириумовая пыль
+lolienergistics:item.radvirium_ingot.name=Радвириум
+
+lolienergistics:tile.gladia.name=Блок Гладия
+
+lolienergistics:tile.radvirium.name=Блок Радвириума
+lolienergistics:tile.ore_radvirium.name=Руда Радвириума
+
+lolienergistics:tile.sebastyanite.name=Блок Себастьянита
+lolienergistics:tile.ore_sebastyanite.name=Себастьянитовая руда
+
+lolienergistics:tile.skyfiry.name=Блок Скайфария
+lolienergistics:tile.ore_skyfiry.name=Скайфариевая руда
+
+lolienergistics:tile.blast_furnace_brick.name=Кирпич доменной печи
+lolienergistics:tile.coke_oven_brick.name=Кирпич коксовой печи
+lolienergistics:tile.wooden_device_watermill.name=Водяное колесо
+lolienergistics:tile.wooden_device_windmill_advanced.name=Ветряная мельница
+
+lolienergistics:item.coke_coal.name=Коксовый уголь
+lolienergistics:item.hop_graphite_ingot.name=Слиток ВОП-графита
+lolienergistics:item.windmill_blade.name=Лопасть ветряной мельницы
+lolienergistics:item.advanced_windmill_blade.name=Улучшенная лопасть ветряной мельницы
+lolienergistics:item.part_waterwheel.name=Часть водяного колеса
+lolienergistics:item.soaked_sticks.name=Пропитанные палки
+lolienergistics:item.hot_iron_ingot.name=Слиток раскалённого железа
+lolienergistics:item.slag.name=Шлак
+
+lolienergistics:tile.soaked_boards.name=Пропитанные доски
+lolienergistics:tile.hot_iron_block.name=Блок раскалённого железа
+lolienergistics:tile.coal_coke_block.name=Блок коксового угля
+
+lolienergistics:desc.blast_fuel_time.text=Доменное топливо: %1$s тактов
+
+fluid.creosote=Креозот
+lolienergistics:item.creosote_bucket.name=Ведро креозота
+
+fluid.nutrient_paste=Питательная паста
+lolienergistics:item.nutrient_paste_bucket.name=Ведро питательной пасты
+
+fluid.fusion_fuel_dt=Дейтерий-тритиевое топливо
+lolienergistics:item.fusion_fuel_dt_bucket.name=Ведро дейтерий-тритиевого топлива
+fluid.osmium_slurry=Взвесь осмия
+lolienergistics:item.osmium_slurry_bucket.name=Ведро взвеси осмия
+fluid.diamond_slurry=Взвесь алмаза
+lolienergistics:item.diamond_slurry_bucket.name=Ведро взвеси алмаза
+fluid.redstone_slurry=Взвесь красного камня
+lolienergistics:item.redstone_slurry_bucket.name=Ведро взвеси красного камня
+fluid.refined_obsidian_slurry=Взвесь очищенного обсидиана
+lolienergistics:item.refined_obsidian_slurry_bucket.name=Ведро взвеси очищенного обсидиана
+fluid.sulfuric_acid=Серная кислота
+lolienergistics:item.sulfuric_acid_bucket.name=Ведро серной кислоты
+fluid.brine=Рапа
+lolienergistics:item.brine_bucket.name=Ведро рапы
+fluid.uranium_oxide=Оксид урана
+lolienergistics:item.uranium_oxide_bucket.name=Ведро оксида урана
+fluid.enriched_uranium=Обогащённый уран
+lolienergistics:item.enriched_uranium_bucket.name=Ведро обогащённого урана
+fluid.nuclear_waste=Ядерные отходы
+lolienergistics:item.nuclear_waste_bucket.name=Ведро ядерных отходов
+fluid.fissile_fuel=Делящееся топливо
+lolienergistics:item.fissile_fuel_bucket.name=Ведро делящегося топлива
+
+lolienergistics:tile.industrial_blast_furnace.name=Ядро промышленной доменной печи
+lolienergistics:tile.quenching_bath.name=Ядро промышленной доменной печи
+lolienergistics:tile.cauldron.name=Закалочный котёл
+lolienergistics:tile.quantum_miner.name=Квантовый шахтёр
+lolienergistics:tile.hardening_bath.name=Ядро закалочной ванны
+
+lolienergistics:item.tungsten_ingot.name=Слиток вольфрама
+lolienergistics:tile.tungsten_block.name=Блок вольфрама
+
+lolienergistics:item.constantan_ingot.name=Константановый слиток
+lolienergistics:item.constantan_dust.name=Константановая пыль
+lolienergistics:tile.constantan_block.name=Константановый блок
+
+lolienergistics:item.crystal_primordial_chaos.name=Кристалл первичного хаоса
+lolienergistics:item.dust_primordial_chaos.name=Пыль первичного хаоса
+lolienergistics:item.petrified_heart.name=Окаменевшее сердце
+
+lolienergistics:tile.hemontransmutator.name=Ядро Гемотрансмутатора
+lolienergistics:tile.wind_turbine.name=Ветрогенератор
+
+lolienergistics:item.wind_rotor0.name=Ротор: Базовый
+lolienergistics:item.wind_rotor1.name=Ротор: Улучшенный
+lolienergistics:item.wind_rotor2.name=Ротор: Гибридный
+lolienergistics:item.wind_rotor3.name=Ротор: Продвинутый
+lolienergistics:item.wind_rotor4.name=Ротор: Квантовый
+
+lolienergistics:item.upgrade_demineralizer.name=Улучшение: Деминерализатор
+lolienergistics:item.upgrade_demineralizer.desc=Автоматически очищает бак накипи.
+
+lolienergistics:item.upgrade_recycler.name=Улучшение: Реутилизатор
+lolienergistics:item.upgrade_recycler.desc=Автоматически уничтожает вторичную продукцию.
+lolienergistics:item.upgrade_cardiacamplifier.name=Улучшение: Кардиоусилитель
+lolienergistics:item.upgrade_cardiacamplifier.desc=Ускоряет работу Гемотрансмутатора
+
+lolienergistics:tile.entropy_reactor.name=Ядро Энтропийного реактора
+lolienergistics:tile.tungsten_tank.name=Вольфрамовый резервуар
+lolienergistics:tile.copper_coil.name=Большая медная катушка
+lolienergistics:tile.constantan_coil.name=Большая константановая катушка
+lolienergistics:tile.tungsten_coil.name=Большая вольфрамовая катушка
+
+lolienergistics:item.copper_radiator.name=Медный радиатор
+lolienergistics:item.iridium_radiator.name=Иридиевый радиатор
+
+lolienergistics:tile.gas_tank_basic.name=Газовый баллон
+lolienergistics:tile.gas_tank_advanced.name=Усиленный газовый баллон
+lolienergistics:tile.gas_tank_elite.name=Сверхпрочный газовый баллон
+lolienergistics:tile.gas_tank_ultimate.name=Сингулярный газовый баллон
+
+lolienergistics:tile.enrichment_chamber.name=Камера обогащения
+lolienergistics:tile.enrichment_chamber0.name=Камера обогащения
+lolienergistics:tile.enrichment_chamber1.name=Расширенная камера обогащения
+lolienergistics:tile.enrichment_chamber2.name=Промышленная камера обогащения
+
+lolienergistics:tile.chemical_filler.name=Химический наполнитель
+lolienergistics:tile.chemical_oxidizer.name=Химический окислитель
+lolienergistics:tile.reaction_chamber.name=Реакционная камера
+lolienergistics:tile.electrolytic_separator.name=Сепаратор
+lolienergistics:tile.ambient_gas_collector.name=Сборщик окружающего газа
+lolienergistics:tile.blender.name=Блендер
+lolienergistics:tile.creative_fluid_tank.name=Творческий жидкостный бак
+
+lolienergistics:tile.salt_block.name=Блок соли
+lolienergistics:tile.steel_casing.name=Стальной корпус
+
+# Gasses
+lolienergistics:gas.hydrogen.name=Водород (Газ)
+lolienergistics:gas.oxygen.name=Кислород (Газ)
+lolienergistics:gas.chlorine.name=Хлор (Газ)
+lolienergistics:gas.sodium.name=Натрий (Газ)
+lolienergistics:gas.lithium.name=Литий (Газ)
+lolienergistics:gas.nitrogen.name=Азот (Газ)
+lolienergistics:gas.steam.name=Пар (Газ)
+lolienergistics:gas.ambient.name=Атмосферный газ (Газ)
+lolienergistics:gas.sulfur_dioxide.name=Диоксид серы (Газ)
+lolienergistics:gas.sulfur_trioxide.name=Триоксид серы (Газ)
+lolienergistics:gas.hydrogen_chloride.name=Хлороводород (Газ)
+lolienergistics:gas.ethylene.name=Этилен (Газ)
+lolienergistics:gas.deuterium.name=Дейтерий (Газ)
+lolienergistics:gas.tritium.name=Тритий (Газ)
+lolienergistics:gas.ypsilonium.name=Ипсилоний (Газ)
+
+# Gasses fluids
+lolienergistics:fluid.hydrogen_gas.name=Водород (Жидкость)
+lolienergistics:fluid.oxygen_gas.name=Кислород (Жидкость)
+lolienergistics:fluid.chlorine_gas.name=Хлор (Жидкость)
+lolienergistics:fluid.sodium_gas.name=Натрий (Жидкость)
+lolienergistics:fluid.lithium_gas.name=Литий (Жидкость)
+lolienergistics:fluid.sulfur_dioxide_gas.name=Диоксид серы (Жидкость)
+lolienergistics:fluid.sulfur_trioxide_gas.name=Триоксид серы (Жидкость)
+lolienergistics:fluid.hydrogen_chloride_gas.name=Хлороводород (Жидкость)
+lolienergistics:fluid.ethylene_gas.name=Этилен (Жидкость)
+lolienergistics:fluid.deuterium_gas.name=Дейтерий (Жидкость)
+lolienergistics:fluid.tritium_gas.name=Тритий (Жидкость)
+lolienergistics:fluid.ypsilonium_gas.name=Ипсилоний (Жидкость)
+
+# Mekanism Resources
+tile.OreBlock.OsmiumOre.name=Осмиевая руда
+tile.OreBlock.CopperOre.name=Медная руда
+tile.OreBlock.TinOre.name=Оловянная руда
+
+tile.BasicBlock.OsmiumBlock.name=Осмиевый блок
+tile.BasicBlock.BronzeBlock.name=Бронзовый блок
+tile.BasicBlock.RefinedObsidian.name=Очищенный обсидиан
+tile.BasicBlock.CharcoalBlock.name=Древесноугольный блок
+tile.BasicBlock.RefinedGlowstone.name=Очищенный светящийся камень
+tile.BasicBlock.SteelBlock.name=Стальной блок
+tile.BasicBlock.CopperBlock.name=Медный блок
+tile.BasicBlock.TinBlock.name=Оловянный блок
+
+item.obsidianIngot.name=Обсидиановый слиток
+item.osmiumIngot.name=Осмиевый слиток
+item.bronzeIngot.name=Бронзовый слиток
+item.glowstoneIngot.name=Слиток светящегося камня
+item.steelIngot.name=Стальной слиток
+item.copperIngot.name=Медный слиток
+item.tinIngot.name=Оловянный слиток
+
+item.ironDust.name=Железная пыль
+item.goldDust.name=Золотая пыль
+item.osmiumDust.name=Осмиевая пыль
+item.obsidianDust.name=Обсидиановая пыль
+item.refinedobsidianDust.name=Пыль очищенного обсидиана
+item.diamondDust.name=Алмазная пыль
+item.steelDust.name=Стальная пыль
+item.copperDust.name=Медная пыль
+item.tinDust.name=Оловянная пыль
+item.silverDust.name=Серебряная пыль
+item.leadDust.name=Свинцовая пыль
+item.sulfurDust.name=Серная пыль
+item.lithiumDust.name=Литиевая пыль
+
+loliindex.recipe_type.ic2.macerating=Macerating
+loliindex.recipe_type.ic2.extracting=Extracting
+loliindex.recipe_type.ic2.compressing=Compressing
+loliindex.recipe_type.ic2.block_cutting=Block Cutting
+loliindex.recipe_type.ic2.metal_forming=Metal Forming
+loliindex.recipe_type.ic2.centrifuging=Centrifuging
+loliindex.recipe_type.ic2.ore_washing=Ore Washing
+loliindex.recipe_type.ic2.solid_canning=Solid Canning
+loliindex.recipe_type.ic2.fluid_enriching=Fluid Enriching
+loliindex.recipe_type.ic2.scrapbox=Scrapbox
+
+loliindex.recipe_type.avaritia.compression=Neutronium Compression
+
+loliindex.recipe_type.le.molecular=Molecular Transformer
+loliindex.recipe_type.le.molecular_farm=Molecular Farm
+loliindex.recipe_type.le.double_molecular=Double Molecular Transformer
+
+loliindex.recipe_type.le.coke_oven=Coke Oven
+loliindex.recipe_type.le.blast_furnace=Blast Furnace
+
+loliindex.recipe_type.le.matter_solid_t0=Solid Matter Generator T1
+loliindex.recipe_type.le.matter_solid_t1=Solid Matter Generator T2
+loliindex.recipe_type.le.matter_solid_t2=Solid Matter Generator T3
+loliindex.recipe_type.le.matter_solid_t3=Solid Matter Generator T4
+loliindex.recipe_type.le.matter_solid_t4=Solid Matter Generator T5
+loliindex.recipe_type.le.matter_solid_t5=Solid Matter Generator T6
+loliindex.recipe_type.le.matter_solid_t6=Solid Matter Generator T7
+loliindex.recipe_type.le.matter_solid_t7=Solid Matter Generator T8
+loliindex.recipe_type.le.matter_solid_t8=Solid Matter Generator T9
+loliindex.recipe_type.le.matter_solid_t9=Solid Matter Generator T10

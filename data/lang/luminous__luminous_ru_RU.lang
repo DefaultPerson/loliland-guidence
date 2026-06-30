@@ -1,0 +1,17 @@
+luminous.options.interfaceSettings=Настройки интерфейса
+
+luminous.options.uiScale=Размер LuminousUI
+luminous.options.uiScale.auto=Sync
+luminous.options.uiScale.1=1
+luminous.options.uiScale.2=2
+luminous.options.uiScale.3=3
+luminous.options.uiScale.4=4
+
+# LoliIndex recipe type names (vanilla / universal)
+loliindex.recipe_type.fuel=Горение
+loliindex.fuel.burn_time=Горит: %d тиков
+loliindex.fuel.items_smelted=Предметов: %.1f
+loliindex.recipe_type.brewing=Зельеварение
+loliindex.brewing.duration=Варится 20 секунд
+loliindex.action.fill=Выложить крафт
+loliindex.action.bookmarks=Закладки

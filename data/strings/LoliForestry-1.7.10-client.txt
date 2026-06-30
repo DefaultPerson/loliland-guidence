@@ -1,0 +1,122 @@
+#Растительное масло
+,Расположение предметов
+/Нажмите ПКМ чтобы удалить
+3Автоматическая сортировка:
+9Бак для Синтетического нектара
+;Для очистки бака нажмите: SHIFT-ПКМ
+JНе удалось загрузить модуль интеграции:
+L§7Зажмите§3 Shift §7для подробной информации
+fluid.nutrient=Синтетический нектар
+forestry.allele.none=Ни один
+item.fluid.nutrient_bucket.name=Ведро синтетического нектара
+loli_forestry.rootBees.chromosome.cave_dwelling.short=Работа в пещерах
+loli_forestry.rootBees.chromosome.effect.short=Эффект
+loli_forestry.rootBees.chromosome.fertility.short=Плодовитость
+loli_forestry.rootBees.chromosome.flower_provider.short=Опыляемые цветки
+loli_forestry.rootBees.chromosome.flowering.short=Скорость опыления
+loli_forestry.rootBees.chromosome.humidity.short=Влажность
+loli_forestry.rootBees.chromosome.humidity_tolerance.short=Влажность
+loli_forestry.rootBees.chromosome.lifespan.short=Срок жизни
+loli_forestry.rootBees.chromosome.nocturnal.short=Ночная
+loli_forestry.rootBees.chromosome.speed.short=Производительность
+loli_forestry.rootBees.chromosome.temperature_tolerance.short=Температура
+loli_forestry.rootBees.chromosome.territory.short=Рабочая зона
+loli_forestry.rootBees.chromosome.tolerant_flyer.short=Работа в дождь
+loli_forestry.rootButterflies.chromosome.effect.short=Эффект
+loli_forestry.rootButterflies.chromosome.fertility.short=Плодовитость
+loli_forestry.rootButterflies.chromosome.fire_resist.short=Огнестойкость
+loli_forestry.rootButterflies.chromosome.flower_provider.short=Опыляемые цветы
+loli_forestry.rootButterflies.chromosome.humidity_tolerance.short=Влажность
+loli_forestry.rootButterflies.chromosome.lifespan.short=Срок жизни
+loli_forestry.rootButterflies.chromosome.metabolism.short=Метаболизм
+loli_forestry.rootButterflies.chromosome.nocturnal.short=Ночная
+loli_forestry.rootButterflies.chromosome.size.short=Размер
+loli_forestry.rootButterflies.chromosome.speed.short=Скорость
+loli_forestry.rootButterflies.chromosome.temperature_tolerance.short=Температура
+loli_forestry.rootButterflies.chromosome.territory.short=Рабочая зона
+loli_forestry.rootButterflies.chromosome.tolerant_flyer.short=Работа в дождь
+loli_forestry.rootFlowers.chromosome.effect.short=Эффект
+loli_forestry.rootFlowers.chromosome.fertility.short=Плодовитость
+loli_forestry.rootFlowers.chromosome.humidity_tolerance.short=Влажность
+loli_forestry.rootFlowers.chromosome.lifespan.short=Срок жизни
+loli_forestry.rootFlowers.chromosome.ph_tolerance.short=Кислотность (pH)
+loli_forestry.rootFlowers.chromosome.primary.short=Расцвтка
+loli_forestry.rootFlowers.chromosome.sappiness.short=Нектар
+loli_forestry.rootFlowers.chromosome.secondary.short=Доп. расцветка
+loli_forestry.rootFlowers.chromosome.stem.short=Цвет стебля
+loli_forestry.rootFlowers.chromosome.temperature_tolerance.short=Температура
+loli_forestry.rootFlowers.chromosome.territory.short=Рабочая зона
+loli_forestry.rootTrees.chromosome.effect.short=Эффект
+loli_forestry.rootTrees.chromosome.fertility.short=Плодовитость
+loli_forestry.rootTrees.chromosome.fireproof.short=Огнестойкость
+loli_forestry.rootTrees.chromosome.fruits.short=Плоды
+loli_forestry.rootTrees.chromosome.girth.short=Область посадки
+loli_forestry.rootTrees.chromosome.growth.short=Условие роста
+loli_forestry.rootTrees.chromosome.height.short=Высота
+loli_forestry.rootTrees.chromosome.maturation.short=Созревание
+loli_forestry.rootTrees.chromosome.plant.short=Биом
+loli_forestry.rootTrees.chromosome.sappiness.short=Жизнеспособность
+loli_forestry.rootTrees.chromosome.territory.short=Местность
+loli_forestry.rootTrees.chromosome.yield.short=Урожай
+loli_forestry:item.advanced_soldering_iron.name=Продвинутый паяльник
+loli_forestry:item.codex_life.name=Кодекс жизни
+loli_forestry:item.crystallized_honeycomb_cluster.name=Кристаллизованное скопление сот
+loli_forestry:item.frame_perfect_apiary.name=Корпус совершенной пасеки
+loli_forestry:item.hive_upgrade.cost=Затраты: \n- {energy_amount} EU/t\n- {fluid_amount} mB/t
+loli_forestry:item.hive_upgrade.name=Модуль
+loli_forestry:item.hive_upgrade_automation.description=Автоматизирует подачу трутней в слот трутней при смерти матки
+loli_forestry:item.hive_upgrade_automation.name=Механизирующий модуль улья
+loli_forestry:item.hive_upgrade_clear_pollen.description=Забирает возможность пчелам опылять деревья и создавать цветы вокруг себя
+loli_forestry:item.hive_upgrade_clear_pollen.name=Очистительный модуль улья
+loli_forestry:item.hive_upgrade_decrease_life.description=Снижает время жизни пчел до одного цикла
+loli_forestry:item.hive_upgrade_decrease_life.name=Модуль уменьшение продолжительности жизни улья
+loli_forestry:item.hive_upgrade_efficiency_lvl_1.description=Повышает продуктивность на 250%
+loli_forestry:item.hive_upgrade_efficiency_lvl_1.name=Обработанный модуль улья
+loli_forestry:item.hive_upgrade_efficiency_lvl_2.description=Повышает продуктивность на 500%
+loli_forestry:item.hive_upgrade_efficiency_lvl_2.name=Проверенный модуль улья
+loli_forestry:item.hive_upgrade_efficiency_lvl_3.description=Повышает продуктивность на 1000%
+loli_forestry:item.hive_upgrade_efficiency_lvl_3.name=Пропитанный модуль улья
+loli_forestry:item.hive_upgrade_genetics.description=Убирает возможность смерти пчелы с низкой породой
+loli_forestry:item.hive_upgrade_genetics.name=Модуль генетического вмешательства улья
+loli_forestry:item.hive_upgrade_increase_life.description=Удлиняет продолжительность жизни пчел в 10 раз
+loli_forestry:item.hive_upgrade_increase_life.name=Модуль увеличение продолжительности жизни улья
+loli_forestry:item.hive_upgrade_mutation.description=Повышает шанс мутации пчел до 100%
+loli_forestry:item.hive_upgrade_mutation.name=Модуль мутации улья
+loli_forestry:item.hive_upgrade_performance.description=Позволяет пчелам работать в ночное время и в пещере
+loli_forestry:item.hive_upgrade_performance.name=Модуль вечной работоспособности улья
+loli_forestry:item.hive_upgrade_pollen.description=Иногда дает пыльцу с ближайших деревьев
+loli_forestry:item.hive_upgrade_pollen.name=Модуль эластичного сита улья
+loli_forestry:item.hive_upgrade_stack.description=Пчелы дают сразу по стаку своей продукции
+loli_forestry:item.hive_upgrade_stack.name=Модуль промышленной работы улья
+loli_forestry:item.honeycomb_cluster.name=Скопление сот
+loli_forestry:item.honeycomb_plate.name=Пластина из скопления сот
+loli_forestry:item.nectar_soaked_assembly_tool.name=Пропитанный нектаром инструмент сборки
+loli_forestry:item.upgrade_infinity.name=Улучшение пасеки: Бесконечность
+loli_forestry:item.upgrade_luck.desc=Увеличивает в 5 раз шанс получения дополнительной продукции при генерации в пасеке
+loli_forestry:item.upgrade_luck.name=Улучшение пасеки: Удача
+loli_forestry:item.upgrade_speed0.name=Улучшение пасеки: Скорость | 1 ур.
+loli_forestry:item.upgrade_speed1.name=Улучшение пасеки: Скорость | 2 ур.
+loli_forestry:item.upgrade_speed2.name=Улучшение пасеки: Скорость | 3 ур.
+loli_forestry:tile.bee_basis.name=Пчелиная основа
+loli_forestry:tile.bee_coverage.name=Пчелиное покрытие
+loli_forestry:tile.bee_factory.name=Ядро пчелиной фабрики
+loli_forestry:tile.bee_glass.name=Пчелиное стекло
+loli_forestry:tile.industrial_hive.name=Ядро промышленного улья
+loli_forestry:tile.industrial_hive_block.name=Блок промышленного улья
+loli_forestry:tile.industrial_hive_glass.name=Стекло промышленного улья
+tile.IndustrialApiary.name=Совершенная пасека
+tile.PerfectMagicalApiary.name=Совершенная пасека
+tile.centrifuge.name=Совершенная Центрифуга
+tile.hibiscus.name=Механический Гибискус
+tile.nutrient.name=Синтетический нектар
+tile.uleysint.name=Механический Улейцинт
+Бак для жидкости:
+Запомнить крафт:
+Получить
+Предыдущая
+Следующая
+Сохранить
+Требуется:
+Удалить
+запомнено
+не запомнено

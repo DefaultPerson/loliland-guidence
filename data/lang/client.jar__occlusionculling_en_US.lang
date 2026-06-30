@@ -1,0 +1,7 @@
+occlusionculling:key.category=Occlusion Culling
+occlusionculling:key.toggleCulling=Toggle Occlusion Culling
+
+occlusionculling:msg.toggleCulling.enable=Occlusion Culling enabled
+occlusionculling:msg.toggleCulling.disable=Occlusion Culling disabled
+
+options.occlusionCulling=Occlusion Culling

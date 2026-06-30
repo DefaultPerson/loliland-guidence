@@ -1,0 +1,628 @@
+language.name=Russian
+language.region=RU
+language.code=ru_RU
+
+lolidecorative.itemGroup.main=LoliDecorative: Основа
+lolidecorative.itemGroup.neon=LoliDecorative: Неон
+lolidecorative.itemGroup.light=LoliDecorative: Свет
+lolidecorative.itemGroup.gothic=LoliDecorative: Готическое
+lolidecorative.itemGroup.ice=LoliDecorative: Лёд
+lolidecorative.itemGroup.marble=LoliDecorative: Мрамор
+lolidecorative.itemGroup.forest=LoliDecorative: Лес
+lolidecorative.itemGroup.japan=LoliDecorative: Япония
+
+lolidecorative.tile.coloredBlack.name=Черный блок
+lolidecorative.tile.coloredDarkBlue.name=Темно-синий блок
+lolidecorative.tile.coloredDarkGreen.name=Темно-зеленый блок
+lolidecorative.tile.coloredDarkCyan.name=Темно-бирюзовый блок
+lolidecorative.tile.coloredDarkRed.name=Темно-красный блок
+lolidecorative.tile.coloredDarkViolet.name=Темно-фиолетовый блок
+lolidecorative.tile.coloredOrange.name=Оранжевый блок
+lolidecorative.tile.coloredGray.name=Серый блок
+lolidecorative.tile.coloredDarkGray.name=Темно-серый блок
+lolidecorative.tile.coloredLightBlue.name=Голубой блок
+lolidecorative.tile.coloredGreen.name=Зеленый блок
+lolidecorative.tile.coloredCyan.name=Бирюзовый блок
+lolidecorative.tile.coloredRed.name=Красный блок
+lolidecorative.tile.coloredViolet.name=Фиолетовый блок
+lolidecorative.tile.coloredYellow.name=Желтый блок
+lolidecorative.tile.coloredWhite.name=Белый блок
+
+lolidecorative.tile.coloredBlackStairs.name=Черные ступеньки
+lolidecorative.tile.coloredDarkBlueStairs.name=Темно-синие ступеньки
+lolidecorative.tile.coloredDarkGreenStairs.name=Темно-зеленые ступеньки
+lolidecorative.tile.coloredDarkCyanStairs.name=Темно-бирюзовые ступеньки
+lolidecorative.tile.coloredDarkRedStairs.name=Темно-красные ступеньки
+lolidecorative.tile.coloredDarkVioletStairs.name=Темно-фиолетовые ступеньки
+lolidecorative.tile.coloredOrangeStairs.name=Оранжевые ступеньки
+lolidecorative.tile.coloredGrayStairs.name=Серые ступеньки
+lolidecorative.tile.coloredDarkGrayStairs.name=Темно-серые ступеньки
+lolidecorative.tile.coloredLightBlueStairs.name=Голубые ступеньки
+lolidecorative.tile.coloredGreenStairs.name=Зеленые ступеньки
+lolidecorative.tile.coloredCyanStairs.name=Бирюзовые ступеньки
+lolidecorative.tile.coloredRedStairs.name=Красные ступеньки
+lolidecorative.tile.coloredVioletStairs.name=Фиолетовые ступеньки
+lolidecorative.tile.coloredYellowStairs.name=Желтые ступеньки
+lolidecorative.tile.coloredWhiteStairs.name=Белые ступеньки
+
+lolidecorative.tile.coloredBlackFence.name=Черный забор
+lolidecorative.tile.coloredDarkBlueFence.name=Темно-синий забор
+lolidecorative.tile.coloredDarkGreenFence.name=Темно-зеленый забор
+lolidecorative.tile.coloredDarkCyanFence.name=Темно-бирюзовый забор
+lolidecorative.tile.coloredDarkRedFence.name=Темно-красный забор
+lolidecorative.tile.coloredDarkVioletFence.name=Темно-фиолетовый забор
+lolidecorative.tile.coloredOrangeFence.name=Темно-оранжевый забор
+lolidecorative.tile.coloredGrayFence.name=Серый забор
+lolidecorative.tile.coloredDarkGrayFence.name=Темно-серый забор
+lolidecorative.tile.coloredLightBlueFence.name=Голубой забор
+lolidecorative.tile.coloredGreenFence.name=Зеленый забор
+lolidecorative.tile.coloredCyanFence.name=Бирюзовый забор
+lolidecorative.tile.coloredRedFence.name=Красный забор
+lolidecorative.tile.coloredVioletFence.name=Фиолетовый забор
+lolidecorative.tile.coloredYellowFence.name=Желтый забор
+lolidecorative.tile.coloredWhiteFence.name=Белый забор
+
+lolidecorative.tile.coloredBlackWall.name=Черная ограда
+lolidecorative.tile.coloredDarkBlueWall.name=Темно-синяя ограда
+lolidecorative.tile.coloredDarkGreenWall.name=Темно-зеленая ограда
+lolidecorative.tile.coloredDarkCyanWall.name=Темно-бирюзовая ограда
+lolidecorative.tile.coloredDarkRedWall.name=Темно-красная ограда
+lolidecorative.tile.coloredDarkVioletWall.name=Темно-фиолетовая ограда
+lolidecorative.tile.coloredOrangeWall.name=Оранжевая ограда
+lolidecorative.tile.coloredGrayWall.name=Серая ограда
+lolidecorative.tile.coloredDarkGrayWall.name=Темно-серая ограда
+lolidecorative.tile.coloredLightBlueWall.name=Голубая ограда
+lolidecorative.tile.coloredGreenWall.name=Зеленая ограда
+lolidecorative.tile.coloredCyanWall.name=Бирюзовая ограда
+lolidecorative.tile.coloredRedWall.name=Красная ограда
+lolidecorative.tile.coloredVioletWall.name=Фиолетовая ограда
+lolidecorative.tile.coloredYellowWall.name=Желтая ограда
+lolidecorative.tile.coloredWhiteWall.name=Белая ограда
+
+lolidecorative.tile.coloredBlackSlab.name=Черная плита
+lolidecorative.tile.coloredDarkBlueSlab.name=Темно-синияя плита
+lolidecorative.tile.coloredDarkGreenSlab.name=Темно-зелёная плита
+lolidecorative.tile.coloredDarkCyanSlab.name=Темно-бирюзовая плита
+lolidecorative.tile.coloredDarkRedSlab.name=Темно-красная плита
+lolidecorative.tile.coloredDarkVioletSlab.name=Темно-фиолетовая плита
+lolidecorative.tile.coloredOrangeSlab.name=Оранжевая плита
+lolidecorative.tile.coloredGraySlab.name=Серая плита
+lolidecorative.tile.coloredDarkGraySlab.name=Темно-серая плита
+lolidecorative.tile.coloredLightBlueSlab.name=Голубая плита
+lolidecorative.tile.coloredGreenSlab.name=Зеленая плита
+lolidecorative.tile.coloredCyanSlab.name=Бирюзовая плита
+lolidecorative.tile.coloredRedSlab.name=Красная плита
+lolidecorative.tile.coloredVioletSlab.name=Фиолетовая плита
+lolidecorative.tile.coloredYellowSlab.name=Желтая плита
+lolidecorative.tile.coloredWhiteSlab.name=Белая плита
+
+lolidecorative.tile.coloredBricksBlack.name=Черные кирпичи
+lolidecorative.tile.coloredBricksDarkBlue.name=Темно-синие кирпичи
+lolidecorative.tile.coloredBricksDarkGreen.name=Темно-зелёные кирпичи
+lolidecorative.tile.coloredBricksDarkCyan.name=Темно-бирюзовые кирпичи
+lolidecorative.tile.coloredBricksDarkRed.name=Темно-красные кирпичи
+lolidecorative.tile.coloredBricksDarkViolet.name=Темно-фиолетовые кирпичи
+lolidecorative.tile.coloredBricksOrange.name=Оранжевые кирпичи
+lolidecorative.tile.coloredBricksGray.name=Серые кирпичи
+lolidecorative.tile.coloredBricksDarkGray.name=Темно-серые кирпичи
+lolidecorative.tile.coloredBricksLightBlue.name=Голубые кирпичи
+lolidecorative.tile.coloredBricksGreen.name=Зеленые кирпичи
+lolidecorative.tile.coloredBricksCyan.name=Бирюзовые кирпичи
+lolidecorative.tile.coloredBricksRed.name=Красные кирпичи
+lolidecorative.tile.coloredBricksViolet.name=Фиолетовые кирпичи
+lolidecorative.tile.coloredBricksYellow.name=Желтые кирпичи
+lolidecorative.tile.coloredBricksWhite.name=Белые кирпичи
+
+lolidecorative.tile.coloredBricksBlackStairs.name=Черные кирпичные ступеньки
+lolidecorative.tile.coloredBricksDarkBlueStairs.name=Темно-синие кирпичные ступеньки
+lolidecorative.tile.coloredBricksDarkGreenStairs.name=Темно-зелёные кирпичные ступеньки
+lolidecorative.tile.coloredBricksDarkCyanStairs.name=Темно-бирюзовые кирпичные ступеньки
+lolidecorative.tile.coloredBricksDarkRedStairs.name=Темно-красные кирпичные ступеньки
+lolidecorative.tile.coloredBricksDarkVioletStairs.name=Темно-фиолетовые кирпичные ступеньки
+lolidecorative.tile.coloredBricksOrangeStairs.name=Оранжевые кирпичные ступеньки
+lolidecorative.tile.coloredBricksGrayStairs.name=Серые кирпичные ступеньки
+lolidecorative.tile.coloredBricksDarkGrayStairs.name=Темно-серые кирпичные ступеньки
+lolidecorative.tile.coloredBricksLightBlueStairs.name=Голубые кирпичные ступеньки
+lolidecorative.tile.coloredBricksGreenStairs.name=Зеленые кирпичные ступеньки
+lolidecorative.tile.coloredBricksCyanStairs.name=Бирюзовые кирпичные ступеньки
+lolidecorative.tile.coloredBricksRedStairs.name=Красные кирпичные ступеньки
+lolidecorative.tile.coloredBricksVioletStairs.name=Фиолетовые кирпичные ступеньки
+lolidecorative.tile.coloredBricksYellowStairs.name=Желтые кирпичные ступеньки
+lolidecorative.tile.coloredBricksWhiteStairs.name=Белые кирпичные ступеньки
+
+lolidecorative.tile.coloredBricksBlackWall.name=Черная кирпичная ограда
+lolidecorative.tile.coloredBricksDarkBlueWall.name=Темно-синяя кирпичная ограда
+lolidecorative.tile.coloredBricksDarkGreenWall.name=Темно-зелёная кирпичная ограда
+lolidecorative.tile.coloredBricksDarkCyanWall.name=Темно-бирюзовая кирпичная ограда
+lolidecorative.tile.coloredBricksDarkRedWall.name=Темно-красная кирпичная ограда
+lolidecorative.tile.coloredBricksDarkVioletWall.name=Темно-фиолетовая кирпичная ограда
+lolidecorative.tile.coloredBricksOrangeWall.name=Оранжевая кирпичная ограда
+lolidecorative.tile.coloredBricksGrayWall.name=Серая кирпичная ограда
+lolidecorative.tile.coloredBricksDarkGrayWall.name=Темно-серая кирпичная ограда
+lolidecorative.tile.coloredBricksLightBlueWall.name=Голубая кирпичная ограда
+lolidecorative.tile.coloredBricksGreenWall.name=Зеленая кирпичная ограда
+lolidecorative.tile.coloredBricksCyanWall.name=Бирюзовая кирпичная ограда
+lolidecorative.tile.coloredBricksRedWall.name=Красная кирпичная ограда
+lolidecorative.tile.coloredBricksVioletWall.name=Фиолетовая кирпичная ограда
+lolidecorative.tile.coloredBricksYellowWall.name=Желтая кирпичная ограда
+lolidecorative.tile.coloredBricksWhiteWall.name=Белая кирпичная ограда
+
+lolidecorative.tile.coloredBricksBlackSlab.name=Черная кирпичная плитка
+lolidecorative.tile.coloredBricksDarkBlueSlab.name=Темно-синяя кирпичная плитка
+lolidecorative.tile.coloredBricksDarkGreenSlab.name=Темно-зелёная кирпичная плитка
+lolidecorative.tile.coloredBricksDarkCyanSlab.name=Темно-бирюзовая кирпичная плитка
+lolidecorative.tile.coloredBricksDarkRedSlab.name=Темно-красная кирпичная плитка
+lolidecorative.tile.coloredBricksDarkVioletSlab.name=Темно-фиолетовая кирпичная плитка
+lolidecorative.tile.coloredBricksOrangeSlab.name=Оранжевая кирпичная плитка
+lolidecorative.tile.coloredBricksGraySlab.name=Серая кирпичная плитка
+lolidecorative.tile.coloredBricksDarkGraySlab.name=Темно-серая кирпичная плитка
+lolidecorative.tile.coloredBricksLightBlueSlab.name=Голубая кирпичная плитка
+lolidecorative.tile.coloredBricksGreenSlab.name=Зеленая кирпичная плитка
+lolidecorative.tile.coloredBricksCyanSlab.name=Бирюзовая кирпичная плитка
+lolidecorative.tile.coloredBricksRedSlab.name=Красная кирпичная плитка
+lolidecorative.tile.coloredBricksVioletSlab.name=Фиолетовая кирпичная плитка
+lolidecorative.tile.coloredBricksYellowSlab.name=Желтая кирпичная плитка
+lolidecorative.tile.coloredBricksWhiteSlab.name=Белая кирпичная плитка
+
+lolidecorative.tile.coloredLightBlack.name=Черная лампа
+lolidecorative.tile.coloredLightDarkBlue.name=Темно-синяя лампа
+lolidecorative.tile.coloredLightDarkGreen.name=Темно-зелёная лампа
+lolidecorative.tile.coloredLightDarkCyan.name=Темно-бирюзовая лампа
+lolidecorative.tile.coloredLightDarkRed.name=Темно-красная лампа
+lolidecorative.tile.coloredLightDarkViolet.name=Темно-фиолетовая лампа
+lolidecorative.tile.coloredLightOrange.name=Оранжевая лампа
+lolidecorative.tile.coloredLightGray.name=Серая лампа
+lolidecorative.tile.coloredLightDarkGray.name=Темно-серая лампа
+lolidecorative.tile.coloredLightLightBlue.name=Голубая лампа
+lolidecorative.tile.coloredLightGreen.name=Зеленая лампа
+lolidecorative.tile.coloredLightCyan.name=Бирюзовая лампа
+lolidecorative.tile.coloredLightRed.name=Красная лампа
+lolidecorative.tile.coloredLightViolet.name=Фиолетовая лампа
+lolidecorative.tile.coloredLightYellow.name=Желтая лампа
+lolidecorative.tile.coloredLightWhite.name=Белая лампа
+
+lolidecorative.tile.coloredStoneBlack.name=Черный камень
+lolidecorative.tile.coloredStoneDarkBlue.name=Темно-синий камень
+lolidecorative.tile.coloredStoneDarkGreen.name=Темно-зелёный камень
+lolidecorative.tile.coloredStoneDarkCyan.name=Темно-бирюзовый камень
+lolidecorative.tile.coloredStoneDarkRed.name=Темно-красный камень
+lolidecorative.tile.coloredStoneDarkViolet.name=Темно-фиолетовый камень
+lolidecorative.tile.coloredStoneOrange.name=Оранжевый камень
+lolidecorative.tile.coloredStoneGray.name=Серый камень
+lolidecorative.tile.coloredStoneDarkGray.name=Темно-серый камень
+lolidecorative.tile.coloredStoneLightBlue.name=Голубой камень
+lolidecorative.tile.coloredStoneGreen.name=Зеленый камень
+lolidecorative.tile.coloredStoneCyan.name=Бирюзовый камень
+lolidecorative.tile.coloredStoneRed.name=Красный камень
+lolidecorative.tile.coloredStoneViolet.name=Фиолетовый камень
+lolidecorative.tile.coloredStoneYellow.name=Желтый камень
+lolidecorative.tile.coloredStoneWhite.name=Белый камень
+
+lolidecorative.tile.coloredStoneBlackWall.name=Черная каменная ограда
+lolidecorative.tile.coloredStoneDarkBlueWall.name=Темно-синяя каменная ограда
+lolidecorative.tile.coloredStoneDarkGreenWall.name=Темно-зелёная каменная ограда
+lolidecorative.tile.coloredStoneDarkCyanWall.name=Темно-бирюзовая каменная ограда
+lolidecorative.tile.coloredStoneDarkRedWall.name=Темно-красная каменная ограда
+lolidecorative.tile.coloredStoneDarkVioletWall.name=Темно-фиолетовая каменная ограда
+lolidecorative.tile.coloredStoneOrangeWall.name=Оранжевая каменная ограда
+lolidecorative.tile.coloredStoneGrayWall.name=Серая каменная ограда
+lolidecorative.tile.coloredStoneDarkGrayWall.name=Темно-серая каменная ограда
+lolidecorative.tile.coloredStoneLightBlueWall.name=Голубая каменная ограда
+lolidecorative.tile.coloredStoneGreenWall.name=Зеленая каменная ограда
+lolidecorative.tile.coloredStoneCyanWall.name=Бирюзовая каменная ограда
+lolidecorative.tile.coloredStoneRedWall.name=Красная каменная ограда
+lolidecorative.tile.coloredStoneVioletWall.name=Фиолетовая каменная ограда
+lolidecorative.tile.coloredStoneYellowWall.name=Желтая каменная ограда
+lolidecorative.tile.coloredStoneWhiteWall.name=Белая каменная ограда
+
+lolidecorative.tile.coloredGrassBlack.name=Черная трава
+lolidecorative.tile.coloredGrassDarkBlue.name=Темно-синяя трава
+lolidecorative.tile.coloredGrassDarkGreen.name=Темно-зелёная трава
+lolidecorative.tile.coloredGrassDarkCyan.name=Темно-бирюзовая трава
+lolidecorative.tile.coloredGrassDarkRed.name=Темно-красная трава
+lolidecorative.tile.coloredGrassDarkViolet.name=Темно-фиолетовая трава
+lolidecorative.tile.coloredGrassOrange.name=Оранжевая трава
+lolidecorative.tile.coloredGrassGray.name=Серая трава
+lolidecorative.tile.coloredGrassDarkGray.name=Темно-серая трава
+lolidecorative.tile.coloredGrassLightBlue.name=Голубая трава
+lolidecorative.tile.coloredGrassGreen.name=Зеленая трава
+lolidecorative.tile.coloredGrassCyan.name=Бирюзовая трава
+lolidecorative.tile.coloredGrassRed.name=Красная трава
+lolidecorative.tile.coloredGrassViolet.name=Фиолетовая трава
+lolidecorative.tile.coloredGrassYellow.name=Желтая трава
+lolidecorative.tile.coloredGrassWhite.name=Белая трава
+
+lolidecorative.tile.coloredGrassFlowersBlack.name=Черная трава с цветами
+lolidecorative.tile.coloredGrassFlowersDarkBlue.name=Темно-синяя трава с цветами
+lolidecorative.tile.coloredGrassFlowersDarkGreen.name=Темно-зелёная трава с цветами
+lolidecorative.tile.coloredGrassFlowersDarkCyan.name=Темно-бирюзовая трава с цветами
+lolidecorative.tile.coloredGrassFlowersDarkRed.name=Темно-красная трава с цветами
+lolidecorative.tile.coloredGrassFlowersDarkViolet.name=Темно-фиолетовая трава с цветами
+lolidecorative.tile.coloredGrassFlowersOrange.name=Оранжевая трава с цветами
+lolidecorative.tile.coloredGrassFlowersGray.name=Серая трава с цветами
+lolidecorative.tile.coloredGrassFlowersDarkGray.name=Темно-серая трава с цветами
+lolidecorative.tile.coloredGrassFlowersLightBlue.name=Голубая трава с цветами
+lolidecorative.tile.coloredGrassFlowersGreen.name=Зеленая трава с цветами
+lolidecorative.tile.coloredGrassFlowersCyan.name=Бирюзовая трава с цветами
+lolidecorative.tile.coloredGrassFlowersRed.name=Красная трава с цветами
+lolidecorative.tile.coloredGrassFlowersViolet.name=Фиолетовая трава с цветами
+lolidecorative.tile.coloredGrassFlowersYellow.name=Желтая трава с цветами
+lolidecorative.tile.coloredGrassFlowersWhite.name=Белая трава с цветами
+
+lolidecorative.tile.streetCobblestone.name=Уличный булыжник
+lolidecorative.tile.wideMasonry.name=Широкая каменная кладка
+lolidecorative.tile.stoneBrick.name=Каменная кладка
+lolidecorative.tile.crossMasonry.name=Перекрестная кладка
+lolidecorative.tile.darkStreetCobblestone.name=Темный уличный булыжник
+lolidecorative.tile.darkWideMasonry.name=Темная широкая каменная кладка
+lolidecorative.tile.darkStoneBrick.name=Темная каменная кладка
+lolidecorative.tile.darkCrossMasonry.name=Темная перекрестная кладка
+lolidecorative.tile.lightStreetCobblestone.name=Светлый уличный булыжник
+lolidecorative.tile.lightWideMasonry.name=Светлая широкая каменная кладка
+lolidecorative.tile.lightStoneBrick.name=Светлая каменная кладка
+lolidecorative.tile.lightCrossMasonry.name=Светлая перекрестная кладка
+
+lolidecorative.tile.streetCobblestoneStairs.name=Ступеньки из уличного булыжника
+lolidecorative.tile.wideMasonryStairs.name=Ступеньки из широкой каменной кладки
+lolidecorative.tile.stoneBrickStairs.name=Ступеньки из каменной кладки
+lolidecorative.tile.crossMasonryStairs.name=Ступеньки из перекрестной кладки
+lolidecorative.tile.darkStreetCobblestoneStairs.name=Ступеньки из темного уличного булыжника
+lolidecorative.tile.darkWideMasonryStairs.name=Ступеньки из темной широкой уличной кладки
+lolidecorative.tile.darkStoneBrickStairs.name=Ступеньки из темной каменной кладки
+lolidecorative.tile.darkCrossMasonryStairs.name=Ступеньки из темной перекрестной кладки
+lolidecorative.tile.lightStreetCobblestoneStairs.name=Ступеньки из светлого уличного булыжника
+lolidecorative.tile.lightWideMasonryStairs.name=Ступеньки из свтелой уличной кладки
+lolidecorative.tile.lightStoneBrickStairs.name=Ступеньки из светлой каменной кладки
+lolidecorative.tile.lightCrossMasonryStairs.name=Ступеньки из светлой перекрестной кладки
+
+lolidecorative.tile.streetCobblestoneWall.name=Ограда из уличного булыжника
+lolidecorative.tile.wideMasonryWall.name=Ограда из широкой каменной кладки
+lolidecorative.tile.stoneBrickWall.name=Ограда из каменной кладки
+lolidecorative.tile.crossMasonryWall.name=Ограда из перекрестной кладки
+lolidecorative.tile.darkStreetCobblestoneWall.name=Ограда из темного уличного булыжника
+lolidecorative.tile.darkWideMasonryWall.name=Ограда из темной широкой уличной кладки
+lolidecorative.tile.darkStoneBrickWall.name=Ограда из темной каменной кладки
+lolidecorative.tile.darkCrossMasonryWall.name=Ограда из темной перекрестной кладки
+lolidecorative.tile.lightStreetCobblestoneWall.name=Ограда из светлого уличного булыжника
+lolidecorative.tile.lightWideMasonryWall.name=Ограда из свтелой уличной кладки
+lolidecorative.tile.lightStoneBrickWall.name=Ограда из светлой каменной кладки
+lolidecorative.tile.lightCrossMasonryWall.name=Ограда из светлой перекрестной кладки
+
+lolidecorative.tile.streetCobblestoneSlab.name=Плита из уличного булыжника
+lolidecorative.tile.wideMasonrySlab.name=Плита из широкой каменной кладки
+lolidecorative.tile.stoneBrickSlab.name=Плита из каменной кладки
+lolidecorative.tile.crossMasonrySlab.name=Плита из перекрестной кладки
+lolidecorative.tile.darkStreetCobblestoneSlab.name=Плита из темного уличного булыжника
+lolidecorative.tile.darkWideMasonrySlab.name=Плита из темной широкой уличной кладки
+lolidecorative.tile.darkStoneBrickSlab.name=Плита из темной каменной кладки
+lolidecorative.tile.darkCrossMasonrySlab.name=Плита из темной перекрестной кладки
+lolidecorative.tile.lightStreetCobblestoneSlab.name=Плита из светлого уличного булыжника
+lolidecorative.tile.lightWideMasonrySlab.name=Плита из свтелой уличной кладки
+lolidecorative.tile.lightStoneBrickSlab.name=Плита из светлой каменной кладки
+lolidecorative.tile.lightCrossMasonrySlab.name=Плита из светлой перекрестной кладки
+
+lolidecorative.tile.orangeTile.name=Оранжевая плитка
+lolidecorative.tile.violetTile.name=Фиолетовая плитка
+lolidecorative.tile.greenTile.name=Зеленая плитка
+lolidecorative.tile.lightBlueTile.name=Голубая плитка
+lolidecorative.tile.redTile.name=Красная плитка
+lolidecorative.tile.orangeBurningTile.name=Оранжевая горящая плитка
+lolidecorative.tile.violetBurningTile.name=Фиолетовая горящая плитка
+lolidecorative.tile.greenBurningTile.name=Зеленая горящая плитка
+lolidecorative.tile.lightBlueBurningTile.name=Голубая горящая плитка
+lolidecorative.tile.redBurningTile.name=Красная горящая плитка
+
+lolidecorative.tile.orangeTileWall.name=Ограда из оранжевой плитки
+lolidecorative.tile.violetTileWall.name=Ограда из фиолетовой плитки
+lolidecorative.tile.greenTileWall.name=Ограда из зеленой плитки
+lolidecorative.tile.lightBlueTileWall.name=Ограда из голубой плитки
+lolidecorative.tile.redTileWall.name=Ограда из красной плитки
+lolidecorative.tile.orangeBurningTileWall.name=Ограда из оранжевой горящей плитки
+lolidecorative.tile.violetBurningTileWall.name=Ограда из фиолетовой горящей плитки
+lolidecorative.tile.greenBurningTileWall.name=Ограда из зеленой горящей плитки
+lolidecorative.tile.lightBlueBurningTileWall.name=Ограда из голубой горящей плитки
+lolidecorative.tile.redBurningTileWall.name=Ограда из красной горящей плитки
+
+lolidecorative.tile.orangeGlowStone.name=Оранжевый светящийся камень
+lolidecorative.tile.violetGlowStone.name=Фиолетовый светящийся камень
+lolidecorative.tile.greenGlowStone.name=Зеленый светящийся камень
+lolidecorative.tile.lightBlueGlowStone.name=Голубой светящийся камень
+lolidecorative.tile.redGlowStone.name=Красный светящийся камень
+
+lolidecorative.tile.glitch.name=Глитч
+lolidecorative.tile.orangeGlitch.name=Глитч: оранжевый
+lolidecorative.tile.violetGlitch.name=Глитч: фиолетовый
+lolidecorative.tile.greenGlitch.name=Глитч: зеленый
+lolidecorative.tile.lightBlueGlitch.name=Глитч: голубой
+lolidecorative.tile.redGlitch.name=Глитч: красный
+
+lolidecorative.tile.beigeShiningBlock.name=Бежевый сияющий блок
+lolidecorative.tile.lilacShiningBlock.name=Сиреневый сияющий блок
+lolidecorative.tile.greenShiningBlock.name=Зеленый сияющий блок
+lolidecorative.tile.lightBlueShiningBlock.name=Голубой сияющий блок
+lolidecorative.tile.pinkShiningBlock.name=Розовый сияющий блок
+
+lolidecorative.tile.beigeShiningBlockWall.name=Бежевая сияющая ограда
+lolidecorative.tile.lilacShiningBlockWall.name=Сиреневая сияющая ограда
+lolidecorative.tile.greenShiningBlockWall.name=Зеленая сияющая ограда
+lolidecorative.tile.lightBlueShiningBlockWall.name=Голубая сияющая ограда
+lolidecorative.tile.pinkShiningBlockWall.name=Розовая сияющая ограда
+
+lolidecorative.tile.ashMarble.name=Пепельный мрамор
+lolidecorative.tile.pinkMarble.name=Розовый мрамор
+lolidecorative.tile.lightBlueMarble.name=Голубой мрамор
+lolidecorative.tile.aureateMarble.name=Золотистый мрамор
+lolidecorative.tile.blackMarble.name=Черный мрамор
+
+lolidecorative.tile.ashMarbleWall.name=Ограда из пепельного мрамора
+lolidecorative.tile.pinkMarbleWall.name=Ограда из розового мрамора
+lolidecorative.tile.lightBlueMarbleWall.name=Ограда из голубого мрамора
+lolidecorative.tile.aureateMarbleWall.name=Ограда из золотистого мрамора
+lolidecorative.tile.blackMarbleWall.name=Ограда из черного мрамора
+
+lolidecorative.tile.ashChiseledMarble.name=Резной пепельный мрамор
+lolidecorative.tile.pinkChiseledMarble.name=Резной розовый мрамор
+lolidecorative.tile.lightBlueChiseledMarble.name=Резной голубой мрамор
+lolidecorative.tile.aureateChiseledMarble.name=Резной золотистый мрамор
+lolidecorative.tile.blackChiseledMarble.name=Резной черный мрамор
+
+lolidecorative.tile.blackDecorativeMarble.name=Черный декоративный мрамор
+lolidecorative.tile.unevenMasonry.name=Неровная каменная кладка
+lolidecorative.tile.azureMarble.name=Лазурный мрамор
+
+lolidecorative.tile.blackDecorativeMarbleWall.name=Ограда из черного декоративного мрамора
+lolidecorative.tile.unevenMasonryWall.name=Ограда из неровной каменной кладки
+lolidecorative.tile.azureMarbleWall.name=Ограда из лазурного мрамора
+
+lolidecorative.tile.ashMarblePillar.name=Пепельная мраморная колонна
+lolidecorative.tile.pinkMarblePillar.name=Розовая мраморная колонна
+lolidecorative.tile.lightBlueMarblePillar.name=Голубая мраморная колонна
+lolidecorative.tile.aureateMarblePillar.name=Золотистая мраморная колонна
+lolidecorative.tile.blackMarblePillar.name=Черная мраморная колонна
+
+lolidecorative.tile.amberPlanks.name=Янтарные доски
+lolidecorative.tile.niveousPlanks.name=Белоснежные доски
+lolidecorative.tile.burgundyPlanks.name=Бордовые доски
+
+lolidecorative.tile.amberPlanksSlab.name=Янтарная плита
+lolidecorative.tile.niveousPlanksSlab.name=Белоснежная плита
+lolidecorative.tile.burgundyPlanksSlab.name=Бордовая плита
+
+lolidecorative.tile.amberPlanksStairs.name=Янтарные ступеньки
+lolidecorative.tile.niveousPlanksStairs.name=Белоснежные ступеньки
+lolidecorative.tile.burgundyPlanksStairs.name=Бордовые ступеньки
+
+lolidecorative.tile.amberPlanksFence.name=Янтарный забор
+lolidecorative.tile.niveousPlanksFence.name=Белоснежный забор
+lolidecorative.tile.burgundyPlanksFence.name=Бордовый забор
+
+lolidecorative.tile.amberChiseledPlanks.name=Янтарные резные доски
+lolidecorative.tile.niveousChiseledPlanks.name=Белоснежные резные доски
+lolidecorative.tile.burgundyChiseledPlanks.name=Бордовые резные доски
+
+lolidecorative.tile.gothicStone.name=Готический камень
+lolidecorative.tile.gothicDarkStone.name=Темный готический камень
+lolidecorative.tile.chiseledGothicStone.name=Резной готический камень
+lolidecorative.tile.chiseledGothicDarkStone.name=Резной темный готический камень
+
+lolidecorative.tile.gothicStoneSlab.name=Плита из готического камня
+lolidecorative.tile.gothicDarkStoneSlab.name=Плита из темного готического камня
+
+lolidecorative.tile.gothicStoneStairs.name=Ступеньки из готического камня
+lolidecorative.tile.gothicDarkStoneStairs.name=Ступеньки из темного готического камня
+
+lolidecorative.tile.gothicStoneWall.name=Ограда из готического камня
+lolidecorative.tile.gothicDarkStoneWall.name=Ограда из темного готического камня
+
+lolidecorative.tile.amberPlanksInStone.name=Янтарная плита в камне
+lolidecorative.tile.niveousPlanksInStone.name=Белоснежная плита в камне
+lolidecorative.tile.burgundyPlanksInStone.name=Бордовая плита в камне
+lolidecorative.tile.amberPlanksInDarkStone.name=Янтарная плита в темном камне
+lolidecorative.tile.niveousPlanksInDarkStone.name=Белоснежная плита в темном камне
+lolidecorative.tile.burgundyPlanksInDarkStone.name=Бордовая плита в темном камне
+lolidecorative.tile.gothicLightInStone.name=Готическая лампа в камне
+lolidecorative.tile.gothicLightInDarkStone.name=Готическая лампа в темном камне
+
+lolidecorative.tile.gothicWindow.name=Готическое окно
+
+lolidecorative.tile.redJapanesePillar.name=Красная японская колонна
+lolidecorative.tile.blackJapanesePillar.name=Черная японская колонна
+lolidecorative.tile.whiteJapanesePillar.name=Белая японская колонна
+lolidecorative.tile.darkJapanesePillar.name=Темная японская колонна
+
+lolidecorative.tile.paperPartition.name=Бумажная перегородка
+lolidecorative.tile.blackPaperPartition.name=Черная бумажная перегородка
+lolidecorative.tile.whitePaperPartition.name=Белая бумажная перегородка
+
+lolidecorative.tile.japanesePaper.name=Японская бумага
+lolidecorative.tile.blackJapanesePaper.name=Черная японская бумага
+lolidecorative.tile.whiteJapanesePaper.name=Белая японская бумага
+lolidecorative.tile.decorativeJapanesePaper.name=Декоративная бумажная перегородка
+
+lolidecorative.tile.japanesePaperWall.name=Ограда из японской бумаги
+lolidecorative.tile.blackJapanesePaperWall.name=Ограда из черной японской бумаги
+lolidecorative.tile.whiteJapanesePaperWall.name=Ограда из белой японской бумаги
+
+lolidecorative.tile.patternedJapanesePaper.name=Декоративная японская бумага
+lolidecorative.tile.blackPatternedJapanesePaper.name=Декоративная черная бумага
+lolidecorative.tile.whitePatternedJapanesePaper.name=Декоративная белая бумага
+
+lolidecorative.tile.redJapaneseWood.name=Красное японское дерево
+lolidecorative.tile.blackJapaneseWood.name=Черное японское дерево
+lolidecorative.tile.whiteJapaneseWood.name=Белое японское дерево
+lolidecorative.tile.darkJapaneseWood.name=Темное японское дерево
+lolidecorative.tile.redPaintedJapaneseWood.name=Расписанное красное японское дерево
+lolidecorative.tile.blackPaintedJapaneseWood.name=Расписанное черное японское дерево
+lolidecorative.tile.whitePaintedJapaneseWood.name=Расписанное белое японское дерево
+lolidecorative.tile.darkPaintedJapaneseWood.name=Расписанное темное японское дерево
+lolidecorative.tile.redJapaneseWoodSlab.name=Плита из красного японского дерева
+lolidecorative.tile.blackJapaneseWoodSlab.name=Плита из черного японского дерева
+lolidecorative.tile.whiteJapaneseWoodSlab.name=Плита из белого японского дерева
+lolidecorative.tile.darkJapaneseWoodSlab.name=Плита из темного японского дерева
+
+lolidecorative.tile.redJapaneseWoodStairs.name=Ступеньки из красного японского дерева
+lolidecorative.tile.blackJapaneseWoodStairs.name=Ступеньки из черного японского дерева
+lolidecorative.tile.whiteJapaneseWoodStairs.name=Ступеньки из белого японского дерева
+lolidecorative.tile.darkJapaneseWoodStairs.name=Ступеньки из темного японского дерева
+
+lolidecorative.tile.redJapaneseWoodFence.name=Забор из красного японского дерева
+lolidecorative.tile.blackJapaneseWoodFence.name=Забор из черного японского дерева
+lolidecorative.tile.whiteJapaneseWoodFence.name=Забор из белого японского дерева
+lolidecorative.tile.darkJapaneseWoodFence.name=Забор из темного японского дерева
+
+lolidecorative.tile.resinWood.name=Смоляное дерево
+lolidecorative.tile.chiseledResinWood.name=Резное смоляное дерево
+lolidecorative.tile.greenOrnamentedResinWood.name=Смоляное дерево с зеленым орнаментом
+lolidecorative.tile.orangeOrnamentedResinWood.name=Смоляное дерево с оранжевым орнаментом
+lolidecorative.tile.whiteOrnamentedResinWood.name=Смоляное дерево с белым орнаментом
+
+lolidecorative.tile.limeWood.name=Лаймовое дерево
+lolidecorative.tile.chiseledLimeWood.name=Резное лаймовое дерево
+lolidecorative.tile.ornamentedLimeWood.name=Лаймовое дерево с орнаментом
+
+lolidecorative.tile.bananaWood.name=Банановое дерево
+lolidecorative.tile.chiseledBananaWood.name=Резное банановое дерево
+lolidecorative.tile.ornamentedBananaWood.name=Банановое дерево с орнаментом
+
+lolidecorative.tile.pearlWood.name=Жемчужное дерево
+lolidecorative.tile.chiseledPearlWood.name=Резное жемчужное дерево
+lolidecorative.tile.ornamentedPearlWood.name=Жемчужное дерево с орнаментом
+
+lolidecorative.tile.resinWoodSlab.name=Плита из смоляного дерева
+lolidecorative.tile.limeWoodSlab.name=Плита из лаймового дерева
+lolidecorative.tile.bananaWoodSlab.name=Плита из бананового дерева
+lolidecorative.tile.pearlWoodSlab.name=Плита из жемчужного дерева
+
+lolidecorative.tile.resinWoodStairs.name=Ступеньки из смоляного дерева
+lolidecorative.tile.limeWoodStairs.name=Ступеньки из лаймового дерева
+lolidecorative.tile.bananaWoodStairs.name=Ступеньки из бананового дерева
+lolidecorative.tile.pearlWoodStairs.name=Ступеньки из жемчужного дерева
+
+lolidecorative.tile.resinWoodFence.name=Забор из смоляного дерева
+lolidecorative.tile.limeWoodFence.name=Забор из лаймового дерева
+lolidecorative.tile.bananaWoodFence.name=Забор из бананового дерева
+lolidecorative.tile.pearlWoodFence.name=Забор из жемчужного дерева
+
+lolidecorative.tile.bamboo.name=Бамбук
+lolidecorative.tile.bambooWall.name=Бамбуковая ограда
+lolidecorative.tile.decorativeBamboo.name=Декоративный бамбук
+
+lolidecorative.tile.darkStone.name=Темный камень
+lolidecorative.tile.darkStoneSlab.name=Плита из темного камня
+lolidecorative.tile.darkStoneStairs.name=Ступеньки и темного камня
+lolidecorative.tile.darkStoneWall.name=Ограда из темного камня
+lolidecorative.tile.spiralDarkStone.name=Темный камень: спирали
+lolidecorative.tile.particleDarkStone.name=Темный камень: частицы
+lolidecorative.tile.flowDarkStone.name=Темный камень: поток
+
+lolidecorative.tile.iceStone.name=Ледяной камень
+lolidecorative.tile.iceStoneSlab.name=Плита из ледяного камня
+lolidecorative.tile.iceStoneStairs.name=Ступеньки из ледяного камня
+lolidecorative.tile.iceStoneWall.name=Ограда из ледяного камня
+
+lolidecorative.tile.spiralIceStone.name=Ледяной камень: спирали
+lolidecorative.tile.lightSpiralIceStone.name=Светящийся ледяной камень: спирали
+lolidecorative.tile.particleIceStone.name=Ледяной камень: частицы
+lolidecorative.tile.lightParticleIceStone.name=Светящийся ледяной камень: частицы
+lolidecorative.tile.flowIceStone.name=Ледяной камень: поток
+lolidecorative.tile.lightFlowIceStone.name=Светящийся ледяной камень: поток
+
+lolidecorative.tile.sandBark.name=Песочная кора
+lolidecorative.tile.sandBarkFence.name=Забор из песочной коры
+lolidecorative.tile.lightSandBark.name=Светящаяся песочная кора
+
+lolidecorative.tile.coalBark.name=Угольная кора
+lolidecorative.tile.coalBarkFence.name=Забор из угольной коры
+lolidecorative.tile.lightCoalBark.name=Светящаяся угольная кора
+
+lolidecorative.tile.silveryBark.name=Серебристая кора
+lolidecorative.tile.silveryBarkFence.name=Забор из серебристой коры
+lolidecorative.tile.lightSilveryBark.name=Светящаяся серебристая кора
+
+lolidecorative.tile.firPlanks.name=Доски из пихты
+lolidecorative.tile.firPlanksSlab.name=Плита из пихты
+lolidecorative.tile.firPlanksStairs.name=Ступеньки из пихты
+lolidecorative.tile.firPlanksFence.name=Забор из пихты
+lolidecorative.tile.chiseledFirPlanks.name=Резные доски их пихты
+lolidecorative.tile.lightFirPlanks.name=Светящиеся доски из пихты
+
+lolidecorative.tile.ebonyPlanks.name=Доски из эбенового дерева
+lolidecorative.tile.ebonyPlanksSlab.name=Плита из эбенового дерева
+lolidecorative.tile.ebonyPlanksStairs.name=Ступеньки из эбенового дерева
+lolidecorative.tile.ebonyPlanksFence.name=Забор из эбенового дерева
+lolidecorative.tile.chiseledEbonyPlanks.name=Резные доски из эбенового дерева
+lolidecorative.tile.lightEbonyPlanks.name=Светящиеся доски из эбенового дерева
+
+lolidecorative.tile.snowyPlanks.name=Доски из снежного дерева
+lolidecorative.tile.snowyPlanksSlab.name=Плита из снежного дерева
+lolidecorative.tile.snowyPlanksStairs.name=Ступеньки из снежного дерева
+lolidecorative.tile.snowyPlanksFence.name=Забор из снежного дерева
+lolidecorative.tile.chiseledSnowyPlanks.name=Резные доски из снежного дерева
+lolidecorative.tile.lightSnowyPlanks.name=Светящиеся доски из снежного дерева
+
+lolidecorative.tile.balsaPlanks.name=Доски из бальзового дерева
+lolidecorative.tile.balsaPlanksSlab.name=Плита из бальзового дерева
+lolidecorative.tile.balsaPlanksStairs.name=Ступеньки из бальзового дерева
+lolidecorative.tile.balsaPlanksFence.name=Забор из бальзового дерева
+lolidecorative.tile.chiseledBalsaPlanks.name=Резные доски из бальзового дерева
+lolidecorative.tile.lightBalsaPlanks.name=Светящиеся доски из бальзового дерева
+
+lolidecorative.tile.cherryLog.name=Бревно вишневого дерева
+lolidecorative.tile.cherryPlanks.name=Доски из вишневого дерева
+lolidecorative.tile.cherryPlanksSlab.name=Плита из вишневого дерева
+lolidecorative.tile.cherryPlanksStairs.name=Ступеньки из вишневого дерева
+lolidecorative.tile.cherryPlanksFence.name=Забор из вишневого дерева
+lolidecorative.tile.cherrySapling.name=Саженец вишневого дерева
+lolidecorative.tile.cherryLeaves.name=Листья вишневого дерева
+
+lolidecorative.tile.irisLog.name=Бревно ирисового дерева
+lolidecorative.tile.irisPlanks.name=Доски из ирисового дерева
+lolidecorative.tile.irisPlanksSlab.name=Плита из ирисового дерева
+lolidecorative.tile.irisPlanksStairs.name=Ступеньки из ирисового дерева
+lolidecorative.tile.irisPlanksFence.name=Забор из ирисового дерева
+lolidecorative.tile.irisSapling.name=Саженец ирисового дерева
+lolidecorative.tile.irisLeaves.name=Листья ирисового дерева
+
+lolidecorative.tile.oleanderLog.name=Бревно олеандрового дерева
+lolidecorative.tile.oleanderPlanks.name=Доски из олеандрового дерева
+lolidecorative.tile.oleanderPlanksSlab.name=Плита из олеандрового дерева
+lolidecorative.tile.oleanderPlanksStairs.name=Ступеньки из олеандрового дерева
+lolidecorative.tile.oleanderPlanksFence.name=Забор из олеандрового дерева
+lolidecorative.tile.oleanderSapling.name=Саженец олеандрового дерева
+lolidecorative.tile.oleanderLeaves.name=Листья олеандрового дерева
+
+lolidecorative.tile.sakuraLog.name=Бревно сакуры
+lolidecorative.tile.sakuraPlanks.name=Доски из сакуры
+lolidecorative.tile.sakuraPlanksSlab.name=Плита из сакуры
+lolidecorative.tile.sakuraPlanksStairs.name=Ступеньки из сакуры
+lolidecorative.tile.sakuraPlanksFence.name=Забор из сакуры
+lolidecorative.tile.sakuraSapling.name=Саженец сакуры
+lolidecorative.tile.sakuraLeaves.name=Листья сакуры
+
+lolidecorative.tile.sunflowerLog.name=Бревно подсолнухового дерева
+lolidecorative.tile.sunflowerPlanks.name=Доски из подсолнухового дерева
+lolidecorative.tile.sunflowerPlanksSlab.name=Плита из подсолнухового дерева
+lolidecorative.tile.sunflowerPlanksStairs.name=Ступеньки из подсолнухового дерева
+lolidecorative.tile.sunflowerPlanksFence.name=Забор из подсолнухового дерева
+lolidecorative.tile.sunflowerSapling.name=Саженец подсолнухового дерева
+lolidecorative.tile.sunflowerLeaves.name=Листья подсолнухового дерева
+
+lolidecorative.tile.lightBase.name=Основа
+lolidecorative.tile.lightBaseSlab.name=Основа плиты
+lolidecorative.tile.lightBaseStairs.name=Основа ступенек
+lolidecorative.tile.lightBaseWall.name=Основа ограды
+lolidecorative.tile.lightBaseFence.name=Основа забора
+
+lolidecorative.tile.lightBaseSmooth.name=Сплошная основа
+lolidecorative.tile.lightBaseSmoothSlab.name=Сплошная основа плиты
+lolidecorative.tile.lightBaseSmoothStairs.name=Сплошная основа ступенек
+
+lolidecorative.tile.lightBaseTiled.name=Разделенная основа
+lolidecorative.tile.lightBaseTiledSlab.name=Разделенная основа плиты
+lolidecorative.tile.lightBaseTiledStairs.name=Разделенная основа ступенек
+
+lolidecorative.tile.greenLight.name=Зеленый свет
+lolidecorative.tile.lightBlueLight.name=Голубой свет
+lolidecorative.tile.orangeLight.name=Оранжевый свет
+lolidecorative.tile.redLight.name=Красный свет
+lolidecorative.tile.violetLight.name=Фиолетовый свет

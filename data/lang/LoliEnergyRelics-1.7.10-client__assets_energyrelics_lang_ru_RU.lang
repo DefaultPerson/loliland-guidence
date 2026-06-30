@@ -1,0 +1,68 @@
+itemGroup.tabEnergyRelics=LoliLand: Energy Relics
+
+item.ShiftTooltip.lore=Зажмите SHIFT, чтобы посмотреть подробнее.
+
+enchantment.level.20=XX
+
+item.ItemNewChaosCore.name=Электролизированное Ядро Хаоса
+item.ItemEnergyMirror.name=Энергетическое Зеркало
+item.ItemDamageConverter.name=Конвертер Урона
+item.ItemBuffAnnuler.name=Аннулятор Баффов
+item.ItemCoreofStealingPower.name=Ядро Кражи Силы
+item.ItemBuffsGenerator.name=Генератор рандомных эффектов
+item.ItemMiningCharm.name=Ускоритель Копания
+item.ItemRegenerationBooster1.name=Ускоритель Регенерации 1-го уровня
+item.ItemRegenerationBooster2.name=Ускоритель Регенерации 2-го уровня
+item.ItemRegenerationBooster3.name=Ускоритель Регенерации 3-го уровня
+item.ItemRegenerationBooster4.name=Ускоритель Регенерации 4-го уровня
+item.ItemRegenerationBooster5.name=Ускоритель Регенерации 5-го уровня
+item.ItemDamageAmplifier1.name=Усилитель урона 1-го уровня
+item.ItemDamageAmplifier2.name=Усилитель урона 2-го уровня
+item.ItemDamageAmplifier3.name=Усилитель урона 3-го уровня
+item.ItemDamageAmplifier4.name=Усилитель урона 4-го уровня
+item.ItemDamageAmplifier5.name=Усилитель урона 5-го уровня
+item.ItemProtectionAmplifier1.name=Усилитель защиты 1-го уровня
+item.ItemProtectionAmplifier2.name=Усилитель защиты 2-го уровня
+item.ItemProtectionAmplifier3.name=Усилитель защиты 3-го уровня
+item.ItemProtectionAmplifier4.name=Усилитель защиты 4-го уровня
+item.ItemProtectionAmplifier5.name=Усилитель защиты 5-го уровня
+item.ItemEuGenerator1.name=Инвентарный EU-генератор 1-го уровня
+item.ItemEuGenerator2.name=Инвентарный EU-генератор 2-го уровня
+item.ItemEuGenerator3.name=Инвентарный EU-генератор 3-го уровня
+item.ItemEuGenerator4.name=Инвентарный EU-генератор 4-го уровня
+item.ItemEuGenerator5.name=Инвентарный EU-генератор 5-го уровня
+item.draconicevolution:ItemDragonShield1LVL.name=Щит Дракона 1-го уровня
+item.draconicevolution:ItemDragonShield2LVL.name=Щит Дракона 2-го уровня
+item.draconicevolution:ItemDragonShield3LVL.name=Щит Дракона 3-го уровня
+item.ItemBerserkersCirclet.name=Катализатор Берсерка
+item.ItemArchersInfinityQuiver.name=Колчан Инфинити Лучника
+item.ItemKillerPowerKeeper.name=Хранитель Силы Убийцы
+item.ItemHiraishin.name=Конденсатор Хирайшин
+item.ItemHiraishinBack.name=Обратный Конденсатор Хирайшин
+item.ItemDragonAnnihilator.name=Драконий Аннигилятор
+item.ItemTimeCatalyst.name=Катализатор Времени
+item.ItemArmorBoosterBase1.name=Усилитель Нано-Брони
+item.ItemArmorBoosterBase2.name=Усилитель Квант-Брони
+item.ItemSpeedBlitzGenerator.name=Скоростной Блиц-Генератор
+
+item.ItemParadox.name=Парадокс
+item.ItemXPTome.name=Том Безграничной Мудрости
+item.ItemTomeLawlessness.name=Том Беззакония
+item.ItemStealerRF.name=Вор RF
+item.draconicevolution:ItemAmplifierRF.name=Усилитель RF
+item.ItemProjectileAnnihilator.name=Аннигилятор Снарядов
+item.draconicevolution:ItemParticleAccelerator.name=Ускоритель Частиц
+item.ItemAntiInvisible.name=Аннулятор невидимок
+
+item.ItemDemonSwordInfinity.name=Демонический Меч Бесконечности
+item.ItemDemonHelmetInfinity0.name=Демонический Шлем Бесконечности
+item.ItemDemonChestInfinity1.name=Демонический Нагрудник Бесконечности
+item.ItemDemonPantsInfinity2.name=Демонические Поножи Бесконечности
+item.ItemDemonShoesInfinity3.name=Демонические Ботинки Бесконечности
+
+lolienergyrelics:item.demonic_infinity_dust.name=Демоническая пыль бесконечности
+lolienergyrelics:item.demonic_infinity_nugget.name=Демонический самородок бесконечности
+lolienergyrelics:item.demonic_infinity_catalyst.name=Демонический каталист бесконечности
+lolienergyrelics:item.demonic_infinity_ingot.name=Демонический слиток бесконечности
+
+tile.demonic_infinity_block.name=Демонический блок бесконечности

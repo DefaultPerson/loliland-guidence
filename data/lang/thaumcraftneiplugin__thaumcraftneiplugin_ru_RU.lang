@@ -1,0 +1,7 @@
+recipe.type.arcaneworkbenchshaped=Форменный М.верстак
+recipe.type.arcaneworkbenchshapeless=Бесформенный М.верстак
+recipe.type.aspect=Аспекты
+item.itemaspect.aspectprefix=Аспект
+recipe.aspects.containing=Содержится в предметах
+recipe.aspects.component=Компонент
+recipe.aspects.usedin=Используется в

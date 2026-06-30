@@ -1,0 +1,181 @@
+itemGroup.loli_dragon_might.global=LoliDragonMight
+
+loli_dragon_might:tile.spawner.name=Спавнер Хаоса
+loli_dragon_might:tile.legendary_spawner.name=Легендарный спавнер Хаоса
+
+
+loli_dragon_might:tile.energy_crystal_eu_0.name=Энергетическое реле (EU)
+loli_dragon_might:tile.energy_crystal_eu_1.name=Улучшенное энергетическое реле (EU)
+loli_dragon_might:tile.energy_crystal_eu_2.name=Энергетический передатчик (EU)
+loli_dragon_might:tile.energy_crystal_eu_3.name=Улучшенный энергетический передатчик (EU)
+loli_dragon_might:tile.energy_crystal_eu_4.name=Беспроводной энергетический передатчик (EU)
+loli_dragon_might:tile.energy_crystal_eu_5.name=Улучшенный беспроводной энергетический передатчик (EU)
+
+loli_dragon_might:tile.fusion_injector_0.name=Внеземной дракониевый инжектор
+loli_dragon_might:tile.fusion_injector_1.name=Внеземной виверновый инжектор
+loli_dragon_might:tile.fusion_injector_2.name=Внеземной пробужденный инжектор
+loli_dragon_might:tile.fusion_injector_3.name=Внеземной хаотический инжектор
+loli_dragon_might:tile.fusion_injector_4.name=Внеземной ультимативный инжектор
+loli_dragon_might:tile.fusion_crafting_core.name=Внеземной дракониевый корпус создания
+
+loli_dragon_might:item.looting_module_1.name=Модуль добычи (3 уровня)
+loli_dragon_might:item.looting_module_2.name=Модуль добычи (5 уровня)
+loli_dragon_might:item.looting_module_3.name=Модуль добычи (10 уровня)
+loli_dragon_might:item.looting_module_4.name=Модуль добычи (15 уровня)
+loli_dragon_might:item.looting_module_5.name=Модуль добычи (20 уровня)
+loli_dragon_might:item.looting_module_6.name=Модуль добычи (25 уровня)
+loli_dragon_might:item.looting_module_7.name=Модуль добычи (30 уровня)
+loli_dragon_might:item.looting_module_8.name=Модуль добычи (35 уровня)
+loli_dragon_might:item.looting_module_9.name=Модуль добычи (40 уровня)
+loli_dragon_might:item.looting_module_10.name=Модуль добычи (50 уровня)
+loli_dragon_might:item.looting_module_11.name=Модуль добычи (100 уровня)
+
+loli_dragon_might:item.chaotic_flux_capacitor.name=Продвинутый конденсатор Хаоса
+loli_dragon_might:item.advanced_chaotic_core.name=Продвинутое ядро Хаоса
+
+loli_dragon_might:item.chaotic_staff.name=Посох Хаоса
+loli_dragon_might:item.chaotic_helm.name=Шлем Хаоса
+loli_dragon_might:item.chaotic_chest.name=Нагрудник Хаоса
+loli_dragon_might:item.chaotic_leggs.name=Поножи Хаоса
+loli_dragon_might:item.chaotic_boots.name=Ботинки Хаоса
+
+loli_dragon_might:item.outworld_wither_eye.name=Потустороннее око Визера
+loli_dragon_might:item.wither_soul_caster.name=Визер заклинатель душ
+
+loli_dragon_might:item.wither_skeleton_fragment.name=Фрагмент Визер-скелета
+loli_dragon_might:item.wither_skeleton_heart.name=Сердце Визер-скелета
+
+
+loli_dragon_might:text.fusion_crafting.current_item=Вход
+loli_dragon_might:text.fusion_crafting.final_item=Выход
+loli_dragon_might:text.fusion_crafting.status=Статус
+loli_dragon_might:text.fusion_crafting.status_sleep=Простой
+loli_dragon_might:text.fusion_crafting.storage=Внутренний буфер
+loli_dragon_might:text.fusion_crafting.status_charging=Зарядка
+loli_dragon_might:text.fusion_crafting.status_crafting=Создание
+
+loli_dragon_might:text.fusion_crafting.single_item_on=§3Режим "Одиночный предмет": §6Вкл.
+loli_dragon_might:text.fusion_crafting.single_item_off=§3Режим "Одиночный предмет": §6Выкл.
+
+loli_dragon_might:text.fusion_crafting.start=Запустить
+loli_dragon_might:text.fusion_crafting.core_title=Слияние
+loli_dragon_might:text.fusion_crafting.tier_low=Уровень инжектора слишком мал
+loli_dragon_might:text.fusion_crafting.output_obstructed=Выходной слот занят
+
+loli_dragon_might:text.fusion_crafting.energy_cost=Затраты энергии
+loli_dragon_might:text.fusion_crafting.tier=Тир
+loli_dragon_might:text.fusion_crafting.tier_0=Дракониевый
+loli_dragon_might:text.fusion_crafting.tier_1=Виверновый
+loli_dragon_might:text.fusion_crafting.tier_2=Пробужденный
+loli_dragon_might:text.fusion_crafting.tier_3=Хаотический
+loli_dragon_might:text.fusion_crafting.tier_4=Ультимативный
+
+loli_dragon_might:text.magic_crafting.tier=Тир
+loli_dragon_might:text.magic_crafting.tier_0=Дракониевый
+loli_dragon_might:text.magic_crafting.tier_1=Виверновый
+loli_dragon_might:text.magic_crafting.tier_2=Пробужденный
+loli_dragon_might:text.magic_crafting.tier_3=Хаотический
+loli_dragon_might:text.magic_crafting.tier_4=Ультимативный
+
+loli_dragon_might:text.fusion_crafting.title=Внеземной дракониевый синтез
+loli_dragon_might:text.magic_crafting.title=Дракониевый корпус создания
+
+loli_dragon_might:tile.magic_crafting_injector_0.name=Внеземной инжектор из адамантия
+loli_dragon_might:tile.magic_crafting_injector_1.name=Внеземной инжектор из эфирного адамантия
+loli_dragon_might:tile.magic_crafting_injector_2.name=Внеземной инжектор из призрачного адамантия
+loli_dragon_might:tile.magic_crafting_injector_3.name=Внеземной инжектор из чародейского адамантия
+loli_dragon_might:tile.magic_crafting_injector_4.name=Внеземной инжектор из дракониевого адамантия
+loli_dragon_might:tile.magic_crafting_core.name=Магический дракониевый корпус создания
+
+
+loli_dragon_might:tile.alien_chaos_energy_generator.name=Ядро внеземного генератора энергии хаоса
+loli_dragon_might:tile.extraterrestrial_soul_transformer.name=Ядро внеземного преобразователя душ
+loli_dragon_might:nei.extraterrestrial_soul_transformer.name=Внеземной преобразователь душ
+loli_dragon_might:tile.chaos_energy_transmitter.name=Передатчик энергии хаоса
+
+loli_dragon_might:tile.extraterrestrial_coverage.name=Внеземное Покрытие
+loli_dragon_might:tile.extraterrestrial_glass.name=Внеземное Стекло
+loli_dragon_might:tile.extraterrestrial_basis.name=Внеземная Основа
+
+loli_dragon_might:item.alien_structure_activator.name=Внеземной активатор структур
+loli_dragon_might:item.extra_terrestrial_chaos_catalyst.name=Внеземной катализатор хаоса
+loli_dragon_might:item.chaos_energy_binder.name=Связыватель энергии хаоса
+
+text.loli_dragon_might.chaos_energy_binder.empty=Используйте на передатчик энергии хаоса для привязки
+text.loli_dragon_might.chaos_energy_binder.bound1=Привязка на %s,%s,%s
+text.loli_dragon_might.chaos_energy_binder.bound2=Используйте на другой передатчик энергии хаоса, чтобы подключить его к предыдущему
+text.loli_dragon_might.chaos_energy_binder.connected=Подключено к %s,%s,%s
+text.loli_dragon_might.chaos_energy_binder.disconnect=Привязка к %s,%s,%s удалена
+text.loli_dragon_might.chaos_energy_binder.failed=Соединение не состоялось
+text.loli_dragon_might.chaos_energy_binder.dimension=Соединители не могут находиться в разных измерениях
+text.loli_dragon_might.chaos_energy_binder.noexist=Привязанного соединителя больше не существует
+text.loli_dragon_might.chaos_energy_binder.security.network=Ошибка безопасности: нельзя соединить сети
+text.loli_dragon_might.chaos_energy_binder.security.player=Ошибка безопасности: вы не можете изменять физическую конфигурацию сети
+
+loli_dragon_might:tile.reactor_core.name=Ядро реактора Хаоса
+loli_dragon_might:tile.reactor_energy_injector.name=Преобразователь реактора Хаоса
+loli_dragon_might:tile.reactor_stabilizer.name=Стабилизатор реактора Хаоса
+loli_dragon_might:tile.reactor_stabilizer_broken.name=Сломанный стабилизатор реактора Хаоса
+loli_dragon_might:tile.reactor_chaos_stabilizer.name=Модуль реактора Хаоса
+
+msg.de.reactorRSMode.0.txt=Режим компаратора: Температура
+msg.de.reactorRSMode.1.txt=Режим компаратора: Температура [Инвертированный]
+msg.de.reactorRSMode.2.txt=Режим компаратора: Сдерживающее поле
+msg.de.reactorRSMode.3.txt=Режим компаратора: Сдерживающее поле [Инвертированный]
+msg.de.reactorRSMode.4.txt=Режим компаратора: Насыщение энергией
+msg.de.reactorRSMode.5.txt=Режим компаратора: Насыщение энергией [Инвертированный]
+msg.de.reactorRSMode.6.txt=Режим компаратора: Кол-во преобразованного топлива
+msg.de.reactorRSMode.7.txt=Режим компаратора: Кол-во преобразованного топлива [Инвертированный]
+msg.de.reactorRSMode.8.txt=Режим компаратора: Содержание Хаоса
+msg.de.reactorRSMode.9.txt=Режим компаратора: Содержание Хаоса [Инвертированный]
+msg.de.stabilizerBroken=Стабилизатор сломан! Замените его на рабочий.
+
+button.de.reactorCharge.txt=Зарядить реактор
+button.de.reactorStart.txt=Активировать
+button.de.reactorStop.txt=Инициировать выключение
+button.de.stats.txt=Стат.
+button.de.statsShow.txt=Показать
+button.de.statsHide.txt=Спрятать
+
+gui.de.flowGate.name=Контроль потока
+gui.de.flowGatePartialSignal.name=Поток будет варьироваться в пределах двух заданных значений в зависимости от силы редстоун-сигнала, подключённого к устройству.
+gui.de.flowGateCurrentFlow.name=Поток
+gui.de.flowGateRSLow.name=Слабый сигнал редстоуна
+gui.de.flowGateRSHigh.name=Сильный сигнал редстоуна
+gui.de.flowGateOverridden.txt=Передача на компьютер включена
+gui.de.increment.name=Увеличить значение на
+gui.de.decrement.name=Уменьшить значение на
+gui.de.ctrlAndShift.name=Чтобы быстрее увеличивать/уменьшать значение, можно воспользоваться клавишами Ctrl или Shift.
+gui.de.pressOrScroll.name=Нажмите или прокрутите колёсико мыши
+gui.de.tempLoad.name=Нагрузка от температуры:
+gui.de.mass.name=Масса ядра:
+gui.de.genRate.name=Выработка энергии:
+gui.de.fieldInputRate.name=Энергия для Сдерж. поля:
+gui.de.fuelConversion.name=Преобразование топлива:
+
+gui.de.insert.txt=Вставить
+gui.de.extract.txt=Извлечь
+gui.de.fuel.txt=Топливо
+gui.de.coreMass.txt=Масса ядра
+gui.de.reactionTemp.txt=Температура ядра
+gui.de.fieldStrength.txt=Сила сдерживающего поля
+gui.de.energySaturation.txt=Насыщение энергией
+gui.de.chaosSaturation.txt=Насыщение Хаосом
+gui.de.fuelConversion.txt=Кол-во преобразованного топлива
+gui.de.status.txt=Статус
+gui.de.status0.txt=ВЫКЛЮЧЕН
+gui.de.status1.txt=ЗАРЯЖАЕТСЯ
+gui.de.status1_5.txt=ЗАРЯЖЕН
+gui.de.status2.txt=ВКЛЮЧЕН
+gui.de.status3.txt=ВЫКЛЮЧАЕТСЯ
+gui.de.status4.txt=ОШИБКА УСТАНОВКИ
+gui.de.internalStorage.txt=Внутреннее хранилище
+gui.de.itemStorage.txt=Внутр. хранилище предмета
+gui.de.reacTempLoadFactor.txt=Показывает, какую нагрузку оказывает Температура реактора на Сдерживающее поле. Если темп-ра превысит 8000 градусов, этот показатель экспоненциально возрастёт.
+gui.de.reacCoreMass.txt=Показывает общее количество массы в реакторе в куб. метрах. Иными словами, это драконий + хаотит. Этот показатель меняется только при добавлении/удалении топлива.
+gui.de.reacGenRate.txt=Показывает текущее количество энергии (RF/t), которая вырабатывается реактором.
+gui.de.reacInputRate.txt=Показывает точное количество энергии (RF/t), которая нужна для поддержания текущей силы Сдерживающего поля. По мере увеличения силы поля, этот показатель будет экспоненциально возрастать.
+gui.de.reacConversionRate.txt=Показывает, насколько быстро реактор тратит топливо. По мере увеличения индикатора Насыщения энергией, этот показатель будет падать.
+
+key.categories.chaos_reactor=Реактор Хаоса
+key.chaos_reactor_debug_gui=Открыть дебаг-GUI

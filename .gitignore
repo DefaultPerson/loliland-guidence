@@ -1,0 +1,25 @@
+# Game resources (copied into the repo folder on hosts, never committed) ~1GB
+/game/
+/Games/
+loliland-game/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Heavy binaries / build artifacts / staging
+bin_yt-dlp
+meta/tex/
+meta/*.png
+meta/_item_icons_report.txt
+
+# Research corpus (large: youtube subtitles/audio)
+/research/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

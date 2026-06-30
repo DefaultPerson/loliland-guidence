@@ -1,0 +1,1826 @@
+[
+ {
+  "displayName": "Legendary",
+  "items": [
+   {
+    "displayName": "Draconic Helm",
+    "count": 1
+   },
+   {
+    "displayName": "Draconic Staff of Power",
+    "count": 1
+   },
+   {
+    "displayName": "Магическое улучшение стак",
+    "count": 1
+   },
+   {
+    "displayName": "Кольцо из дракониевого адамантия",
+    "count": 1
+   },
+   {
+    "displayName": "Батарея асгарда 1 уровня",
+    "count": 1
+   },
+   {
+    "displayName": "Блок дракониевого адамантия",
+    "count": 18
+   },
+   {
+    "displayName": "Бассейн маны из дракониевого адамантия",
+    "count": 2
+   },
+   {
+    "displayName": "Дракониевый распространитель маны",
+    "count": 2
+   },
+   {
+    "displayName": "Блуждающая дракониевая искра",
+    "count": 2
+   },
+   {
+    "displayName": "Draconic Chestplate",
+    "count": 1
+   },
+   {
+    "displayName": "Draconic Bow",
+    "count": 1
+   },
+   {
+    "displayName": "Портативный заряжающий модуль",
+    "count": 1
+   },
+   {
+    "displayName": "Легендарный дракониевый Wand",
+    "count": 1
+   },
+   {
+    "displayName": "Легендарный молекулярный преобразователь",
+    "count": 1
+   },
+   {
+    "displayName": "Блок чародейского адамантия",
+    "count": 28
+   },
+   {
+    "displayName": "Квантовый лазер",
+    "count": 6
+   },
+   {
+    "displayName": "Энергетический объединитель нейтрония 3",
+    "count": 1
+   },
+   {
+    "displayName": "Сингулярный генератор жидкой материи",
+    "count": 16
+   },
+   {
+    "displayName": "Draconic Leggings",
+    "count": 1
+   },
+   {
+    "displayName": "Ядро: Сириус",
+    "count": 1
+   },
+   {
+    "displayName": "Улучшение: Термоизолятор 3 ур.",
+    "count": 1
+   },
+   {
+    "displayName": "Универсальный жезл строителя",
+    "count": 1
+   },
+   {
+    "displayName": "Augment: Квантовый усилитель",
+    "count": 8
+   },
+   {
+    "displayName": "Infinity Ingot",
+    "count": 4
+   },
+   {
+    "displayName": "Infinity Catalyst",
+    "count": 24
+   },
+   {
+    "displayName": "Легендарный спавнер Хаоса",
+    "count": 8
+   },
+   {
+    "displayName": "Молекулярный модуль удачи (2 уровня)",
+    "count": 1
+   },
+   {
+    "displayName": "Draconic Boots",
+    "count": 1
+   },
+   {
+    "displayName": "Продвинутый конденсатор Хаоса",
+    "count": 1
+   },
+   {
+    "displayName": "Улучшение: Квантовый генератор",
+    "count": 1
+   },
+   {
+    "displayName": "Чародейская панель тауматурга",
+    "count": 1
+   },
+   {
+    "displayName": "tile.panel_mystery_dungeon.name",
+    "count": 1
+   },
+   {
+    "displayName": "tile.flame_guardian_panel.name",
+    "count": 1
+   },
+   {
+    "displayName": "tile.gravitomagnetic_solar_panel.name",
+    "count": 32
+   },
+   {
+    "displayName": "Chaotic Core",
+    "count": 4
+   },
+   {
+    "displayName": "Продвинутое ядро Хаоса",
+    "count": 1
+   }
+  ],
+  "time": 2592000,
+  "role": "legendary",
+  "hash": "9646c63e-6e14-3544-a2ca-35122bd5f9d6"
+ },
+ {
+  "displayName": "Avaritia",
+  "items": [
+   {
+    "displayName": "Ultimate Stew",
+    "count": 32
+   },
+   {
+    "displayName": "Infinity Ingot",
+    "count": 4
+   },
+   {
+    "displayName": "Neutronium Block",
+    "count": 64
+   },
+   {
+    "displayName": "Crystal Matrix",
+    "count": 64
+   },
+   {
+    "displayName": "Cosmic Meatballs",
+    "count": 64
+   },
+   {
+    "displayName": "Nether Quartz Singularity",
+    "count": 3
+   },
+   {
+    "displayName": "Lapis Singularity",
+    "count": 3
+   },
+   {
+    "displayName": "Copper Singularity",
+    "count": 3
+   },
+   {
+    "displayName": "Tin Singularity",
+    "count": 3
+   },
+   {
+    "displayName": "Сингулярность из Ледяного Дракония",
+    "count": 1
+   },
+   {
+    "displayName": "Сингулярность из Огненного Дракония",
+    "count": 1
+   },
+   {
+    "displayName": "Сингулярность из Дракония Бесконечности",
+    "count": 1
+   },
+   {
+    "displayName": "Сингулярность из Демонического Дракония Бесконечности",
+    "count": 1
+   },
+   {
+    "displayName": "Сингулярность из Ядер Хаоса",
+    "count": 1
+   },
+   {
+    "displayName": "Сингулярность из Дракониевого Адамантия",
+    "count": 1
+   },
+   {
+    "displayName": "Жидкостная Кристально-матриксная сингулярность",
+    "count": 2
+   },
+   {
+    "displayName": "Жидкостная сингулярность из Звёзд Ада",
+    "count": 1
+   },
+   {
+    "displayName": "Жидкостная Нейтрониевая сингулярность",
+    "count": 1
+   },
+   {
+    "displayName": "Redstone Singularity",
+    "count": 3
+   },
+   {
+    "displayName": "Iron Singularity",
+    "count": 3
+   },
+   {
+    "displayName": "Эльвориевая Сингулярность",
+    "count": 1
+   },
+   {
+    "displayName": "Сингулярность из Мрачного Металла",
+    "count": 1
+   },
+   {
+    "displayName": "Сингулярность из Таум-металла",
+    "count": 1
+   },
+   {
+    "displayName": "Сингулярность из Террастали",
+    "count": 1
+   },
+   {
+    "displayName": "Адская Сингулярность",
+    "count": 1
+   },
+   {
+    "displayName": "Сингулярность Мортума",
+    "count": 1
+   },
+   {
+    "displayName": "Гладиевая Сингулярность",
+    "count": 1
+   },
+   {
+    "displayName": "Сингулярность из Пыли Хаоса",
+    "count": 1
+   },
+   {
+    "displayName": "Сингулярность из Сверхсплава",
+    "count": 1
+   },
+   {
+    "displayName": "Нейтрониевая Сингулярность",
+    "count": 1
+   },
+   {
+    "displayName": "Сингулярность из Искрящейся Материи",
+    "count": 1
+   },
+   {
+    "displayName": "Сингулярность из Звездного Топлива",
+    "count": 1
+   },
+   {
+    "displayName": "Сингулярность из Осколков Хаоса",
+    "count": 1
+   },
+   {
+    "displayName": "Платиновая Сингулярность",
+    "count": 1
+   },
+   {
+    "displayName": "Ender Pearl Singularity",
+    "count": 1
+   },
+   {
+    "displayName": "Мифриловая Сингулярность",
+    "count": 1
+   }
+  ],
+  "time": 2592000,
+  "role": "legendary",
+  "hash": "dd2555d4-74f2-32e1-ad42-193e41bbb507"
+ },
+ {
+  "displayName": "LoliEnergistics",
+  "items": [
+   {
+    "displayName": "Промышленный генератор булыжника",
+    "count": 64
+   },
+   {
+    "displayName": "Молекулярная ферма",
+    "count": 64
+   },
+   {
+    "displayName": "Ферма визеров",
+    "count": 4
+   },
+   {
+    "displayName": "tile.unifier.name",
+    "count": 5
+   },
+   {
+    "displayName": "Квантовый конвентер",
+    "count": 16
+   },
+   {
+    "displayName": "Промышленный разливочный механизм",
+    "count": 8
+   },
+   {
+    "displayName": "Объединитель нейтрония",
+    "count": 1
+   },
+   {
+    "displayName": "Объединитель материи “Жидкой”",
+    "count": 1
+   },
+   {
+    "displayName": "item.ItemEuGenerator3.name",
+    "count": 1
+   },
+   {
+    "displayName": "Сыпучая светло-розовая материя",
+    "count": 64
+   },
+   {
+    "displayName": "Светящаяся розовая материя",
+    "count": 56
+   },
+   {
+    "displayName": "Мутировавшая фиолетово-бирюзовая материя",
+    "count": 48
+   },
+   {
+    "displayName": "Бирюзовая материя",
+    "count": 40
+   },
+   {
+    "displayName": "Фиолетовая материя",
+    "count": 32
+   },
+   {
+    "displayName": "Светящаяся бирюзовая материя",
+    "count": 24
+   },
+   {
+    "displayName": "Светящаяся красная материя",
+    "count": 16
+   },
+   {
+    "displayName": "Сыпучая светло-голубая материя",
+    "count": 12
+   },
+   {
+    "displayName": "Искрящаяся материя",
+    "count": 8
+   },
+   {
+    "displayName": "Улучшение: Генератор воды",
+    "count": 1
+   },
+   {
+    "displayName": "Улучшение: Генератор лавы",
+    "count": 1
+   },
+   {
+    "displayName": "Улучшение: Автоплавка",
+    "count": 1
+   },
+   {
+    "displayName": "Улучшение: Генератор утильсырья",
+    "count": 1
+   },
+   {
+    "displayName": "Augment: Квантовый усилитель",
+    "count": 32
+   },
+   {
+    "displayName": "Наполненный энергией кристалл хризолита",
+    "count": 1
+   },
+   {
+    "displayName": "item.ItemRegenerationBooster2.name",
+    "count": 1
+   },
+   {
+    "displayName": "item.ItemProtectionAmplifier2.name",
+    "count": 1
+   },
+   {
+    "displayName": "item.ItemDamageAmplifier2.name",
+    "count": 1
+   },
+   {
+    "displayName": "Промышленный сингулярный утилизатор",
+    "count": 8
+   },
+   {
+    "displayName": "Промышленная сингулярная электропечь",
+    "count": 8
+   },
+   {
+    "displayName": "Промышленный сингулярный экстрактор",
+    "count": 8
+   },
+   {
+    "displayName": "Промышленный сингулярный компрессор",
+    "count": 8
+   },
+   {
+    "displayName": "Промышленный сингулярный дробитель",
+    "count": 8
+   },
+   {
+    "displayName": "Генератор твердой материи",
+    "count": 8
+   },
+   {
+    "displayName": "Сингулярный генератор нейтрония",
+    "count": 12
+   },
+   {
+    "displayName": "Сингулярный генератор жидкой материи",
+    "count": 12
+   },
+   {
+    "displayName": "Жидкостный компрессор нейтрония",
+    "count": 4
+   }
+  ],
+  "time": 2592000,
+  "role": "legendary",
+  "hash": "063e9eca-943b-3633-8cf5-750e67c540af"
+ },
+ {
+  "displayName": "Ultra",
+  "items": [
+   {
+    "displayName": "Wyvern Helm",
+    "count": 1
+   },
+   {
+    "displayName": "Sword of the Wyvern",
+    "count": 1
+   },
+   {
+    "displayName": "Wyvern Flux Capacitor",
+    "count": 1
+   },
+   {
+    "displayName": "Демонический материализатор жизненной эссенции",
+    "count": 1
+   },
+   {
+    "displayName": "tile.pink_solar_panel.name",
+    "count": 1
+   },
+   {
+    "displayName": "tile.beekeeper_purple_panel.name",
+    "count": 1
+   },
+   {
+    "displayName": "Промышленный молекулярный преобразователь",
+    "count": 8
+   },
+   {
+    "displayName": "Ядро промышленного улья",
+    "count": 1
+   },
+   {
+    "displayName": "Экстремальный молекулярный сборщик",
+    "count": 8
+   },
+   {
+    "displayName": "Wyvern Chestplate",
+    "count": 1
+   },
+   {
+    "displayName": "Pickaxe of the Wyvern",
+    "count": 1
+   },
+   {
+    "displayName": "Augment: Квантовый усилитель",
+    "count": 8
+   },
+   {
+    "displayName": "Wyvern Core",
+    "count": 32
+   },
+   {
+    "displayName": "Квантовый репликатор",
+    "count": 6
+   },
+   {
+    "displayName": "Сингулярный генератор жидкой материи",
+    "count": 6
+   },
+   {
+    "displayName": "Преобразователь удачи",
+    "count": 1
+   },
+   {
+    "displayName": "Стекло промышленного улья",
+    "count": 8
+   },
+   {
+    "displayName": "Улучшенная алхимическая и химическая установка",
+    "count": 2
+   },
+   {
+    "displayName": "Wyvern Leggings",
+    "count": 1
+   },
+   {
+    "displayName": "Bow of the Wyvern",
+    "count": 1
+   },
+   {
+    "displayName": "Awakened Core",
+    "count": 32
+   },
+   {
+    "displayName": "Бассейн маны из призрачного адамантия",
+    "count": 3
+   },
+   {
+    "displayName": "Призрачный распространитель маны",
+    "count": 3
+   },
+   {
+    "displayName": "Блуждающая призрачная искра",
+    "count": 4
+   },
+   {
+    "displayName": "Кровавая искра",
+    "count": 2
+   },
+   {
+    "displayName": "Блок промышленного улья",
+    "count": 18
+   },
+   {
+    "displayName": "Инфернальная магическая печь",
+    "count": 1
+   },
+   {
+    "displayName": "Wyvern Boots",
+    "count": 1
+   },
+   {
+    "displayName": "Легендарный чародейский Wand",
+    "count": 1
+   },
+   {
+    "displayName": "Внеземной пробужденный инжектор",
+    "count": 10
+   },
+   {
+    "displayName": "Улучшенный магический сборщик",
+    "count": 4
+   },
+   {
+    "displayName": "Улучшение: Сингулярный бак 2 ур.",
+    "count": 4
+   },
+   {
+    "displayName": "Пробужденная алхимическая конструкция",
+    "count": 12
+   },
+   {
+    "displayName": "Кровавый шар Асмодея",
+    "count": 1
+   },
+   {
+    "displayName": "Ультимативная капсула",
+    "count": 16
+   },
+   {
+    "displayName": "Улучшенный энергетический объединитель из розового золота",
+    "count": 4
+   }
+  ],
+  "time": 2160000,
+  "role": "ultra",
+  "hash": "a6c51081-3471-394e-8fbe-85f7dd10b628"
+ },
+ {
+  "displayName": "Deluxe",
+  "items": [
+   {
+    "displayName": "Ультимейт солнечный шлем",
+    "count": 1
+   },
+   {
+    "displayName": "Awakened Ichorium Sword",
+    "count": 1
+   },
+   {
+    "displayName": "Внеземной дракониевый корпус создания",
+    "count": 1
+   },
+   {
+    "displayName": "Stabilized Mob Spawner",
+    "count": 12
+   },
+   {
+    "displayName": "Rosa Arcana",
+    "count": 16
+   },
+   {
+    "displayName": "Улучшение: Сингулярный бак 1 ур.",
+    "count": 4
+   },
+   {
+    "displayName": "Soul Shard",
+    "count": 64
+   },
+   {
+    "displayName": "Автоматический синтезатор магических слитков",
+    "count": 1
+   },
+   {
+    "displayName": "Life Essence Materializer",
+    "count": 8
+   },
+   {
+    "displayName": "GraviChestPlate",
+    "count": 1
+   },
+   {
+    "displayName": "Awakened Ichorium Pickaxe",
+    "count": 1
+   },
+   {
+    "displayName": "Primal Scribing Tools",
+    "count": 1
+   },
+   {
+    "displayName": "Draconic Core",
+    "count": 12
+   },
+   {
+    "displayName": "32M хранилище создания",
+    "count": 4
+   },
+   {
+    "displayName": "Блок обработки созданий (729 операций)",
+    "count": 4
+   },
+   {
+    "displayName": "Life Shard",
+    "count": 64
+   },
+   {
+    "displayName": "Augment: Квантовый усилитель",
+    "count": 8
+   },
+   {
+    "displayName": "Улучшенный ускоритель",
+    "count": 8
+   },
+   {
+    "displayName": "QuantumSuit Leggings",
+    "count": 1
+   },
+   {
+    "displayName": "Awakened Ichorium Axe",
+    "count": 1
+   },
+   {
+    "displayName": "Бассейн маны из эфирного адамантия",
+    "count": 3
+   },
+   {
+    "displayName": "Эфирный распространитель маны",
+    "count": 3
+   },
+   {
+    "displayName": "Эфирная магическая банка",
+    "count": 3
+   },
+   {
+    "displayName": "Блуждающая эфирная искра",
+    "count": 4
+   },
+   {
+    "displayName": "Overgrowth Seed",
+    "count": 32
+   },
+   {
+    "displayName": "Пробужденная алхимическая конструкция",
+    "count": 4
+   },
+   {
+    "displayName": "Awakened Item Dislocator",
+    "count": 1
+   },
+   {
+    "displayName": "QuantumSuit Boots",
+    "count": 1
+   },
+   {
+    "displayName": "Awakened Ichorium Shovel",
+    "count": 1
+   },
+   {
+    "displayName": "tile.blockQuantumSolarPanel.name",
+    "count": 32
+   },
+   {
+    "displayName": "tile.blockUltimateSolarPanel.name",
+    "count": 24
+   },
+   {
+    "displayName": "Лазерный сборочный стол",
+    "count": 2
+   },
+   {
+    "displayName": "64k ME Aspect Storage Cell",
+    "count": 1
+   },
+   {
+    "displayName": "ME Controller",
+    "count": 16
+   },
+   {
+    "displayName": "Soul Compacter",
+    "count": 1
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения",
+    "count": 1
+   }
+  ],
+  "time": 1555200,
+  "role": "deluxe",
+  "hash": "47be306e-753f-3b36-9986-cecb1676173f"
+ },
+ {
+  "displayName": "Premium",
+  "items": [
+   {
+    "displayName": "Ichorcloth Cowl",
+    "count": 1
+   },
+   {
+    "displayName": "Electric Goggles of Revealing",
+    "count": 1
+   },
+   {
+    "displayName": "tile.blockQuantumSolarPanel.name",
+    "count": 18
+   },
+   {
+    "displayName": "Vajra",
+    "count": 1
+   },
+   {
+    "displayName": "Ultimate Lappack",
+    "count": 1
+   },
+   {
+    "displayName": "tile.unifier.name",
+    "count": 1
+   },
+   {
+    "displayName": "Слиток эфирного адамантия",
+    "count": 8
+   },
+   {
+    "displayName": "Промышленный молекулярный преобразователь",
+    "count": 1
+   },
+   {
+    "displayName": "Iridium Ore",
+    "count": 64
+   },
+   {
+    "displayName": "Ichorcloth Robe",
+    "count": 1
+   },
+   {
+    "displayName": "Aura Node",
+    "count": 4
+   },
+   {
+    "displayName": "Набалдашник: Узел в банке",
+    "count": 1
+   },
+   {
+    "displayName": "Ichorium Adorned Ichorcloth Strapped Silverwood Wand",
+    "count": 1
+   },
+   {
+    "displayName": "Квантовый шахтёр",
+    "count": 1
+   },
+   {
+    "displayName": "Ротор: Квантовый",
+    "count": 1
+   },
+   {
+    "displayName": "Ветрогенератор",
+    "count": 1
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения",
+    "count": 1
+   },
+   {
+    "displayName": "Обогащенный сплав саннариума",
+    "count": 64
+   },
+   {
+    "displayName": "Ichorcloth Leggings",
+    "count": 1
+   },
+   {
+    "displayName": "Akashic Records",
+    "count": 1
+   },
+   {
+    "displayName": "Advanced Circuit",
+    "count": 64
+   },
+   {
+    "displayName": "Gaia Mana Spreader",
+    "count": 8
+   },
+   {
+    "displayName": "Stabilized Mob Spawner",
+    "count": 8
+   },
+   {
+    "displayName": "Red Heart Canister",
+    "count": 10
+   },
+   {
+    "displayName": "Alchemical Construct",
+    "count": 16
+   },
+   {
+    "displayName": "Магическое око",
+    "count": 1
+   },
+   {
+    "displayName": "Квантовый конвертер",
+    "count": 1
+   },
+   {
+    "displayName": "Ichorcloth Boots",
+    "count": 1
+   },
+   {
+    "displayName": "Nanosuit Boots of the Traveller",
+    "count": 1
+   },
+   {
+    "displayName": "Electronic Circuit",
+    "count": 64
+   },
+   {
+    "displayName": "Overgrowth Seed",
+    "count": 8
+   },
+   {
+    "displayName": "Block of Terrasteel",
+    "count": 2
+   },
+   {
+    "displayName": "Greater Band of Mana",
+    "count": 1
+   },
+   {
+    "displayName": "Flügel Tiara",
+    "count": 1
+   },
+   {
+    "displayName": "Стабилизатор рунической матрицы",
+    "count": 1
+   },
+   {
+    "displayName": "Ускоритель рунической матрицы",
+    "count": 4
+   }
+  ],
+  "time": 1209600,
+  "role": "premium",
+  "hash": "7325f403-3ad0-3df1-b49f-0cdb7b65dddd"
+ },
+ {
+  "displayName": "Vip",
+  "items": [
+   {
+    "displayName": "NanoSuit Helmet",
+    "count": 1
+   },
+   {
+    "displayName": "Acceleration Card",
+    "count": 16
+   },
+   {
+    "displayName": "Overclocker Upgrade",
+    "count": 24
+   },
+   {
+    "displayName": "Ejector Upgrade",
+    "count": 24
+   },
+   {
+    "displayName": "Glass Fibre Cable",
+    "count": 64
+   },
+   {
+    "displayName": "Pure Nether Quartz Crystal",
+    "count": 64
+   },
+   {
+    "displayName": "Pure Certus Quartz Crystal",
+    "count": 64
+   },
+   {
+    "displayName": "Pure Fluix Crystal",
+    "count": 64
+   },
+   {
+    "displayName": "16k ME Storage Cell",
+    "count": 1
+   },
+   {
+    "displayName": "NanoSuit Bodyarmor",
+    "count": 1
+   },
+   {
+    "displayName": "tile.blockHybridSolarPanel.name",
+    "count": 24
+   },
+   {
+    "displayName": "Молекулярная ферма",
+    "count": 12
+   },
+   {
+    "displayName": "Промышленный генератор булыжника",
+    "count": 12
+   },
+   {
+    "displayName": "Rupee Shickaxe",
+    "count": 1
+   },
+   {
+    "displayName": "Copper Block",
+    "count": 16
+   },
+   {
+    "displayName": "Tin Block",
+    "count": 16
+   },
+   {
+    "displayName": "Bronze Block",
+    "count": 16
+   },
+   {
+    "displayName": "Lead Block",
+    "count": 16
+   },
+   {
+    "displayName": "NanoSuit Leggings",
+    "count": 1
+   },
+   {
+    "displayName": "ME Controller",
+    "count": 16
+   },
+   {
+    "displayName": "ME Drive",
+    "count": 1
+   },
+   {
+    "displayName": "ME Import Bus",
+    "count": 8
+   },
+   {
+    "displayName": "ME Export Bus",
+    "count": 8
+   },
+   {
+    "displayName": "Mixed Crystal Cluster",
+    "count": 64
+   },
+   {
+    "displayName": "Balanced Shard",
+    "count": 16
+   },
+   {
+    "displayName": "Hydroangeas",
+    "count": 16
+   },
+   {
+    "displayName": "Endoflame",
+    "count": 16
+   },
+   {
+    "displayName": "NanoSuit Boots",
+    "count": 1
+   },
+   {
+    "displayName": "Stabilized Mob Spawner",
+    "count": 2
+   },
+   {
+    "displayName": "ME Glass Cable - Fluix",
+    "count": 64
+   },
+   {
+    "displayName": "ME Interface",
+    "count": 12
+   },
+   {
+    "displayName": "Printed Silicon",
+    "count": 64
+   },
+   {
+    "displayName": "Calculation Processor",
+    "count": 64
+   },
+   {
+    "displayName": "Engineering Processor",
+    "count": 64
+   },
+   {
+    "displayName": "Logic Processor",
+    "count": 64
+   },
+   {
+    "displayName": "Gourmaryllis",
+    "count": 16
+   }
+  ],
+  "time": 604800,
+  "role": "vip",
+  "hash": "18a74aa5-2320-313e-9dce-5c4e19361c78"
+ },
+ {
+  "displayName": "LoliTechnologies",
+  "items": [
+   {
+    "displayName": "Блок обработки созданий (729 операций)",
+    "count": 48
+   },
+   {
+    "displayName": "2048M хранилище создания",
+    "count": 16
+   },
+   {
+    "displayName": "Квантовый беспроводной соединитель",
+    "count": 32
+   },
+   {
+    "displayName": "МЭ интерфейс X4 (36 шаблонов)",
+    "count": 64
+   },
+   {
+    "displayName": "Визуализатор сети",
+    "count": 1
+   },
+   {
+    "displayName": "Золотой верстак для ячеек",
+    "count": 1
+   },
+   {
+    "displayName": "Золотой MЭ накопитель",
+    "count": 8
+   },
+   {
+    "displayName": "Золотой MЭ контроллер",
+    "count": 64
+   },
+   {
+    "displayName": "МЭ Логист",
+    "count": 64
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения жидкости",
+    "count": 1
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения",
+    "count": 1
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения эссенции",
+    "count": 1
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения газов",
+    "count": 1
+   },
+   {
+    "displayName": "Ускоренный молекулярный сборщик",
+    "count": 32
+   },
+   {
+    "displayName": "Резонатор маны",
+    "count": 4
+   },
+   {
+    "displayName": "Матричный кодировщик",
+    "count": 1
+   },
+   {
+    "displayName": "Нейтронный кодировщик",
+    "count": 1
+   },
+   {
+    "displayName": "Квантовый MЭ кабель - Fluix",
+    "count": 64
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения жидкости",
+    "count": 1
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения",
+    "count": 1
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения эссенции",
+    "count": 1
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения газов",
+    "count": 1
+   },
+   {
+    "displayName": "Матричный молекулярный сборщик",
+    "count": 4
+   },
+   {
+    "displayName": "Резонатор крови",
+    "count": 4
+   },
+   {
+    "displayName": "MЭ терминал экстремальных крафтов",
+    "count": 1
+   },
+   {
+    "displayName": "Объединитель блоков обработки и создания",
+    "count": 4
+   },
+   {
+    "displayName": "Квантовый MЭ кабель - Fluix",
+    "count": 64
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения жидкости",
+    "count": 1
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения",
+    "count": 1
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения эссенции",
+    "count": 1
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения газов",
+    "count": 1
+   },
+   {
+    "displayName": "Нейтронный сборщик",
+    "count": 1
+   },
+   {
+    "displayName": "МЭ аннулятор предметов",
+    "count": 8
+   },
+   {
+    "displayName": "МЭ поддерживатель уровня",
+    "count": 2
+   },
+   {
+    "displayName": "Улучшенный порт ввода/вывода",
+    "count": 4
+   },
+   {
+    "displayName": "Квантовый MЭ кабель - Fluix",
+    "count": 64
+   }
+  ],
+  "time": 1209600,
+  "role": "ultra",
+  "hash": "c9d06539-e178-339e-86bd-671b97b266a1"
+ },
+ {
+  "displayName": "Magic",
+  "items": [
+   {
+    "displayName": "Манулиновый капюшон адских глубин",
+    "count": 1
+   },
+   {
+    "displayName": "Синтезатор маны",
+    "count": 1
+   },
+   {
+    "displayName": "Ядро мультитеплицы",
+    "count": 1
+   },
+   {
+    "displayName": "Основа мультитеплицы",
+    "count": 9
+   },
+   {
+    "displayName": "Манастекло",
+    "count": 8
+   },
+   {
+    "displayName": "Темные манакирпичи",
+    "count": 9
+   },
+   {
+    "displayName": "Кукла Сестры Некроманта Бергаммы",
+    "count": 1
+   },
+   {
+    "displayName": "Кукла Сестры Некроманта Келлы",
+    "count": 1
+   },
+   {
+    "displayName": "Золотая руна скорости",
+    "count": 32
+   },
+   {
+    "displayName": "Манулиновая роба стратосферы",
+    "count": 1
+   },
+   {
+    "displayName": "Ускоритель рунической матрицы",
+    "count": 32
+   },
+   {
+    "displayName": "Улучшение мультитеплицы: Эффективность",
+    "count": 1
+   },
+   {
+    "displayName": "Улучшение мультитеплицы: Хранилище (Мана)",
+    "count": 1
+   },
+   {
+    "displayName": "Улучшение мультитеплицы: Скорость (EU)",
+    "count": 1
+   },
+   {
+    "displayName": "Улучшение мультитеплицы: Умножение",
+    "count": 1
+   },
+   {
+    "displayName": "Улучшение мультитеплицы: Переработка",
+    "count": 1
+   },
+   {
+    "displayName": "Алхимическое улучшение удачи",
+    "count": 1
+   },
+   {
+    "displayName": "Золотая руна дислокации",
+    "count": 32
+   },
+   {
+    "displayName": "Манулиновые пылающие шаровары",
+    "count": 1
+   },
+   {
+    "displayName": "Автоматический синтезатор магических слитков",
+    "count": 1
+   },
+   {
+    "displayName": "Слиток эфирного адамантия",
+    "count": 64
+   },
+   {
+    "displayName": "Слиток призрачного адамантия",
+    "count": 48
+   },
+   {
+    "displayName": "Слиток чародейского адамантия",
+    "count": 32
+   },
+   {
+    "displayName": "Слиток дракониевого адамантия",
+    "count": 16
+   },
+   {
+    "displayName": "Blood Money x64",
+    "count": 64
+   },
+   {
+    "displayName": "Алхимическое улучшение скорости",
+    "count": 1
+   },
+   {
+    "displayName": "Золотая руна самопожертвования",
+    "count": 32
+   },
+   {
+    "displayName": "Манулиновые щитовые сапоги",
+    "count": 1
+   },
+   {
+    "displayName": "Синтезатор маны для жезлов",
+    "count": 1
+   },
+   {
+    "displayName": "Манулиновое хранилище",
+    "count": 1
+   },
+   {
+    "displayName": "Кольцо из чародейского адамантия",
+    "count": 1
+   },
+   {
+    "displayName": "Душа летучей мыши",
+    "count": 4
+   },
+   {
+    "displayName": "Свиток искажения",
+    "count": 1
+   },
+   {
+    "displayName": "Свиток очищения",
+    "count": 1
+   },
+   {
+    "displayName": "Ritual Stone",
+    "count": 64
+   },
+   {
+    "displayName": "Master Ritual Stone",
+    "count": 4
+   }
+  ],
+  "time": 1296000,
+  "role": "ultra",
+  "hash": "7506b5dd-7fd6-396d-8d20-0a2e2ca7e2d7"
+ },
+ {
+  "displayName": "Forestry",
+  "items": [
+   {
+    "displayName": "Apiarist's Hat",
+    "count": 1
+   },
+   {
+    "displayName": "Большой рюкзак",
+    "count": 1
+   },
+   {
+    "displayName": "Механический Гибискус",
+    "count": 1
+   },
+   {
+    "displayName": "Механический Улейцинт",
+    "count": 1
+   },
+   {
+    "displayName": "Совершенная Центрифуга",
+    "count": 1
+   },
+   {
+    "displayName": "Scoop",
+    "count": 1
+   },
+   {
+    "displayName": "Alveary",
+    "count": 54
+   },
+   {
+    "displayName": "Fermenter",
+    "count": 1
+   },
+   {
+    "displayName": "Still",
+    "count": 1
+   },
+   {
+    "displayName": "Apiarist's Shirt",
+    "count": 1
+   },
+   {
+    "displayName": "Squeezer",
+    "count": 8
+   },
+   {
+    "displayName": "Centrifuge",
+    "count": 8
+   },
+   {
+    "displayName": "Thermionic Fabricator",
+    "count": 8
+   },
+   {
+    "displayName": "Block of Apatite",
+    "count": 64
+   },
+   {
+    "displayName": "Genetics Labware",
+    "count": 64
+   },
+   {
+    "displayName": "Industrial Apiary",
+    "count": 32
+   },
+   {
+    "displayName": "Production Upgrade",
+    "count": 16
+   },
+   {
+    "displayName": "Pollen Collection Kit",
+    "count": 64
+   },
+   {
+    "displayName": "Apiarist's Pants",
+    "count": 1
+   },
+   {
+    "displayName": "Mutagen Producer",
+    "count": 1
+   },
+   {
+    "displayName": "Protein Liquifier",
+    "count": 1
+   },
+   {
+    "displayName": "DNA Extractor",
+    "count": 1
+   },
+   {
+    "displayName": "Advanced Mutatron",
+    "count": 1
+   },
+   {
+    "displayName": "Genetic Transposer",
+    "count": 1
+   },
+   {
+    "displayName": "Genetic Replicator",
+    "count": 1
+   },
+   {
+    "displayName": "Genetic Imprinter",
+    "count": 1
+   },
+   {
+    "displayName": "Genetic Sampler",
+    "count": 1
+   },
+   {
+    "displayName": "Apiarist's Shoes",
+    "count": 1
+   },
+   {
+    "displayName": "Tropical Hive",
+    "count": 10
+   },
+   {
+    "displayName": "Wintry Hive",
+    "count": 10
+   },
+   {
+    "displayName": "Meadows Hive",
+    "count": 10
+   },
+   {
+    "displayName": "Nether Hive",
+    "count": 10
+   },
+   {
+    "displayName": "Marshy Hive",
+    "count": 10
+   },
+   {
+    "displayName": "Water Hive",
+    "count": 10
+   },
+   {
+    "displayName": "Modest Hive",
+    "count": 10
+   },
+   {
+    "displayName": "Forest Hive",
+    "count": 10
+   }
+  ],
+  "time": 1555200,
+  "role": "deluxe",
+  "hash": "d214e29c-ec00-3491-afb8-e2102b56548b"
+ },
+ {
+  "displayName": "Applied",
+  "items": [
+   {
+    "displayName": "Гибридная плотная энергетическая ячейка",
+    "count": 1
+   },
+   {
+    "displayName": "Блок обработки созданий (729 операций)",
+    "count": 4
+   },
+   {
+    "displayName": "256K хранилище создания",
+    "count": 8
+   },
+   {
+    "displayName": "Улучшенный беспроводной соединитель",
+    "count": 8
+   },
+   {
+    "displayName": "Набор для настройки беспроводного соединителя",
+    "count": 1
+   },
+   {
+    "displayName": "Дубликатор шаблонов",
+    "count": 1
+   },
+   {
+    "displayName": "Silicon",
+    "count": 64
+   },
+   {
+    "displayName": "Nether Quartz Dust",
+    "count": 64
+   },
+   {
+    "displayName": "Molecular Assembler",
+    "count": 24
+   },
+   {
+    "displayName": "Pure Fluix Crystal",
+    "count": 64
+   },
+   {
+    "displayName": "Pure Certus Quartz Crystal",
+    "count": 64
+   },
+   {
+    "displayName": "Wireless Receiver",
+    "count": 4
+   },
+   {
+    "displayName": "Fluix Dust",
+    "count": 64
+   },
+   {
+    "displayName": "Sky Stone",
+    "count": 64
+   },
+   {
+    "displayName": "Wireless Booster",
+    "count": 32
+   },
+   {
+    "displayName": "ME Wireless Access Point",
+    "count": 1
+   },
+   {
+    "displayName": "Wireless Terminal",
+    "count": 1
+   },
+   {
+    "displayName": "Quartz Glass",
+    "count": 32
+   },
+   {
+    "displayName": "Blank Pattern",
+    "count": 64
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения",
+    "count": 1
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения жидкости",
+    "count": 1
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения газов",
+    "count": 1
+   },
+   {
+    "displayName": "Бесконечная МЭ ячейка хранения эссенции",
+    "count": 1
+   },
+   {
+    "displayName": "Fluix Block",
+    "count": 64
+   },
+   {
+    "displayName": "Certus Quartz Block",
+    "count": 64
+   },
+   {
+    "displayName": "ME Export Bus",
+    "count": 16
+   },
+   {
+    "displayName": "ME Import Bus",
+    "count": 16
+   },
+   {
+    "displayName": "ME Crafting Terminal",
+    "count": 1
+   },
+   {
+    "displayName": "ME Interface Terminal",
+    "count": 1
+   },
+   {
+    "displayName": "ME Pattern Terminal",
+    "count": 1
+   },
+   {
+    "displayName": "ME Controller",
+    "count": 32
+   },
+   {
+    "displayName": "ME Drive",
+    "count": 8
+   },
+   {
+    "displayName": "ME Interface",
+    "count": 32
+   },
+   {
+    "displayName": "Квантовый MЭ кабель - Fluix",
+    "count": 64
+   },
+   {
+    "displayName": "Квантовый MЭ кабель - Fluix",
+    "count": 64
+   },
+   {
+    "displayName": "Memory Card",
+    "count": 1
+   }
+  ],
+  "time": 1209600,
+  "role": "premium",
+  "hash": "1467db11-07f0-3c30-9033-86e075bbbcfa"
+ },
+ {
+  "displayName": "Industrial",
+  "items": [
+   {
+    "displayName": "Scuba Helmet",
+    "count": 1
+   },
+   {
+    "displayName": "Overclocker Upgrade",
+    "count": 32
+   },
+   {
+    "displayName": "Pulling Upgrade",
+    "count": 16
+   },
+   {
+    "displayName": "Ejector Upgrade",
+    "count": 16
+   },
+   {
+    "displayName": "Жидкостный затягиватель",
+    "count": 16
+   },
+   {
+    "displayName": "Fluid Ejector Upgrade",
+    "count": 16
+   },
+   {
+    "displayName": "Transformer Upgrade",
+    "count": 16
+   },
+   {
+    "displayName": "GraviTool (Wrench)",
+    "count": 1
+   },
+   {
+    "displayName": "Усиленная жидкостная капсула",
+    "count": 16
+   },
+   {
+    "displayName": "Hazmat Suit",
+    "count": 1
+   },
+   {
+    "displayName": "Electronic Circuit",
+    "count": 32
+   },
+   {
+    "displayName": "Advanced Circuit",
+    "count": 32
+   },
+   {
+    "displayName": "Rubber",
+    "count": 64
+   },
+   {
+    "displayName": "MFSU",
+    "count": 1
+   },
+   {
+    "displayName": "Reinforced Stone",
+    "count": 16
+   },
+   {
+    "displayName": "Reinforced Glass",
+    "count": 16
+   },
+   {
+    "displayName": "Basic Machine Casing",
+    "count": 10
+   },
+   {
+    "displayName": "Сингулярный генератор жидкой материи",
+    "count": 10
+   },
+   {
+    "displayName": "Hazmat Suit Leggings",
+    "count": 1
+   },
+   {
+    "displayName": "Glass Fibre Cable",
+    "count": 64
+   },
+   {
+    "displayName": "Glass Fibre Cable",
+    "count": 64
+   },
+   {
+    "displayName": "Glass Fibre Cable",
+    "count": 64
+   },
+   {
+    "displayName": "Energium Dust",
+    "count": 64
+   },
+   {
+    "displayName": "Lead Block",
+    "count": 16
+   },
+   {
+    "displayName": "Refined Iron Block",
+    "count": 32
+   },
+   {
+    "displayName": "Uranium Block",
+    "count": 32
+   },
+   {
+    "displayName": "Bronze Block",
+    "count": 32
+   },
+   {
+    "displayName": "Rubber Boots",
+    "count": 1
+   },
+   {
+    "displayName": "Extractor",
+    "count": 2
+   },
+   {
+    "displayName": "Macerator",
+    "count": 2
+   },
+   {
+    "displayName": "Electric Furnace",
+    "count": 2
+   },
+   {
+    "displayName": "Compressor",
+    "count": 2
+   },
+   {
+    "displayName": "Fluid/Solid Canning Machine",
+    "count": 2
+   },
+   {
+    "displayName": "Metal Former",
+    "count": 2
+   },
+   {
+    "displayName": "Block Cutting Machine",
+    "count": 2
+   },
+   {
+    "displayName": "Block Cutting Blade (Diamond)",
+    "count": 1
+   }
+  ],
+  "time": 604800,
+  "role": "vip",
+  "hash": "fcc18f7d-39cd-3b43-b898-5cb05c45952c"
+ }
+]

@@ -1,0 +1,629 @@
+language.name=English
+language.region=US
+language.code=en_US
+
+lolidecorative.itemGroup.main=LoliDecorative: Main
+lolidecorative.itemGroup.neon=LoliDecorative: Neon
+lolidecorative.itemGroup.light=LoliDecorative: Light
+lolidecorative.itemGroup.gothic=LoliDecorative: Gothic
+lolidecorative.itemGroup.ice=LoliDecorative: Ice
+lolidecorative.itemGroup.marble=LoliDecorative: Marble
+lolidecorative.itemGroup.forest=LoliDecorative: Forest
+lolidecorative.itemGroup.japan=LoliDecorative: Japan
+
+lolidecorative.tile.coloredBlack.name=Black Block
+lolidecorative.tile.coloredDarkBlue.name=Dark Blue Block
+lolidecorative.tile.coloredDarkGreen.name=Dark Green Block
+lolidecorative.tile.coloredDarkCyan.name=Dark Cyan Block
+lolidecorative.tile.coloredDarkRed.name=Dark Red Block
+lolidecorative.tile.coloredDarkViolet.name=Dark Violet Block
+lolidecorative.tile.coloredOrange.name=Orange Block
+lolidecorative.tile.coloredGray.name=Gray Block
+lolidecorative.tile.coloredDarkGray.name=Dark Gray Block
+lolidecorative.tile.coloredLightBlue.name=Light Blue Block
+lolidecorative.tile.coloredGreen.name=Green Block
+lolidecorative.tile.coloredCyan.name=Cyan Block
+lolidecorative.tile.coloredRed.name=Red Block
+lolidecorative.tile.coloredViolet.name=Violet Block
+lolidecorative.tile.coloredYellow.name=Yellow Block
+lolidecorative.tile.coloredWhite.name=White Block
+
+lolidecorative.tile.coloredBlackStairs.name=Black Stairs
+lolidecorative.tile.coloredDarkBlueStairs.name=Dark Blue Stairs
+lolidecorative.tile.coloredDarkGreenStairs.name=Dark Green Stairs
+lolidecorative.tile.coloredDarkCyanStairs.name=Dark Cyan Stairs
+lolidecorative.tile.coloredDarkRedStairs.name=Dark Red Stairs
+lolidecorative.tile.coloredDarkVioletStairs.name=Dark Violet Stairs
+lolidecorative.tile.coloredOrangeStairs.name=Orange Stairs
+lolidecorative.tile.coloredGrayStairs.name=Gray Stairs
+lolidecorative.tile.coloredDarkGrayStairs.name=Dark Gray Stairs
+lolidecorative.tile.coloredLightBlueStairs.name=Light Blue Stairs
+lolidecorative.tile.coloredGreenStairs.name=Green Stairs
+lolidecorative.tile.coloredCyanStairs.name=Cyan Stairs
+lolidecorative.tile.coloredRedStairs.name=Red Stairs
+lolidecorative.tile.coloredVioletStairs.name=Violet Stairs
+lolidecorative.tile.coloredYellowStairs.name=Yellow Stairs
+lolidecorative.tile.coloredWhiteStairs.name=White Stairs
+
+lolidecorative.tile.coloredBlackFence.name=Black Fence
+lolidecorative.tile.coloredDarkBlueFence.name=Dark Blue Fence
+lolidecorative.tile.coloredDarkGreenFence.name=Dark Green Fence
+lolidecorative.tile.coloredDarkCyanFence.name=Dark Cyan Fence
+lolidecorative.tile.coloredDarkRedFence.name=Dark Red Fence
+lolidecorative.tile.coloredDarkVioletFence.name=Dark Violet Fence
+lolidecorative.tile.coloredOrangeFence.name=Orange Fence
+lolidecorative.tile.coloredGrayFence.name=Gray Fence
+lolidecorative.tile.coloredDarkGrayFence.name=Dark Gray Fence
+lolidecorative.tile.coloredLightBlueFence.name=Light Blue Fence
+lolidecorative.tile.coloredGreenFence.name=Green Fence
+lolidecorative.tile.coloredCyanFence.name=Cyan Fence
+lolidecorative.tile.coloredRedFence.name=Red Fence
+lolidecorative.tile.coloredVioletFence.name=Violet Fence
+lolidecorative.tile.coloredYellowFence.name=Yellow Fence
+lolidecorative.tile.coloredWhiteFence.name=White Fence
+
+lolidecorative.tile.coloredBlackWall.name=Black Wall
+lolidecorative.tile.coloredDarkBlueWall.name=Dark Blue Wall
+lolidecorative.tile.coloredDarkGreenWall.name=Dark Green Wall
+lolidecorative.tile.coloredDarkCyanWall.name=Dark Cyan Wall
+lolidecorative.tile.coloredDarkRedWall.name=Dark Red Wall
+lolidecorative.tile.coloredDarkVioletWall.name=Dark Violet Wall
+lolidecorative.tile.coloredOrangeWall.name=Orange Wall
+lolidecorative.tile.coloredGrayWall.name=Gray Wall
+lolidecorative.tile.coloredDarkGrayWall.name=Dark Gray Wall
+lolidecorative.tile.coloredLightBlueWall.name=Light Blue Wall
+lolidecorative.tile.coloredGreenWall.name=Green Wall
+lolidecorative.tile.coloredCyanWall.name=Cyan Wall
+lolidecorative.tile.coloredRedWall.name=Red Wall
+lolidecorative.tile.coloredVioletWall.name=Violet Wall
+lolidecorative.tile.coloredYellowWall.name=Yellow Wall
+lolidecorative.tile.coloredWhiteWall.name=White Wall
+
+lolidecorative.tile.coloredBlackSlab.name=Black Slab
+lolidecorative.tile.coloredDarkBlueSlab.name=Dark Blue Slab
+lolidecorative.tile.coloredDarkGreenSlab.name=Dark Green Slab
+lolidecorative.tile.coloredDarkCyanSlab.name=Dark Cyan Slab
+lolidecorative.tile.coloredDarkRedSlab.name=Dark Red Slab
+lolidecorative.tile.coloredDarkVioletSlab.name=Dark Violet Slab
+lolidecorative.tile.coloredOrangeSlab.name=Orange Slab
+lolidecorative.tile.coloredGraySlab.name=Gray Slab
+lolidecorative.tile.coloredDarkGraySlab.name=Dark Gray Slab
+lolidecorative.tile.coloredLightBlueSlab.name=Light Blue Slab
+lolidecorative.tile.coloredGreenSlab.name=Green Slab
+lolidecorative.tile.coloredCyanSlab.name=Cyan Slab
+lolidecorative.tile.coloredRedSlab.name=Red Slab
+lolidecorative.tile.coloredVioletSlab.name=Violet Slab
+lolidecorative.tile.coloredYellowSlab.name=Yellow Slab
+lolidecorative.tile.coloredWhiteSlab.name=White Slab
+
+lolidecorative.tile.coloredBricksBlack.name=Black Bricks
+lolidecorative.tile.coloredBricksDarkBlue.name=Dark Blue Bricks
+lolidecorative.tile.coloredBricksDarkGreen.name=Dark Green Bricks
+lolidecorative.tile.coloredBricksDarkCyan.name=Dark Cyan Bricks
+lolidecorative.tile.coloredBricksDarkRed.name=Dark Red Bricks
+lolidecorative.tile.coloredBricksDarkViolet.name=Dark Violet Bricks
+lolidecorative.tile.coloredBricksOrange.name=Orange Bricks
+lolidecorative.tile.coloredBricksGray.name=Gray Bricks
+lolidecorative.tile.coloredBricksDarkGray.name=Dark Gray Bricks
+lolidecorative.tile.coloredBricksLightBlue.name=Light Blue Bricks
+lolidecorative.tile.coloredBricksGreen.name=Green Bricks
+lolidecorative.tile.coloredBricksCyan.name=Cyan Bricks
+lolidecorative.tile.coloredBricksRed.name=Red Bricks
+lolidecorative.tile.coloredBricksViolet.name=Violet Bricks
+lolidecorative.tile.coloredBricksYellow.name=Yellow Bricks
+lolidecorative.tile.coloredBricksWhite.name=White Bricks
+
+lolidecorative.tile.coloredBricksBlackStairs.name=Black Bricks Stairs
+lolidecorative.tile.coloredBricksDarkBlueStairs.name=Dark Blue Bricks Stairs
+lolidecorative.tile.coloredBricksDarkGreenStairs.name=Dark Green Bricks Stairs
+lolidecorative.tile.coloredBricksDarkCyanStairs.name=Dark Cyan Bricks Stairs
+lolidecorative.tile.coloredBricksDarkRedStairs.name=Dark Red Bricks Stairs
+lolidecorative.tile.coloredBricksDarkVioletStairs.name=Dark Violet Bricks Stairs
+lolidecorative.tile.coloredBricksOrangeStairs.name=Orange Bricks Stairs
+lolidecorative.tile.coloredBricksGrayStairs.name=Gray Bricks Stairs
+lolidecorative.tile.coloredBricksDarkGrayStairs.name=Dark Gray Bricks Stairs
+lolidecorative.tile.coloredBricksLightBlueStairs.name=Light Blue Bricks Stairs
+lolidecorative.tile.coloredBricksGreenStairs.name=Green Bricks Stairs
+lolidecorative.tile.coloredBricksCyanStairs.name=Cyan Bricks Stairs
+lolidecorative.tile.coloredBricksRedStairs.name=Red Bricks Stairs
+lolidecorative.tile.coloredBricksVioletStairs.name=Violet Bricks Stairs
+lolidecorative.tile.coloredBricksYellowStairs.name=Yellow Bricks Stairs
+lolidecorative.tile.coloredBricksWhiteStairs.name=White Bricks Stairs
+
+lolidecorative.tile.coloredBricksBlackWall.name=Black Bricks Wall
+lolidecorative.tile.coloredBricksDarkBlueWall.name=Dark Blue Bricks Wall
+lolidecorative.tile.coloredBricksDarkGreenWall.name=Dark Green Bricks Wall
+lolidecorative.tile.coloredBricksDarkCyanWall.name=Dark Cyan Bricks Wall
+lolidecorative.tile.coloredBricksDarkRedWall.name=Dark Red Bricks Wall
+lolidecorative.tile.coloredBricksDarkVioletWall.name=Dark Violet Bricks Wall
+lolidecorative.tile.coloredBricksOrangeWall.name=Orange Bricks Wall
+lolidecorative.tile.coloredBricksGrayWall.name=Gray Bricks Wall
+lolidecorative.tile.coloredBricksDarkGrayWall.name=Dark Gray Bricks Wall
+lolidecorative.tile.coloredBricksLightBlueWall.name=Light Blue Bricks Wall
+lolidecorative.tile.coloredBricksGreenWall.name=Green Bricks Wall
+lolidecorative.tile.coloredBricksCyanWall.name=Cyan Bricks Wall
+lolidecorative.tile.coloredBricksRedWall.name=Red Bricks Wall
+lolidecorative.tile.coloredBricksVioletWall.name=Violet Bricks Wall
+lolidecorative.tile.coloredBricksYellowWall.name=Yellow Bricks Wall
+lolidecorative.tile.coloredBricksWhiteWall.name=White Bricks Wall
+
+lolidecorative.tile.coloredBricksBlackSlab.name=Black Bricks Slab
+lolidecorative.tile.coloredBricksDarkBlueSlab.name=Dark Blue Bricks Slab
+lolidecorative.tile.coloredBricksDarkGreenSlab.name=Dark Green Bricks Slab
+lolidecorative.tile.coloredBricksDarkCyanSlab.name=Dark Cyan Bricks Slab
+lolidecorative.tile.coloredBricksDarkRedSlab.name=Dark Red Bricks Slab
+lolidecorative.tile.coloredBricksDarkVioletSlab.name=Dark Violet Bricks Slab
+lolidecorative.tile.coloredBricksOrangeSlab.name=Orange Bricks Slab
+lolidecorative.tile.coloredBricksGraySlab.name=Gray Bricks Slab
+lolidecorative.tile.coloredBricksDarkGraySlab.name=Dark Gray Bricks Slab
+lolidecorative.tile.coloredBricksLightBlueSlab.name=Light Blue Bricks Slab
+lolidecorative.tile.coloredBricksGreenSlab.name=Green Bricks Slab
+lolidecorative.tile.coloredBricksCyanSlab.name=Cyan Bricks Slab
+lolidecorative.tile.coloredBricksRedSlab.name=Red Bricks Slab
+lolidecorative.tile.coloredBricksVioletSlab.name=Violet Bricks Slab
+lolidecorative.tile.coloredBricksYellowSlab.name=Yellow Bricks Slab
+lolidecorative.tile.coloredBricksWhiteSlab.name=White Bricks Slab
+
+lolidecorative.tile.coloredLightBlack.name=Black Light
+lolidecorative.tile.coloredLightDarkBlue.name=Dark Blue Light
+lolidecorative.tile.coloredLightDarkGreen.name=Dark Green Light
+lolidecorative.tile.coloredLightDarkCyan.name=Dark Cyan Light
+lolidecorative.tile.coloredLightDarkRed.name=Dark Red Light
+lolidecorative.tile.coloredLightDarkViolet.name=Dark Violet Light
+lolidecorative.tile.coloredLightOrange.name=Orange Light
+lolidecorative.tile.coloredLightGray.name=Gray Light
+lolidecorative.tile.coloredLightDarkGray.name=Dark Gray Light
+lolidecorative.tile.coloredLightLightBlue.name=Light Blue Light
+lolidecorative.tile.coloredLightGreen.name=Green Light
+lolidecorative.tile.coloredLightCyan.name=Cyan Light
+lolidecorative.tile.coloredLightRed.name=Red Light
+lolidecorative.tile.coloredLightViolet.name=Violet Light
+lolidecorative.tile.coloredLightYellow.name=Yellow Light
+lolidecorative.tile.coloredLightWhite.name=White Light
+
+lolidecorative.tile.coloredStoneBlack.name=Black Stone
+lolidecorative.tile.coloredStoneDarkBlue.name=Dark Blue Stone
+lolidecorative.tile.coloredStoneDarkGreen.name=Dark Green Stone
+lolidecorative.tile.coloredStoneDarkCyan.name=Dark Cyan Stone
+lolidecorative.tile.coloredStoneDarkRed.name=Dark Red Stone
+lolidecorative.tile.coloredStoneDarkViolet.name=Dark Violet Stone
+lolidecorative.tile.coloredStoneOrange.name=Orange Stone
+lolidecorative.tile.coloredStoneGray.name=Gray Stone
+lolidecorative.tile.coloredStoneDarkGray.name=Dark Gray Stone
+lolidecorative.tile.coloredStoneLightBlue.name=Light Blue Stone
+lolidecorative.tile.coloredStoneGreen.name=Green Stone
+lolidecorative.tile.coloredStoneCyan.name=Cyan Stone
+lolidecorative.tile.coloredStoneRed.name=Red Stone
+lolidecorative.tile.coloredStoneViolet.name=Violet Stone
+lolidecorative.tile.coloredStoneYellow.name=Yellow Stone
+lolidecorative.tile.coloredStoneWhite.name=White Stone
+
+lolidecorative.tile.coloredStoneBlackWall.name=Black Stone Wall
+lolidecorative.tile.coloredStoneDarkBlueWall.name=Dark Blue Stone Wall
+lolidecorative.tile.coloredStoneDarkGreenWall.name=Dark Green Stone Wall
+lolidecorative.tile.coloredStoneDarkCyanWall.name=Dark Cyan Stone Wall
+lolidecorative.tile.coloredStoneDarkRedWall.name=Dark Red Stone Wall
+lolidecorative.tile.coloredStoneDarkVioletWall.name=Dark Violet Stone Wall
+lolidecorative.tile.coloredStoneOrangeWall.name=Orange Stone Wall
+lolidecorative.tile.coloredStoneGrayWall.name=Gray Stone Wall
+lolidecorative.tile.coloredStoneDarkGrayWall.name=Dark Gray Stone Wall
+lolidecorative.tile.coloredStoneLightBlueWall.name=Light Blue Stone Wall
+lolidecorative.tile.coloredStoneGreenWall.name=Green Stone Wall
+lolidecorative.tile.coloredStoneCyanWall.name=Cyan Stone Wall
+lolidecorative.tile.coloredStoneRedWall.name=Red Stone Wall
+lolidecorative.tile.coloredStoneVioletWall.name=Violet Stone Wall
+lolidecorative.tile.coloredStoneYellowWall.name=Yellow Stone Wall
+lolidecorative.tile.coloredStoneWhiteWall.name=White Stone Wall
+
+lolidecorative.tile.coloredGrassBlack.name=Black Grass
+lolidecorative.tile.coloredGrassDarkBlue.name=Dark Blue Grass
+lolidecorative.tile.coloredGrassDarkGreen.name=Dark Green Grass
+lolidecorative.tile.coloredGrassDarkCyan.name=Dark Cyan Grass
+lolidecorative.tile.coloredGrassDarkRed.name=Dark Red Grass
+lolidecorative.tile.coloredGrassDarkViolet.name=Dark Violet Grass
+lolidecorative.tile.coloredGrassOrange.name=Orange Grass
+lolidecorative.tile.coloredGrassGray.name=Gray Grass
+lolidecorative.tile.coloredGrassDarkGray.name=Dark Gray Grass
+lolidecorative.tile.coloredGrassLightBlue.name=Light Blue Grass
+lolidecorative.tile.coloredGrassGreen.name=Green Grass
+lolidecorative.tile.coloredGrassCyan.name=Cyan Grass
+lolidecorative.tile.coloredGrassRed.name=Red Grass
+lolidecorative.tile.coloredGrassViolet.name=Violet Grass
+lolidecorative.tile.coloredGrassYellow.name=Yellow Grass
+lolidecorative.tile.coloredGrassWhite.name=White Grass
+
+lolidecorative.tile.coloredGrassFlowersBlack.name=Black Grass With Flowers
+lolidecorative.tile.coloredGrassFlowersDarkBlue.name=Dark Blue Grass With Flowers
+lolidecorative.tile.coloredGrassFlowersDarkGreen.name=Dark Green Grass With Flowers
+lolidecorative.tile.coloredGrassFlowersDarkCyan.name=Dark Cyan Grass With Flowers
+lolidecorative.tile.coloredGrassFlowersDarkRed.name=Dark Red Grass With Flowers
+lolidecorative.tile.coloredGrassFlowersDarkViolet.name=Dark Violet Grass With Flowers
+lolidecorative.tile.coloredGrassFlowersOrange.name=Orange Grass With Flowers
+lolidecorative.tile.coloredGrassFlowersGray.name=Gray Grass With Flowers
+lolidecorative.tile.coloredGrassFlowersDarkGray.name=Dark Gray Grass With Flowers
+lolidecorative.tile.coloredGrassFlowersLightBlue.name=Light Blue Grass With Flowers
+lolidecorative.tile.coloredGrassFlowersGreen.name=Green Grass With Flowers
+lolidecorative.tile.coloredGrassFlowersCyan.name=Cyan Grass With Flowers
+lolidecorative.tile.coloredGrassFlowersRed.name=Red Grass With Flowers
+lolidecorative.tile.coloredGrassFlowersViolet.name=Violet Grass With Flowers
+lolidecorative.tile.coloredGrassFlowersYellow.name=Yellow Grass With Flowers
+lolidecorative.tile.coloredGrassFlowersWhite.name=White Grass With Flowers
+
+lolidecorative.tile.streetCobblestone.name=Street Cobblestone
+lolidecorative.tile.wideMasonry.name=Wide Masonry
+lolidecorative.tile.stoneBrick.name=Stone Brick
+lolidecorative.tile.crossMasonry.name=Cross Masonry
+lolidecorative.tile.darkStreetCobblestone.name=Dark Street Cobblestone
+lolidecorative.tile.darkWideMasonry.name=Dark Wide Masonry
+lolidecorative.tile.darkStoneBrick.name=Dark Stone Brick
+lolidecorative.tile.darkCrossMasonry.name=Dark Cross Masonry
+lolidecorative.tile.lightStreetCobblestone.name=Light Street Cobblestone
+lolidecorative.tile.lightWideMasonry.name=Light Wide Masonry
+lolidecorative.tile.lightStoneBrick.name=Light Stone Brick
+lolidecorative.tile.lightCrossMasonry.name=Light Cross Masonry
+
+lolidecorative.tile.streetCobblestoneStairs.name=Street Cobblestone Stairs
+lolidecorative.tile.wideMasonryStairs.name=Wide Masonry Stairs
+lolidecorative.tile.stoneBrickStairs.name=Stone Brick Stairs
+lolidecorative.tile.crossMasonryStairs.name=Cross Masonry Stairs
+lolidecorative.tile.darkStreetCobblestoneStairs.name=Dark Street Cobblestone Stairs
+lolidecorative.tile.darkWideMasonryStairs.name=Dark Wide Masonry Stairs
+lolidecorative.tile.darkStoneBrickStairs.name=Dark Stone Brick Stairs
+lolidecorative.tile.darkCrossMasonryStairs.name=Dark Cross Masonry Stairs
+lolidecorative.tile.lightStreetCobblestoneStairs.name=Light Street Cobblestone Stairs
+lolidecorative.tile.lightWideMasonryStairs.name=Light Wide Masonry Stairs
+lolidecorative.tile.lightStoneBrickStairs.name=Light Stone Brick Stairs
+lolidecorative.tile.lightCrossMasonryStairs.name=Light Cross Masonry Stairs
+
+lolidecorative.tile.streetCobblestoneWall.name=Street Cobblestone Wall
+lolidecorative.tile.wideMasonryWall.name=Wide Masonry Wall
+lolidecorative.tile.stoneBrickWall.name=Stone Brick Wall
+lolidecorative.tile.crossMasonryWall.name=Cross Masonry Wall
+lolidecorative.tile.darkStreetCobblestoneWall.name=Dark Street Cobblestone Wall
+lolidecorative.tile.darkWideMasonryWall.name=Dark Wide Masonry Wall
+lolidecorative.tile.darkStoneBrickWall.name=Dark Stone Brick Wall
+lolidecorative.tile.darkCrossMasonryWall.name=Dark Cross Masonry Wall
+lolidecorative.tile.lightStreetCobblestoneWall.name=Light Street Cobblestone Wall
+lolidecorative.tile.lightWideMasonryWall.name=Light Wide Masonry Wall
+lolidecorative.tile.lightStoneBrickWall.name=Light Stone Brick Wall
+lolidecorative.tile.lightCrossMasonryWall.name=Light Cross Masonry Wall
+
+lolidecorative.tile.streetCobblestoneSlab.name=Street Cobblestone Slab
+lolidecorative.tile.wideMasonrySlab.name=Wide Masonry Slab
+lolidecorative.tile.stoneBrickSlab.name=Stone Brick Slab
+lolidecorative.tile.crossMasonrySlab.name=Cross Masonry Slab
+lolidecorative.tile.darkStreetCobblestoneSlab.name=Dark Street Cobblestone Slab
+lolidecorative.tile.darkWideMasonrySlab.name=Dark Wide Masonry Slab
+lolidecorative.tile.darkStoneBrickSlab.name=Dark Stone Brick Slab
+lolidecorative.tile.darkCrossMasonrySlab.name=Dark Cross Masonry Slab
+lolidecorative.tile.lightStreetCobblestoneSlab.name=Light Street Cobblestone Slab
+lolidecorative.tile.lightWideMasonrySlab.name=Light Wide Masonry Slab
+lolidecorative.tile.lightStoneBrickSlab.name=Light Stone Brick Slab
+lolidecorative.tile.lightCrossMasonrySlab.name=Light Cross Masonry Slab
+
+lolidecorative.tile.orangeTile.name=Orange Tile
+lolidecorative.tile.violetTile.name=Violet Tile
+lolidecorative.tile.greenTile.name=Green Tile
+lolidecorative.tile.lightBlueTile.name=Light Blue Tile
+lolidecorative.tile.redTile.name=Red Tile
+lolidecorative.tile.orangeBurningTile.name=Orange Burning Tile
+lolidecorative.tile.violetBurningTile.name=Violet Burning Tile
+lolidecorative.tile.greenBurningTile.name=Green Burning Tile
+lolidecorative.tile.lightBlueBurningTile.name=Light Blue Burning Tile
+lolidecorative.tile.redBurningTile.name=Red Burning Tile
+
+lolidecorative.tile.orangeTileWall.name=Orange Tile Wall
+lolidecorative.tile.violetTileWall.name=Violet Tile Wall
+lolidecorative.tile.greenTileWall.name=Green Tile Wall
+lolidecorative.tile.lightBlueTileWall.name=Light Blue Tile Wall
+lolidecorative.tile.redTileWall.name=Red Tile Wall
+lolidecorative.tile.orangeBurningTileWall.name=Orange Burning Tile Wall
+lolidecorative.tile.violetBurningTileWall.name=Violet Burning Tile Wall
+lolidecorative.tile.greenBurningTileWall.name=Green Burning Tile Wall
+lolidecorative.tile.lightBlueBurningTileWall.name=Light Blue Burning Tile Wall
+lolidecorative.tile.redBurningTileWall.name=Red Burning Tile Wall
+
+lolidecorative.tile.orangeGlowStone.name=Orange Glow Stone
+lolidecorative.tile.violetGlowStone.name=Violet Glow Stone
+lolidecorative.tile.greenGlowStone.name=Green Glow Stone
+lolidecorative.tile.lightBlueGlowStone.name=Light Blue Glow Stone
+lolidecorative.tile.redGlowStone.name=Red Glow Stone
+
+lolidecorative.tile.glitch.name=Glitch
+lolidecorative.tile.orangeGlitch.name=Orange Glitch
+lolidecorative.tile.violetGlitch.name=Violet Glitch
+lolidecorative.tile.greenGlitch.name=Green Glitch
+lolidecorative.tile.lightBlueGlitch.name=Light Blue Glitch
+lolidecorative.tile.redGlitch.name=Red Glitch
+
+lolidecorative.tile.beigeShiningBlock.name=Beige Shining Block
+lolidecorative.tile.lilacShiningBlock.name=Lilac Shining Block
+lolidecorative.tile.greenShiningBlock.name=Green Shining Block
+lolidecorative.tile.lightBlueShiningBlock.name=Light Blue Shining Block
+lolidecorative.tile.pinkShiningBlock.name=Pink Shining Block
+
+lolidecorative.tile.beigeShiningBlockWall.name=Beige Shining Block Wall
+lolidecorative.tile.lilacShiningBlockWall.name=Lilac Shining Block Wall
+lolidecorative.tile.greenShiningBlockWall.name=Green Shining Block Wall
+lolidecorative.tile.lightBlueShiningBlockWall.name=Light Blue Shining Block Wall
+lolidecorative.tile.pinkShiningBlockWall.name=Pink Shining Block Wall
+
+lolidecorative.tile.ashMarble.name=Ash Marble
+lolidecorative.tile.pinkMarble.name=Pink Marble
+lolidecorative.tile.lightBlueMarble.name=Light Blue Marble
+lolidecorative.tile.aureateMarble.name=Aureate Marble
+lolidecorative.tile.blackMarble.name=Black Marble
+
+lolidecorative.tile.ashMarbleWall.name=Ash Marble Wall
+lolidecorative.tile.pinkMarbleWall.name=Pink Marble Wall
+lolidecorative.tile.lightBlueMarbleWall.name=Light Blue Marble Wall
+lolidecorative.tile.aureateMarbleWall.name=Aureate Marble Wall
+lolidecorative.tile.blackMarbleWall.name=Black Marble Wall
+
+lolidecorative.tile.ashChiseledMarble.name=Ash Chiseled Marble
+lolidecorative.tile.pinkChiseledMarble.name=Pink Chiseled Marble
+lolidecorative.tile.lightBlueChiseledMarble.name=Light Blue Chiseled Marble
+lolidecorative.tile.aureateChiseledMarble.name=Aureate Chiseled Marble
+lolidecorative.tile.blackChiseledMarble.name=Black Chiseled Marble
+
+lolidecorative.tile.blackDecorativeMarble.name=Black Decorative Marble
+lolidecorative.tile.unevenMasonry.name=Uneven Masonry
+lolidecorative.tile.azureMarble.name=Azure Marble
+
+lolidecorative.tile.blackDecorativeMarbleWall.name=Black Decorative Marble Wall
+lolidecorative.tile.unevenMasonryWall.name=Uneven Masonry Wall
+lolidecorative.tile.azureMarbleWall.name=Azure Marble Wall
+
+lolidecorative.tile.ashMarblePillar.name=Ash Marble Pillar
+lolidecorative.tile.pinkMarblePillar.name=Pink Marble Pillar
+lolidecorative.tile.lightBlueMarblePillar.name=Light Blue Marble Pillar
+lolidecorative.tile.aureateMarblePillar.name=Aureate Marble Pillar
+lolidecorative.tile.blackMarblePillar.name=Black Marble Pillar
+
+lolidecorative.tile.amberPlanks.name=Amber Planks
+lolidecorative.tile.niveousPlanks.name=Niveous Planks
+lolidecorative.tile.burgundyPlanks.name=Burgundy Planks
+
+lolidecorative.tile.amberPlanksSlab.name=Amber Slab
+lolidecorative.tile.niveousPlanksSlab.name=Niveous Slab
+lolidecorative.tile.burgundyPlanksSlab.name=Burgundy Slab
+
+lolidecorative.tile.amberPlanksStairs.name=Amber Stairs
+lolidecorative.tile.niveousPlanksStairs.name=Niveous Stairs
+lolidecorative.tile.burgundyPlanksStairs.name=Burgundy Stairs
+
+lolidecorative.tile.amberPlanksFence.name=Amber Fence
+lolidecorative.tile.niveousPlanksFence.name=Niveous Fence
+lolidecorative.tile.burgundyPlanksFence.name=Burgundy Fence
+
+lolidecorative.tile.amberChiseledPlanks.name=Amber Chiseled Planks
+lolidecorative.tile.niveousChiseledPlanks.name=Niveous Chiseled Planks
+lolidecorative.tile.burgundyChiseledPlanks.name=Burgundy Chiseled Planks
+
+lolidecorative.tile.gothicStone.name=Gothic Stone
+lolidecorative.tile.gothicDarkStone.name=Gothic Dark Stone
+lolidecorative.tile.chiseledGothicStone.name=Chiseled Gothic Stone
+lolidecorative.tile.chiseledGothicDarkStone.name=Chiseled Gothic Dark Stone
+
+lolidecorative.tile.gothicStoneSlab.name=Gothic Stone Slab
+lolidecorative.tile.gothicDarkStoneSlab.name=Gothic Dark Stone Slab
+
+lolidecorative.tile.gothicStoneStairs.name=Gothic Stone Stairs
+lolidecorative.tile.gothicDarkStoneStairs.name=Gothic Dark Stone Stairs
+
+lolidecorative.tile.gothicStoneWall.name=Gothic Stone Wall
+lolidecorative.tile.gothicDarkStoneWall.name=Gothic Dark Stone Wall
+
+lolidecorative.tile.amberPlanksInStone.name=Amber Planks In Stone
+lolidecorative.tile.niveousPlanksInStone.name=Niveous Planks In Stone
+lolidecorative.tile.burgundyPlanksInStone.name=Burgundy Planks In Stone
+lolidecorative.tile.amberPlanksInDarkStone.name=Amber Planks In Dark Stone
+lolidecorative.tile.niveousPlanksInDarkStone.name=Niveous Planks In Dark Stone
+lolidecorative.tile.burgundyPlanksInDarkStone.name=Burgundy Planks In Dark Stone
+lolidecorative.tile.gothicLightInStone.name=Gothic Light In Stone
+lolidecorative.tile.gothicLightInDarkStone.name=Gothic Light In Dark Stone
+
+lolidecorative.tile.gothicWindow.name=Gothic Window
+
+lolidecorative.tile.redJapanesePillar.name=Red Japanese Pillar
+lolidecorative.tile.blackJapanesePillar.name=Black Japanese Pillar
+lolidecorative.tile.whiteJapanesePillar.name=White Japanese Pillar
+lolidecorative.tile.darkJapanesePillar.name=Dark Japanese Pillar
+
+lolidecorative.tile.paperPartition.name=Paper Partition
+lolidecorative.tile.blackPaperPartition.name=Black Paper Partition
+lolidecorative.tile.whitePaperPartition.name=White Paper Partition
+
+lolidecorative.tile.japanesePaper.name=Japanese Paper
+lolidecorative.tile.blackJapanesePaper.name=Black Japanese Paper
+lolidecorative.tile.whiteJapanesePaper.name=White Japanese Paper
+lolidecorative.tile.decorativeJapanesePaper.name=Decorative Japanese Paper
+
+lolidecorative.tile.japanesePaperWall.name=Japanese Paper Wall
+lolidecorative.tile.blackJapanesePaperWall.name=Black Japanese Paper Wall
+lolidecorative.tile.whiteJapanesePaperWall.name=White Japanese Paper Wall
+
+lolidecorative.tile.patternedJapanesePaper.name=Patterned Japanese Paper
+lolidecorative.tile.blackPatternedJapanesePaper.name=Black Patterned Japanese Paper
+lolidecorative.tile.whitePatternedJapanesePaper.name=White Patterned Japanese Paper
+
+lolidecorative.tile.redJapaneseWood.name=Red Japanese Wood
+lolidecorative.tile.blackJapaneseWood.name=Black Japanese Wood
+lolidecorative.tile.whiteJapaneseWood.name=White Japanese Wood
+lolidecorative.tile.darkJapaneseWood.name=Dark Japanese Wood
+lolidecorative.tile.redPaintedJapaneseWood.name=Red Painted Japanese Wood
+lolidecorative.tile.blackPaintedJapaneseWood.name=Black Painted Japanese Wood
+lolidecorative.tile.whitePaintedJapaneseWood.name=White Painted Japanese Wood
+lolidecorative.tile.darkPaintedJapaneseWood.name=Dark Painted Japanese Wood
+
+lolidecorative.tile.redJapaneseWoodSlab.name=Red Japanese Wood Slab
+lolidecorative.tile.blackJapaneseWoodSlab.name=Black Japanese Wood Slab
+lolidecorative.tile.whiteJapaneseWoodSlab.name=White Japanese Wood Slab
+lolidecorative.tile.darkJapaneseWoodSlab.name=Dark Japanese Wood Slab
+
+lolidecorative.tile.redJapaneseWoodStairs.name=Red Japanese Wood Stairs
+lolidecorative.tile.blackJapaneseWoodStairs.name=Black Japanese Wood Stairs
+lolidecorative.tile.whiteJapaneseWoodStairs.name=White Japanese Wood Stairs
+lolidecorative.tile.darkJapaneseWoodStairs.name=Dark Japanese Wood Stairs
+
+lolidecorative.tile.redJapaneseWoodFence.name=Red Japanese Wood Fence
+lolidecorative.tile.blackJapaneseWoodFence.name=Black Japanese Wood Fence
+lolidecorative.tile.whiteJapaneseWoodFence.name=White Japanese Wood Fence
+lolidecorative.tile.darkJapaneseWoodFence.name=Dark Japanese Wood Fence
+
+lolidecorative.tile.resinWood.name=Resin Wood
+lolidecorative.tile.chiseledResinWood.name=Chiseled Resin Wood
+lolidecorative.tile.greenOrnamentedResinWood.name=Green Ornamented Resin Wood
+lolidecorative.tile.orangeOrnamentedResinWood.name=Orange Ornamented Resin Wood
+lolidecorative.tile.whiteOrnamentedResinWood.name=White Ornamented Resin Wood
+
+lolidecorative.tile.limeWood.name=Lime Wood
+lolidecorative.tile.chiseledLimeWood.name=Chiseled Lime Wood
+lolidecorative.tile.ornamentedLimeWood.name=Ornamented Lime Wood
+
+lolidecorative.tile.bananaWood.name=Banana Wood
+lolidecorative.tile.chiseledBananaWood.name=Chiseled Banana Wood
+lolidecorative.tile.ornamentedBananaWood.name=Ornamented Banana Wood
+
+lolidecorative.tile.pearlWood.name=Pearl Wood
+lolidecorative.tile.chiseledPearlWood.name=Chiseled Pearl Wood
+lolidecorative.tile.ornamentedPearlWood.name=Ornamented Pearl Wood
+
+lolidecorative.tile.resinWoodSlab.name=Resin Wood Slab
+lolidecorative.tile.limeWoodSlab.name=Lime Wood Slab
+lolidecorative.tile.bananaWoodSlab.name=Banana Wood Slab
+lolidecorative.tile.pearlWoodSlab.name=Pearl Wood Slab
+
+lolidecorative.tile.resinWoodStairs.name=Resin Wood Stairs
+lolidecorative.tile.limeWoodStairs.name=Lime Wood Stairs
+lolidecorative.tile.bananaWoodStairs.name=Banana Wood Stairs
+lolidecorative.tile.pearlWoodStairs.name=Pearl Wood Stairs
+
+lolidecorative.tile.resinWoodFence.name=Resin Wood Fence
+lolidecorative.tile.limeWoodFence.name=Lime Wood Fence
+lolidecorative.tile.bananaWoodFence.name=Banana Wood Fence
+lolidecorative.tile.pearlWoodFence.name=Pearl Wood Fence
+
+lolidecorative.tile.bamboo.name=Bamboo
+lolidecorative.tile.bambooWall.name=Bamboo Wall
+lolidecorative.tile.decorativeBamboo.name=Decorative Bamboo
+
+lolidecorative.tile.darkStone.name=Dark Stone
+lolidecorative.tile.darkStoneSlab.name=Dark Stone Slab
+lolidecorative.tile.darkStoneStairs.name=Dark Stone Stairs
+lolidecorative.tile.darkStoneWall.name=Dark Stone Wall
+lolidecorative.tile.spiralDarkStone.name=Spiral Dark Stone
+lolidecorative.tile.particleDarkStone.name=Particle Dark Stone
+lolidecorative.tile.flowDarkStone.name=Flow Dark Stone
+
+lolidecorative.tile.iceStone.name=Ice Stone
+lolidecorative.tile.iceStoneSlab.name=Ice Stone Slab
+lolidecorative.tile.iceStoneStairs.name=Ice Stone Stairs
+lolidecorative.tile.iceStoneWall.name=Ice Stone Wall
+
+lolidecorative.tile.spiralIceStone.name=Spiral Ice Stone
+lolidecorative.tile.lightSpiralIceStone.name=Light Spiral Ice Stone
+lolidecorative.tile.particleIceStone.name=Particle Ice Stone
+lolidecorative.tile.lightParticleIceStone.name=Light Particle Ice Stone
+lolidecorative.tile.flowIceStone.name=Flow Ice Stone
+lolidecorative.tile.lightFlowIceStone.name=Light Flow Ice Stone
+
+lolidecorative.tile.sandBark.name=Sand Bark
+lolidecorative.tile.sandBarkFence.name=Sand Bark Fence
+lolidecorative.tile.lightSandBark.name=Light Sand Bark
+
+lolidecorative.tile.coalBark.name=Coal Bark
+lolidecorative.tile.coalBarkFence.name=Coal Bark Fence
+lolidecorative.tile.lightCoalBark.name=Light Coal Bark
+
+lolidecorative.tile.silveryBark.name=Silvery Bark
+lolidecorative.tile.silveryBarkFence.name=Silvery Bark Fence
+lolidecorative.tile.lightSilveryBark.name=Light Silvery Bark
+
+lolidecorative.tile.firPlanks.name=Fir Planks
+lolidecorative.tile.firPlanksSlab.name=Fir Slab
+lolidecorative.tile.firPlanksStairs.name=Fir Stairs
+lolidecorative.tile.firPlanksFence.name=Fir Fence
+lolidecorative.tile.chiseledFirPlanks.name=Chiseled Fir Planks
+lolidecorative.tile.lightFirPlanks.name=Light Fir Planks
+
+lolidecorative.tile.ebonyPlanks.name=Ebony Planks
+lolidecorative.tile.ebonyPlanksSlab.name=Ebony Slab
+lolidecorative.tile.ebonyPlanksStairs.name=Ebony Stairs
+lolidecorative.tile.ebonyPlanksFence.name=Ebony Fence
+lolidecorative.tile.chiseledEbonyPlanks.name=Chiseled Ebony Planks
+lolidecorative.tile.lightEbonyPlanks.name=Light Ebony Planks
+
+lolidecorative.tile.snowyPlanks.name=Snowy Planks
+lolidecorative.tile.snowyPlanksSlab.name=Snowy Slab
+lolidecorative.tile.snowyPlanksStairs.name=Snowy Stairs
+lolidecorative.tile.snowyPlanksFence.name=Snowy Fence
+lolidecorative.tile.chiseledSnowyPlanks.name=Chiseled Snowy Planks
+lolidecorative.tile.lightSnowyPlanks.name=Light Snowy Planks
+
+lolidecorative.tile.balsaPlanks.name=Balsa Planks
+lolidecorative.tile.balsaPlanksSlab.name=Balsa Slab
+lolidecorative.tile.balsaPlanksStairs.name=Balsa Stairs
+lolidecorative.tile.balsaPlanksFence.name=Balsa Fence
+lolidecorative.tile.chiseledBalsaPlanks.name=Chiseled Balsa Planks
+lolidecorative.tile.lightBalsaPlanks.name=Light Balsa Planks
+
+lolidecorative.tile.cherryLog.name=Cherry Log
+lolidecorative.tile.cherryPlanks.name=Cherry Planks
+lolidecorative.tile.cherryPlanksSlab.name=Cherry Slab
+lolidecorative.tile.cherryPlanksStairs.name=Cherry Stairs
+lolidecorative.tile.cherryPlanksFence.name=Cherry Fence
+lolidecorative.tile.cherrySapling.name=Cherry Sapling
+lolidecorative.tile.cherryLeaves.name=Cherry Leaves
+
+lolidecorative.tile.irisLog.name=Iris Log
+lolidecorative.tile.irisPlanks.name=Iris Planks
+lolidecorative.tile.irisPlanksSlab.name=Iris Slab
+lolidecorative.tile.irisPlanksStairs.name=Iris Stairs
+lolidecorative.tile.irisPlanksFence.name=Iris Fence
+lolidecorative.tile.irisSapling.name=Iris Sapling
+lolidecorative.tile.irisLeaves.name=Iris Leaves
+
+lolidecorative.tile.oleanderLog.name=Oleander Log
+lolidecorative.tile.oleanderPlanks.name=Oleander Planks
+lolidecorative.tile.oleanderPlanksSlab.name=Oleander Slab
+lolidecorative.tile.oleanderPlanksStairs.name=Oleander Stairs
+lolidecorative.tile.oleanderPlanksFence.name=Oleander Fence
+lolidecorative.tile.oleanderSapling.name=Oleander Sapling
+lolidecorative.tile.oleanderLeaves.name=Oleander Leaves
+
+lolidecorative.tile.sakuraLog.name=Sakura Log
+lolidecorative.tile.sakuraPlanks.name=Sakura Planks
+lolidecorative.tile.sakuraPlanksSlab.name=Sakura Slab
+lolidecorative.tile.sakuraPlanksStairs.name=Sakura Stairs
+lolidecorative.tile.sakuraPlanksFence.name=Sakura Fence
+lolidecorative.tile.sakuraSapling.name=Sakura Sapling
+lolidecorative.tile.sakuraLeaves.name=Sakura Leaves
+
+lolidecorative.tile.sunflowerLog.name=Sunflower Log
+lolidecorative.tile.sunflowerPlanks.name=Sunflower Planks
+lolidecorative.tile.sunflowerPlanksSlab.name=Sunflower Slab
+lolidecorative.tile.sunflowerPlanksStairs.name=Sunflower Stairs
+lolidecorative.tile.sunflowerPlanksFence.name=Sunflower Fence
+lolidecorative.tile.sunflowerSapling.name=Sunflower Sapling
+lolidecorative.tile.sunflowerLeaves.name=Sunflower Leaves
+
+lolidecorative.tile.lightBase.name=Light Base
+lolidecorative.tile.lightBaseSlab.name=Light Base Slab
+lolidecorative.tile.lightBaseStairs.name=Light Base Stairs
+lolidecorative.tile.lightBaseWall.name=Light Base Wall
+lolidecorative.tile.lightBaseFence.name=Light Base Fence
+
+lolidecorative.tile.lightBaseSmooth.name=Smooth Light Base
+lolidecorative.tile.lightBaseSmoothSlab.name=Smooth Light Base Slab
+lolidecorative.tile.lightBaseSmoothStairs.name=Smooth Light Base Stairs
+
+lolidecorative.tile.lightBaseTiled.name=Tiled Light Base
+lolidecorative.tile.lightBaseTiledSlab.name=Tiled Light Base Slab
+lolidecorative.tile.lightBaseTiledStairs.name=Tiled Light Base Stairs
+
+lolidecorative.tile.greenLight.name=Green Light
+lolidecorative.tile.lightBlueLight.name=Light Blue Light
+lolidecorative.tile.orangeLight.name=Orange Light
+lolidecorative.tile.redLight.name=Red Light
+lolidecorative.tile.violetLight.name=Violet Light

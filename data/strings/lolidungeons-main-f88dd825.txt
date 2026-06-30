@@ -1,0 +1,9 @@
+commands.lolidungeonsdebug.usage=/lolidungeonsdebug <подкоманда>
+gui.dungeonSpawner.button.done=Применить
+gui.dungeonSpawner.label.detectionRadius=Радиус обнаружения игрока
+gui.dungeonSpawner.label.mobCount=Количество мобов в волне
+gui.dungeonSpawner.label.resetAfterPlayerLeaves=Сбрасывать спавн после ухода игрока
+gui.dungeonSpawner.label.respawnDelay=Задержка между волнами (в секундах)
+gui.dungeonSpawner.label.spawnCycles=Количество волн мобов
+gui.dungeonSpawner.label.spawnRadius=Радиус спавна мобов
+tile.dungeonSpawner.name=Подземельный спавнер мобов

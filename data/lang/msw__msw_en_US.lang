@@ -1,0 +1,174 @@
+msw.modpack.hitech=HiTech
+msw.modpack.ultra_tech=UltraTech
+msw.modpack.techno_magic_rpg=TechnoMagic RPG
+msw.modpack.techno_magic_sky=TechnoMagic Sky
+msw.modpack.dark_galaxy=DarkGalaxy
+msw.modpack.magic_rpg=Magic RPG
+msw.modpack.poke_storm=PokeStorm
+
+msw.key.dimensions=Мои измерения
+
+msw.chat.realm.tutorial=Добро пожаловать, {username}!\n\nПутешествуйте между измерениями\nНажмите Эскейп > Варпы\n\nПригласите друзей в своё измерение\nНажмите Эскейп > Мои измерения\n\nНачните проходить сборку по квестам\nНажмите Эскейп > Квесты\n\nПолучите стартовые киты\nКоманда /kit\n\nПриятной игры!
+msw.chat.realm.action.requested=%s пригласил вас в своё измерение. Нажмите Эскейп -> Мои измерения, чтобы играть вместе!
+msw.chat.realm.action.kicked=%s удалил вас из своего измерения.
+msw.chat.realm.action.makeAdmin=%s сделал вас админом в своём измерении.
+
+msw.gui.mainMenu.button.play.title=Начать игру
+msw.gui.mainMenu.button.singlePlayer.title=Одиночная игра
+msw.gui.mainMenu.button.quit.title=Выйти
+msw.gui.mainMenu.button.options.tooltip=Настройки
+msw.gui.mainMenu.button.changelog.tooltip=Что новенького
+msw.gui.mainMenu.label.online.text=%s игрок онлайн
+
+msw.gui.connecting.button.cancel.title=Отмена
+msw.gui.connecting.label.title.text=Выполняется вход...
+msw.gui.connecting.label.message.text1=Идёт подключение к серверу
+msw.gui.connecting.label.message.text2=Осталось ещё немного
+msw.gui.connecting.label.message.text3=Идут последние приготовления
+msw.gui.connecting.label.connect.failed.text=Не удалось подключиться к серверу
+
+msw.gui.disconnected.button.cancel.title=В главное меню
+msw.gui.disconnected.label.title.text=Ошибка
+msw.gui.disconnected.label.reconnect.text=Автоматическое переподключение через %s
+
+msw.gui.changelog.button.continue.title=Продолжить
+msw.gui.changelog.button.finish.title=В главное меню
+msw.gui.changelog.button.prevPage.tooltip=Назад
+msw.gui.changelog.button.nextPage.tooltip=Вперёд
+msw.gui.changelog.label.title.text=Что новенького
+msw.gui.changelog.label.message.text=Обзор обновления в карточках
+
+msw.gui.changelog.card.1.title=Энтропийный реактор
+msw.gui.changelog.card.1.description=Встречайте новый многоблочный механизм в LoliEnergistics, позволяющий создавать §b¤255колоссальное количество EU энергии¤r§r\nс помощью собственной чёрной дыры.\n\nБалансируйте мощность, и другие параметры, чтобы достичь максимальной эффективности!
+msw.gui.changelog.card.2.title=Реактор Хаоса
+msw.gui.changelog.card.2.description=Многоблочная конструкция, позволяющая быстро создавать\n§6¤255миллиарды RF энергии¤r§r и энергию Хаоса!\n\nПодключите преобразователь, стабилизаторы и модуль реактора, чтобы начать работу. Получите §a¤255ещё больше энергии¤r§r, поддерживая оптимальные значения ключевых параметров.
+msw.gui.changelog.card.3.title=Обновление LoliTechnologies
+msw.gui.changelog.card.3.description=В LoliTechnologies были добавлены §b¤255Ячейки хранения газов¤r§r, а также новые механизмы - МЭ Буфер и МЭ Логист.\n\nА ещё мы перевели множество механизмов из LoliTechnologies и AE2 на нашу уникальную систему интерфейсов §a¤255LuminousUI.¤r§r
+msw.gui.changelog.card.4.title=Обновление Энда
+msw.gui.changelog.card.4.description=Все текстуры в Энде §6¤255были перерисованы.¤r§r Мы стремились преобразить измерение и сделать каждый биом максимально атмосферным и цепляющим.\n\nВстречайте §a¤255обновлённые биомы:¤r§r Сияющие луга, Астральный лес, Сумрачная чаща, Засушливая пустошь, Грибной лес и Цветущие пики.
+msw.gui.changelog.card.tms5.title=Обновление TMS: Elements
+msw.gui.changelog.card.tms5.description=Добавлен новый интересный способ крафта - §a¤255Небесный синтез,¤r§r а также новый многоблочный механизм - Облачная печь.\n\nА ещё мы провели §6¤255редизайн¤r§r большого количества контента, используемого на начальных этапах развития: еда, сита, молоты, семечки, шелкопряды и много другого.
+msw.gui.changelog.card.pokemon5.title=Добро пожаловать на PokeStorm
+msw.gui.changelog.card.pokemon5.description=PokeStorm - это новый сервер на базе мода §6¤255Cobblemon.¤r§r При этом он имеет все основные преимущества: систему мультимиров (так что вас ждёт §a¤255отличный TPS¤r§r), новые измерения и наши уникальные разработки.\n\nИзучайте, ловите и прокачивайте покемонов и покажите всем своё мастерство тренера.
+msw.gui.changelog.card.pokemon6.title=Охота, Мастерская и Теплица тренера
+msw.gui.changelog.card.pokemon6.description=Сразу на старте сервера мы добавляем §6¤255Охоту на покемонов¤r§r! Это новая система, которая позволит вам получать ценные награды за поимку покемонов.\n\nА ещё мы добавили §a¤255Мастерскую тренера¤r§r - механизм, открывающий доступ к новым крафтам, а также Теплицу тренера - механизм для выращивания полезных ресурсов.
+
+msw.gui.ingame.label.title.text=Главное меню
+msw.gui.ingame.label.hello.text=Привет, ¤255%s¤r
+msw.gui.ingame.button.returnToGame.title=Вернуться в игру
+msw.gui.ingame.button.warps.title=Варпы
+msw.gui.ingame.button.spawn.tooltip=На спавн
+msw.gui.ingame.button.home.tooltip=Домой
+msw.gui.ingame.button.dimensions.title=Мои измерения
+msw.gui.ingame.button.shop.title=Игровой магазин
+msw.gui.ingame.button.quests.title=Квесты
+msw.gui.ingame.button.quit.title=Выйти
+msw.gui.ingame.button.options.tooltip=Настройки
+msw.gui.ingame.button.vk.title=ВКонтакте
+msw.gui.ingame.button.telegram.title=Telegram
+msw.gui.ingame.button.discord.title=Discord
+msw.gui.ingame.button.bonus.title=Монеты за активность
+msw.gui.ingame.button.bonus.description=Проявляйте активность и получайте монеты каждый день. Голосуйте за проект, получайте ежедневный бонус и §b¤255приглашайте друзей¤r§r!
+
+msw.gui.createRealm.label.title.island.text=Выберите тип острова
+msw.gui.createRealm.label.title.realm.text=Выберите тип измерения
+msw.gui.createRealm.label.message.island.text=Создание персонального острова
+msw.gui.createRealm.label.message.realm.text=Создание персонального измерения
+msw.gui.createRealm.button.start.title=Начать игру
+msw.gui.createRealm.label.info.island.text=Тип острова влияет только на его внешний вид.
+msw.gui.createRealm.label.info.realm.text=Тип измерения влияет только на его внешний вид.
+msw.gui.createRealm.label.info.island.solarPanels.text=Тип острова влияет только на его внешний вид.\nСолнечные панели работают всегда на обоих островах.
+msw.gui.createRealm.label.info.realm.solarPanels.text=Тип измерения влияет только на его внешний вид.\nСолнечные панели работают всегда в обоих измерениях.
+msw.gui.createRealm.card.button.select.title=Выбрать
+msw.gui.createRealm.card.button.selected.title=Выбрано
+msw.gui.createRealm.card.sunny.title=Солнечные равнины
+msw.gui.createRealm.card.sunny.description=В этом измерении царит вечный день\nи растут янтарные деревья.
+msw.gui.createRealm.card.moon.title=Лунные равнины
+msw.gui.createRealm.card.moon.description=В этом измерении царит вечная ночь\nи растут спектральные деревья.
+msw.gui.createRealm.card.sunnyIsland.title=Солнечные равнины
+msw.gui.createRealm.card.sunnyIsland.description=В этом измерении царит вечный день\nи растут янтарные деревья.
+msw.gui.createRealm.card.moonIsland.title=Лунные равнины
+msw.gui.createRealm.card.moonIsland.description=В этом измерении царит вечная ночь\nи растут спектральные деревья.
+
+msw.gui.createRealmWaiting.label.message.text1=Подключаемся к измерению
+msw.gui.createRealmWaiting.label.message.text2=Осталось ещё немного
+msw.gui.createRealmWaiting.label.message.text3=Идут последние приготовления
+
+msw.gui.dimensions.button.prevPage.tooltip=Назад
+msw.gui.dimensions.button.nextPage.tooltip=Вперёд
+msw.gui.dimensions.button.close.tooltip=Выход
+
+msw.gui.dimensions.home.title=Мои измерения
+msw.gui.dimensions.home.subTitle=Персональные измерения
+msw.gui.dimensions.home.button.me.title=Пригласить друзей\nв моё измерение
+msw.gui.dimensions.home.button.me.description.empty=Играйте и развивайтесь вместе
+msw.gui.dimensions.home.button.me.description.few.prefix=Вы уже пригласили
+msw.gui.dimensions.home.button.me.description.few.and=и
+msw.gui.dimensions.home.button.me.description.few.andOther=и ещё %s
+msw.gui.dimensions.home.button.me.description.user.1=игрок
+msw.gui.dimensions.home.button.me.description.user.2=игрока
+msw.gui.dimensions.home.button.me.description.user.3=игроков
+
+msw.gui.dimensions.home.widget.realm.title.me=Моё измерение
+msw.gui.dimensions.home.widget.realm.title.other=%s
+msw.gui.dimensions.home.widget.realm.description.user.1=игрок
+msw.gui.dimensions.home.widget.realm.description.user.2=игрока
+msw.gui.dimensions.home.widget.realm.description.user.3=игроков
+msw.gui.dimensions.home.widget.realm.description=%s %s, %s
+msw.gui.dimensions.home.widget.realm.description.type.sunny=Солнечные равнины
+msw.gui.dimensions.home.widget.realm.description.type.moon=Лунные равнины
+msw.gui.dimensions.home.widget.realm.description.type.sunnyIsland=Солнечные равнины
+msw.gui.dimensions.home.widget.realm.description.type.moonIsland=Лунные равнины
+msw.gui.dimensions.home.widget.realm.button.users.tooltip=Список игроков
+msw.gui.dimensions.home.widget.realm.button.teleport.tooltip=Телепортироваться
+
+msw.gui.dimensions.realm.title.my=Моё измерение
+msw.gui.dimensions.realm.title.other=Измерение %s
+msw.gui.dimensions.realm.subTitle=Персональные измерения
+msw.gui.dimensions.realm.textField.search.placeholder=Поиск по игрокам
+msw.gui.dimensions.realm.widget.user.status.owner=Создатель
+msw.gui.dimensions.realm.widget.user.status.admin=Админ
+msw.gui.dimensions.realm.widget.user.button.invite.tooltip=Пригласить
+msw.gui.dimensions.realm.widget.user.button.leave.tooltip=Покинуть измерение
+msw.gui.dimensions.realm.widget.user.button.kick.tooltip=Удалить
+msw.gui.dimensions.realm.widget.user.button.makeAdmin.tooltip=Сделать админом
+msw.gui.dimensions.realm.widget.user.button.demoteAdmin.tooltip=Забрать права админа
+msw.gui.dimensions.realm.widget.tip.emptyRealm=Найдите игрока в поиске, чтобы пригласить его
+msw.gui.dimensions.realm.widget.tip.userNotFound=Такого игрока сейчас нет на сервере
+msw.gui.dimensions.realm.label.search.inRealm=Поиск по измерению
+msw.gui.dimensions.realm.label.search.inAll=Поиск по игрокам онлайн
+
+msw.gui.dimensions.realm.dialog.confirm.invite.title=Приглашение игрока
+msw.gui.dimensions.realm.dialog.confirm.invite.subTitle=Персональные измерения
+msw.gui.dimensions.realm.dialog.confirm.invite.message.title=Вы уверены, что хотите пригласить %s\nв своё измерение?
+msw.gui.dimensions.realm.dialog.confirm.invite.message.desc=%s сможет ломать блоки, открывать сундуки и механизмы\nи телепортироваться в измерение по своему желанию.
+msw.gui.dimensions.realm.dialog.confirm.invite.yes=Пригласить
+msw.gui.dimensions.realm.dialog.confirm.invite.no=Отмена
+
+msw.gui.dimensions.realm.dialog.confirm.kick.title=Удаление игрока
+msw.gui.dimensions.realm.dialog.confirm.kick.subTitle=Персональные измерения
+msw.gui.dimensions.realm.dialog.confirm.kick.message.title=Вы уверены, что хотите удалить игрока %s\nиз измерения %s?
+msw.gui.dimensions.realm.dialog.confirm.kick.message.desc=%s больше не сможет ломать блоки, открывать сундуки и механизмы\nи телепортироваться в измерение по своему желанию.
+msw.gui.dimensions.realm.dialog.confirm.kick.yes=Удалить
+msw.gui.dimensions.realm.dialog.confirm.kick.no=Отмена
+
+msw.gui.dimensions.realm.dialog.confirm.leave.title=Выход из измерения
+msw.gui.dimensions.realm.dialog.confirm.leave.subTitle=Персональные измерения
+msw.gui.dimensions.realm.dialog.confirm.leave.message.title=Вы уверены, что хотите покинуть измерение %s?
+msw.gui.dimensions.realm.dialog.confirm.leave.message.desc=Вы больше не сможете ломать блоки, открывать сундуки и механизмы\nи телепортироваться в измерение по своему желанию.
+msw.gui.dimensions.realm.dialog.confirm.leave.yes=Покинуть измерение
+msw.gui.dimensions.realm.dialog.confirm.leave.no=Отмена
+
+msw.gui.dimensions.realm.dialog.confirm.makeAdmin.title=Изменение статуса игрока
+msw.gui.dimensions.realm.dialog.confirm.makeAdmin.subTitle=Персональные измерения
+msw.gui.dimensions.realm.dialog.confirm.makeAdmin.message.title=Вы уверены, что хотите сделать %s админом?
+msw.gui.dimensions.realm.dialog.confirm.makeAdmin.message.desc=%s сможет приглашать и удалять других игроков.
+msw.gui.dimensions.realm.dialog.confirm.makeAdmin.yes=Сделать админом
+msw.gui.dimensions.realm.dialog.confirm.makeAdmin.no=Отмена
+
+msw.gui.dimensions.realm.dialog.confirm.demoteAdmin.title=Изменение статуса игрока
+msw.gui.dimensions.realm.dialog.confirm.demoteAdmin.subTitle=Персональные измерения
+msw.gui.dimensions.realm.dialog.confirm.demoteAdmin.message.title=Вы уверены, что хотите забрать права админа у %s?
+msw.gui.dimensions.realm.dialog.confirm.demoteAdmin.message.desc=%s больше не сможет приглашать и удалять других игроков.
+msw.gui.dimensions.realm.dialog.confirm.demoteAdmin.yes=Разжаловать админа
+msw.gui.dimensions.realm.dialog.confirm.demoteAdmin.no=Отмена

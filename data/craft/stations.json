@@ -1,0 +1,37 @@
+{
+  "_note": "Обогащение узлов графа: station = где крафтится, source = как добыть (для дропов/руд) или ключевое условие. Сверяй точные сетки/дропы в NEI/квест-буке (летний вайп).",
+
+  "lolidimensions:end_draconium_ore": {"source": "Добыча: измерение Края, либо Квантовый шахтёр; дюп через Преобразователь удачи + Автоплавка"},
+  "lolidimensions:hell_draconium_ore": {"source": "Добыча: Незер (адские руды перерабатываются 1:4)"},
+  "lolidimensions:dragon_heart": {"source": "Дроп: Дракон Края (Draconic Evolution)"},
+  "lolidimensions:dragon_blood": {"source": "Дроп: Дракон Края"},
+  "lolidimensions:dragon_shard": {"source": "Дроп: Дракон Края"},
+  "lolidimensions:chaos_dragon_heart": {"source": "Дроп: Хранитель Хаоса (Draconic)"},
+  "lolidimensions:chaos_dragon_blood": {"source": "Дроп: Хранитель Хаоса"},
+  "lolidimensions:chaotic_dragon_shard": {"source": "Дроп: Хранитель Хаоса"},
+  "lolidimensions:fire_dragon_blood": {"source": "Дроп: дракон Огня (LoliDragonMight)"},
+  "lolidimensions:fire_dragon_shard": {"source": "Дроп: дракон Огня"},
+  "lolidimensions:ice_dragon_blood": {"source": "Дроп: дракон Льда"},
+  "lolidimensions:ice_dragon_shard": {"source": "Дроп: дракон Льда"},
+  "lolidimensions:hell_star": {"source": "Дроп: скелеты-иссушители (черепа → молька) или душа Узурпатора"},
+
+  "lolienergistics:astrolion_micro_star": {"station": "Гелиосферное зарядное ядро", "source": "Заряд до 4.000° (Фазовый плазмореактив); также из Лоли-боксов"},
+  "lolienergistics:sun_micro_star": {"station": "Гелиосферное зарядное ядро", "source": "Заряд до 12.000° — плавит Кристаллическую матрицу"},
+  "lolienergistics:sirius_micro_star": {"station": "Гелиосферное зарядное ядро", "source": "Заряд до 30.000°"},
+
+  "lolienergistics:matter_sparkling": {"station": "Сборщик материи", "source": "Также выпадает из Лоли-боксов — копить впрок"},
+  "lolienergistics:sparkling_core": {"station": "Ручной крафт (НЕ забирается AE2)", "source": "Многоцветные бутоны Botania (дюп саженцев) + огрызки изначальной маны"},
+  "lolienergistics:star_matter": {"station": "Жидкостный компрессор нейтрония"},
+  "lolienergistics:star_matter_ingot": {"station": "Жидкостный компрессор нейтрония"},
+
+  "lolimagically:blood_star": {"station": "Кровавый алтарь (T6) / Кровавый сборщик"},
+  "lolimagically:adamantium_ethereal_ingot": {"station": "Завод промышленной агломерации (Botania)"},
+  "lolidimensions:awakened_demonic_infinity_dragon_heart": {"source": "Дроп: Демонический дракон Бесконечности (убить 2× колчаном/аннигилятором)"},
+
+  "Avaritia:Singularity": {"station": "Молекулярный сборщик / Ужасающий верстак"},
+  "loli_elements_tm:Singularity": {"station": "Молекулярный сборщик"},
+  "lolienergistics:infinity_singularity": {"station": "Кодировщик сингулярностей", "source": "Под-ресурсы: Ардит, вобграфит → графитовая сингулярность"},
+  "loli_dragon_might:extra_terrestrial_chaos_catalyst": {"station": "Внеземной дракониевый корпус создания"},
+  "lolimagically:legendary_dragon_rod": {"station": "Магический дракониевый корпус создания"},
+  "lolimagically:legendary_dragon_cap": {"station": "Магический дракониевый корпус создания"}
+}

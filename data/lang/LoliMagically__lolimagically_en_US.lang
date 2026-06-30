@@ -1,0 +1,488 @@
+enchantment.level.20=XX
+enchantment.level.15=XV
+
+lolimagically:misc.shiftinfo=§7Удерживайте §6SHIFT§7, чтобы увидеть больше
+lolimagically:misc.bloodnetwork=§eКровавая сеть содержит §a%d §cLP
+
+lolimagically:misc.tooltip.sister_necromancer_doll_1=§3Ходит слух, будто Некромант заключил
+lolimagically:misc.tooltip.sister_necromancer_doll_2=§3души своих сестёр в эти куклы
+lolimagically:misc.tooltip.sister_necromancer_doll_3=§eТолько тссс
+
+lolimagically:tile.reinforced_magic_stone.name=Укрепленный магический камень
+lolimagically:tile.adamantium.name=Блок адамантия
+lolimagically:tile.ethereal_adamantium.name=Блок эфирного адамантия
+lolimagically:tile.ghost_adamantium.name=Блок призрачного адамантия
+lolimagically:tile.arcane_adamantium.name=Блок чародейского адамантия
+lolimagically:tile.dragon_adamantium.name=Блок дракониевого адамантия
+
+lolimagically:tile.ethereal_frame.name=Эфирный магический корпус
+lolimagically:tile.ghost_frame.name=Призрачный магический корпус
+lolimagically:tile.arcane_frame.name=Чародейский магический корпус
+lolimagically:tile.dragon_frame.name=Дракониевый магический корпус
+
+lolimagically:tile.ethereal_jar.name=Эфирная магическая банка
+lolimagically:item.ethereal_jar_filled.name=Эфирная магическая банка с эссенцией
+lolimagically:tile.ghost_jar.name=Призрачная магическая банка
+lolimagically:item.ghost_jar_filled.name=Призрачная магическая банка с эссенцией
+lolimagically:tile.arcane_jar.name=Чародейская магическая банка
+lolimagically:item.arcane_jar_filled.name=Чародейская магическая банка с эссенцией
+lolimagically:tile.dragon_jar.name=Дракониевая магическая банка
+lolimagically:item.dragon_jar_filled.name=Дракониевая магическая банка с эссенцией
+
+lolimagically:tile.infusion_accelerator.name=Ускоритель рунической матрицы
+lolimagically:tile.infusion_stabilizer.name=Стабилизатор рунической матрицы
+lolimagically:tile.alchemy_accelerator.name=Ускоритель алхимической печи
+lolimagically:tile.infusion_activator.name=Редстоун-активатор рунической матрицы
+
+lolimagically:tile.ethereal_pool.name=Бассейн маны из эфирного адамантия
+lolimagically:tile.ghost_pool.name=Бассейн маны из призрачного адамантия
+lolimagically:tile.arcane_pool.name=Бассейн маны из чародейского адамантия
+lolimagically:tile.dragon_pool.name=Бассейн маны из дракониевого адамантия
+
+lolimagically:tile.ethereal_spreader.name=Эфирный распространитель маны
+lolimagically:tile.ghost_spreader.name=Призрачный распространитель маны
+lolimagically:tile.arcane_spreader.name=Чародейский распространитель маны
+lolimagically:tile.dragon_spreader.name=Дракониевый распространитель маны
+
+lolimagically:tile.mana_charger.name=Синтезатор маны
+lolimagically:tile.mana_charger_extended.name=Увеличенный синтезатор маны
+lolimagically:tile.wand_mana_charger.name=Синтезатор маны для жезлов
+lolimagically:tile.mana_crafter.name=Синтезатор магических слитков
+lolimagically:tile.blood_generator.name=Генератор крови
+lolimagically:tile.extra_writing_table.name=Улучшенная алхимическая и химическая установка
+lolimagically:tile.extra_metal_device.0.name=Пробужденная алхимическая конструкция
+lolimagically:tile.infernal_arcane_furnace.name=Инфернальная магическая печь
+lolimagically:tile.awakened_crucible.name=Пробужденный тигель
+
+lolimagically:tile.compressed_custom_altar.name=Сжатый кастомный алтарь
+
+lolimagically:tile.big_tube.0.name=Улучшенная труба для эссенции
+lolimagically:tile.big_tube.1.name=Улучшенный клапан для эссенции
+lolimagically:tile.big_tube.2.name=Улучшенная алхимическая центрифуга
+lolimagically:tile.big_tube.3.name=Улучшенная фильтрующая труба для эссенции
+lolimagically:tile.big_tube.4.name=Улучшенный буфер для эссенции
+lolimagically:tile.big_tube.5.name=Улучшенная ограничивающая труба для эссенции
+lolimagically:tile.big_tube.6.name=Улучшенная направляющая труба для эссенции
+lolimagically:tile.big_tube.7.name=Улучшенный кристаллизатор эссенции
+
+lolimagically:tile.blood_rune_mk_1.0.name=Мистическая кровавая руна
+lolimagically:tile.blood_rune_mk_1.1.name=Мистическая руна дополнительной ёмкости
+lolimagically:tile.blood_rune_mk_1.2.name=Мистическая руна дислокации
+lolimagically:tile.blood_rune_mk_1.3.name=Мистическая руна шара
+lolimagically:tile.blood_rune_mk_1.4.name=Мистическая руна улучшенной ёмкости
+lolimagically:tile.blood_rune_mk_1.5.name=Мистическая руна ускорения
+lolimagically:tile.blood_rune_mk_1.6.name=Мистическая руна скорости
+lolimagically:tile.blood_rune_mk_1.7.name=Мистическая руна эффективности
+lolimagically:tile.blood_rune_mk_1.8.name=Мистическая руна жертвоприношения
+lolimagically:tile.blood_rune_mk_1.9.name=Мистическая руна самопожертвования
+
+lolimagically:tile.blood_rune_mk_2.0.name=Золотая кровавая руна
+lolimagically:tile.blood_rune_mk_2.1.name=Золотая руна дополнительной ёмкости
+lolimagically:tile.blood_rune_mk_2.2.name=Золотая руна дислокации
+lolimagically:tile.blood_rune_mk_2.3.name=Золотая руна шара
+lolimagically:tile.blood_rune_mk_2.4.name=Золотая руна улучшенной ёмкости
+lolimagically:tile.blood_rune_mk_2.5.name=Золотая руна ускорения
+lolimagically:tile.blood_rune_mk_2.6.name=Золотая руна скорости
+lolimagically:tile.blood_rune_mk_2.7.name=Золотая руна эффективности
+lolimagically:tile.blood_rune_mk_2.8.name=Золотая руна жертвоприношения
+lolimagically:tile.blood_rune_mk_2.9.name=Золотая руна самопожертвования
+
+lolimagically:tile.multi_greenhouse_core.name=Ядро мультитеплицы
+lolimagically:tile.multi_greenhouse_base.name=Основа мультитеплицы
+lolimagically:tile.dark_manabricks.name=Темные манакирпичи
+lolimagically:tile.managlass.name=Манастекло
+
+lolimagically:tile.greenhouse.name=Мультитеплица
+
+lolimagically:item.adamantium_scrap.name=Адамантиевый скрап
+lolimagically:item.adamantium_ingot.name=Слиток адамантия
+lolimagically:item.adamantium_ethereal_ingot.name=Слиток эфирного адамантия
+lolimagically:item.adamantium_ghost_ingot.name=Слиток призрачного адамантия
+lolimagically:item.adamantium_arcane_ingot.name=Слиток чародейского адамантия
+lolimagically:item.adamantium_dragon_ingot.name=Слиток дракониевого адамантия
+
+lolimagically:item.legendary_ethereal_cap.name=Легендарный эфирный наконечник
+lolimagically:item.legendary_ghost_cap.name=Легендарный призрачный наконечник
+lolimagically:item.legendary_arcane_cap.name=Легендарный чародейский наконечник
+lolimagically:item.legendary_dragon_cap.name=Легендарный дракониевый наконечник
+
+lolimagically:item.legendary_ethereal_rod.name=Легендарный эфирный стержень
+lolimagically:item.legendary_ghost_rod.name=Легендарный призрачный стержень
+lolimagically:item.legendary_arcane_rod.name=Легендарный чародейский стержень
+lolimagically:item.legendary_dragon_rod.name=Легендарный дракониевый стержень
+
+lolimagically:item.ethereal_ring.name=Кольцо из эфирного адамантия
+lolimagically:item.ghost_ring.name=Кольцо из призрачного адамантия
+lolimagically:item.arcane_ring.name=Кольцо из чародейского адамантия
+lolimagically:item.dragon_ring.name=Кольцо из дракониевого адамантия
+
+lolimagically:item.stray_ethereal_spark.name=Блуждающая эфирная искра
+lolimagically:item.stray_ghost_spark.name=Блуждающая призрачная искра
+lolimagically:item.stray_arcane_spark.name=Блуждающая чародейская искра
+lolimagically:item.stray_dragon_spark.name=Блуждающая дракониевая искра
+
+lolimagically:item.small_magic_blood_orb.name=Кровавый шар Асмодея
+lolimagically:item.medium_magic_blood_orb.name=Кровавый шар Вельзевула
+
+lolimagically:item.research_book.name=Мастерский том изучений
+lolimagically:item.item_upgrade_0.name=Алхимическое улучшение скорости
+lolimagically:item.item_upgrade_1.name=Алхимическое улучшение удачи
+lolimagically:item.asgard_upgrade.name=Улучшение Асгард
+lolimagically:item.magic_stack_upgrade.name=Магическое улучшение стак
+
+lolimagically:item.blood_spark.name=Кровавая искра
+lolimagically:item.essential_spark.name=Эссенциальная искра
+
+item.Wand.ethereal_wand.rod=эфирный
+item.Wand.ethereal_wand.cap=Легендарный
+item.Wand.ghost_wand.rod=призрачный
+item.Wand.ghost_wand.cap=Легендарный
+item.Wand.arcane_wand.rod=чародейский
+item.Wand.arcane_wand.cap=Легендарный
+item.Wand.dragon_wand.rod=дракониевый
+item.Wand.dragon_wand.cap=Легендарный
+
+lolimagically:item.box_divine_rpg.name=Коробка удачи Divine RPG
+lolimagically:item.box_ihor.name=Ихоровая коробка удачи
+lolimagically:item.box_magic.name=Магическая коробка удачи
+lolimagically:item.box_elf.name=§eЭльфийский куб с наградами§f
+lolimagically:item.box_azure.name=§eЛазурный куб с наградами§f
+lolimagically:item.box_potions.name=§eКоробка с зельями§f
+lolimagically:item.box_vampire.name=§eКоробка вампира§f
+lolimagically:item.box_altar.name=§eНабор для алтаря§f
+
+lolimagically:item.star_crystal.name=Звездный кристалл
+lolimagically:item.star_crystal_aer.name=Звездный кристалл наполненный Aer
+lolimagically:item.star_crystal_aqua.name=Звездный кристалл наполненный Aqua
+lolimagically:item.star_crystal_ignis.name=Звездный кристалл наполненный Ignis
+lolimagically:item.star_crystal_praecantatio.name=Звездный кристалл наполненный Praecantatio
+lolimagically:item.star_crystal_terra.name=Звездный кристалл наполненный Terra
+
+lolimagically:item.sister_necromancer_bergamma_doll.name=§eКукла Сестры Некроманта Бергаммы§f
+lolimagically:item.sister_necromancer_kella_doll.name=§eКукла Сестры Некроманта Келлы§f
+lolimagically:item.straw_doll.name=Соломенная кукла
+lolimagically:item.witch_doll.name=Кукла ведьмы
+
+lolimagically:item.innos_whole_rune.name=Целая Руна Инноса
+lolimagically:item.innos_part_rune_1.name=Часть Руны Инноса 1
+lolimagically:item.innos_part_rune_2.name=Часть Руны Инноса 2
+lolimagically:item.innos_part_rune_3.name=Часть Руны Инноса 3
+lolimagically:item.innos_part_rune_4.name=Часть Руны Инноса 4
+lolimagically:item.innos_part_rune_5.name=Часть Руны Инноса 5
+
+lolimagically:item.alchemical_ihor.name=Алхимический ихор
+
+lolimagically:item.heart_foundation.name=Основа для сердца
+lolimagically:item.bat_soul.name=Душа летучей мыши
+lolimagically:item.innos_ancient_artefact.name=Древний Артефакт Инноса
+lolimagically:item.health_rune.name=Руна Здоровья
+lolimagically:item.gaia_relic_base.name=§6Основа §4Реликвии §3Стражника §2Гайа
+
+lolimagically:item.armor_scroll_upgrade_1.name=§3Свиток улучшения брони §eур.1§f
+lolimagically:item.armor_scroll_upgrade_2.name=§3Свиток улучшения брони §eур.2§f
+lolimagically:item.armor_scroll_upgrade_3.name=§3Свиток улучшения брони §eУр.3§f
+lolimagically:item.armor_scroll_upgrade_4.name=§3Свиток улучшения брони §eур.4§f
+lolimagically:item.weapon_scroll_upgrade_1.name=§3Свиток улучшения брони §eур.1§f
+lolimagically:item.weapon_scroll_upgrade_2.name=§3Свиток улучшения оружия §eУр.2§f
+lolimagically:item.weapon_scroll_upgrade_3.name=§3Свиток улучшения оружия §eУр.3§f
+lolimagically:item.weapon_scroll_upgrade_4.name=§3Свиток улучшения оружия §eУр.4§f
+
+lolimagically:item.strenght_cube_shard.name=§3Осколок Куба Особой Прочности
+lolimagically:item.adonas_scroll.name=§4Свиток Адонаса
+lolimagically:item.fire_runeball.name=§eРунный шар огня
+lolimagically:item.water_runeball.name=§eРунный шар воды
+lolimagically:item.fire_circle.name=§eКруг Огня
+lolimagically:item.flugel_aura.name=Аура Флюгеля
+
+lolimagically:item.emerald_coin.name=§eИзумрудная монета
+lolimagically:item.time_rune.name=Руна времени
+lolimagically:item.skin_token.name=§3Жетон скина
+lolimagically:item.infused_air_scroll.name=Наполненный aer свиток
+lolimagically:item.haos_shard.name=Осколок Хаоса
+lolimagically:item.durability_rune.name=§aРуна нерушимости
+
+lolimagically:item.archimage_talisman.name=Талисман Архимага
+lolimagically:item.cultist_medallion.name=§6Медальон Культиста
+lolimagically:item.demon_notes.name=Записки демона
+lolimagically:item.stone_tablet.name=Каменная табличка
+lolimagically:item.sky_crystal.name=Небесный кристалл
+lolimagically:item.innos_medallion.name=§6Медальон Инноса
+
+lolimagically:item.base_upgrade_scroll.name=Основа Свитка Улучшения
+lolimagically:item.nether_crystal.name=Адский кристалл
+lolimagically:item.ghost_soul.name=Душа Призрака
+
+lolimagically:item.advanced_elemental_hoe.name=Улучшенная Мотыга роста
+lolimagically:item.advanced_elemental_pickaxe.name=Улучшенная Кирка Огня
+lolimagically:item.advanced_elemental_shovel.name=Улучшенная Лопата Землероя
+lolimagically:item.advanced_elemental_sword.name=Улучшенный Меч Бури
+lolimagically:item.advanced_primal_crusher.name=Улучшенный Сингулярный Крушитель
+
+lolimagically:item.sacrificial_dagger_armok.name=Жертвенный кинжал Армока
+lolimagically:item.teleportation_sigil_armok.name=Сигил Телепортации Армока
+lolimagically:item.soul_flask.name=Флакон души
+lolimagically:item.soul_shard.name=Осколок души
+
+lolimagically:item.looting_module_1.name=Магический модуль добычи (2 уровня)
+lolimagically:item.looting_module_2.name=Магический модуль добычи (4 уровня)
+lolimagically:item.looting_module_3.name=Магический модуль добычи (6 уровня)
+lolimagically:item.looting_module_4.name=Магический модуль добычи (8 уровня)
+lolimagically:item.looting_module_5.name=Магический модуль добычи (16 уровня)
+lolimagically:item.looting_module_6.name=Магический модуль добычи (24 уровня)
+
+lolimagically.flower.asgardandelion_ultra.name=Улучшенный Асгардуванчик
+tile.botania:flower.asgardandelion_ultra.name=Улучшенный Асгардуванчик
+tile.lolimagically.flower.asgardandelion_ultra.lore=Полито слёзами Vazkii! :c
+lolimagically.lexicon.asgardandelion_ultra=Улучшенный Асгардуванчик
+lolimagically.lexicon.asgardandelion_ultra.0=Ходят слухе о цветке, который способен наделить своего владельца бесконечной маной. Если бы существовал такой цветок, он наверняка бы стоил несмертных богатсв.<BR>&oДо сих пор не ссылался.&r
+
+lolimagically.flower.asgardandelion_legendary.name=Легендарный Асгардуванчик
+tile.botania:flower.asgardandelion_legendary.name=Легендарный Асгардуванчик
+tile.lolimagically.flower.asgardandelion_legendary.lore=Пропитано слёзами Vazkii! :c
+lolimagically.lexicon.asgardandelion_legendary=Легендарный Асгардуванчик
+lolimagically.lexicon.asgardandelion_legendary.0=Ходят слухе о цветке, который способен наделить своего владельца бесконечной маной. Если бы существовал такой цветок, он наверняка бы стоил несмертных богатств.<BR>&oДо сих пор не ссылался.&r
+
+lolimagically:tile.euclidean_essence_generator.name=Евклидовый генератор эссенций
+lolimagically:tile.mana_auto_crafter.name=Автоматический синтезатор магических слитков
+lolimagically:tile.advanced_mechanical_mana_pool.name=Расширенный механический бассейн маны
+lolimagically:tile.witcher_farm.name=Ферма визеров
+
+lolimagically:tile.synergy_table.name=Стол синергии
+lolimagically:tile.magic_spawner.name=Магический спавнер
+lolimagically:tile.extra_warding_stone.name=Улучшенный камень сдерживания
+lolimagically:tile.extra_node_stabilizer.name=Пробужденный узел-стабилизатор
+lolimagically:tile.extra_deconstruction_table.name=Улучшенный стол расщепления
+lolimagically:tile.extra_arcane_furnace.name=Пробужденная адская печь
+lolimagically:tile.extra_arcane_furnace_core.name=Ядро пробуждённой адской печи
+lolimagically:tile.extra_bellows.name=Улучшенные магические меха
+lolimagically:tile.advanced_workbench_charger.name=Улучшенный вис-заряжатель
+
+lolimagically:key.tool_size_change=Смена размера копания
+
+lolimagically:item.greenhouse_upgrade.level=Уровень: {level} — айтемстак увеличен на 4
+
+lolimagically:item.greenhouse_upgrade.name=Улучшение мультитеплицы:
+
+lolimagically:item.greenhouse_upgrade_multiplication.name=Умножение
+lolimagically:item.greenhouse_upgrade_multiplication.level=§f{level} уровень §7Увеличивает стак до {value}
+lolimagically:item.greenhouse_upgrade_multiplication.description=§7Увеличивает стак у цветов
+
+lolimagically:item.greenhouse_upgrade_mana_speed.name=Скорость (Мана)
+lolimagically:item.greenhouse_upgrade_mana_speed.level=§f{level} уровень §7Потребляет {energy_amount} маны, ускоряет работу на {value}%
+lolimagically:item.greenhouse_upgrade_mana_speed.description=Ускоряет работу, потребляя ману из Скопления кристаллизованной маны
+
+lolimagically:item.greenhouse_upgrade_eu_energy_speed.name=Скорость (EU)
+lolimagically:item.greenhouse_upgrade_eu_energy_speed.level=§f{level} уровень §7Потребляет {energy_amount} EU, ускоряет работу на {value}%
+lolimagically:item.greenhouse_upgrade_eu_energy_speed.description=Ускоряет работу, потребляя EU
+
+lolimagically:item.greenhouse_upgrade_rf_energy_speed.name=Скорость (RF)
+lolimagically:item.greenhouse_upgrade_rf_energy_speed.level=§f{level} уровень §7Потребляет {energy_amount} RF, ускоряет работу на {value}%
+lolimagically:item.greenhouse_upgrade_rf_energy_speed.description=Ускоряет работу, потребляя RF
+
+lolimagically:item.greenhouse_upgrade_crystallization.name=Кристаллизация
+lolimagically:item.greenhouse_upgrade_crystallization.description=Добавляет 3 слота под Скопление кристаллизованной маны
+
+lolimagically:item.greenhouse_upgrade_mana_buffer.name=Хранилище (Мана)
+lolimagically:item.greenhouse_upgrade_mana_buffer.level=§f{level} уровень §7Позволяет хранить {value} маны
+lolimagically:item.greenhouse_upgrade_mana_buffer.description=Добавляет буфер с маной
+
+lolimagically:item.greenhouse_upgrade_eu_buffer.name=Хранилище (EU)
+lolimagically:item.greenhouse_upgrade_eu_buffer.level=§f{level} уровень §7Позволяет хранить {value} EU
+lolimagically:item.greenhouse_upgrade_eu_buffer.description=Добавляет буфер с EU-энергией
+
+lolimagically:item.greenhouse_upgrade_rf_buffer.name=Хранилище (RF)
+lolimagically:item.greenhouse_upgrade_rf_buffer.level=§f{level} уровень §7Позволяет хранить {value} RF
+lolimagically:item.greenhouse_upgrade_rf_buffer.description=Добавляет буфер с RF-энергией
+
+lolimagically:item.greenhouse_upgrade_expansion.name=Расширение
+lolimagically:item.greenhouse_upgrade_expansion.description=Добавляет 32 слота для топлива для цветов
+
+lolimagically:item.greenhouse_upgrade_efficiency.name=Эффективность
+lolimagically:item.greenhouse_upgrade_efficiency.description=Ускоряет работу на {value}%
+
+lolimagically:item.greenhouse_upgrade_processing.name=Переработка
+lolimagically:item.greenhouse_upgrade_processing.description=Добавляет переработку стака за одну операцию
+
+lolimagically:item.greenhouse_upgrade_eu_saving.name=Сбережение (EU)
+lolimagically:item.greenhouse_upgrade_eu_saving.description=Уменьшает затраты EU на {value}%
+
+lolimagically:item.greenhouse_upgrade_rf_saving.name=Сбережение (RF)
+lolimagically:item.greenhouse_upgrade_rf_saving.description=Уменьшает затраты RF на {value}%
+
+lolimagically:item.greenhouse_upgrade_mana_saving.name=Сбережение (Мана)
+lolimagically:item.greenhouse_upgrade_mana_saving.description=Уменьшает затраты маны у Скопления кристаллизованной маны на {value}%
+
+lolimagically:item.crystallized_mana_cluster.name=Скопление кристаллизованной маны
+lolimagically:item.magical_scroll_clear.name=Свиток очищения
+lolimagically:item.magical_scroll_give.name=Свиток искажения
+lolimagically:item.focus_node_jar.name=Набалдашник: Узел в банке
+
+lolimagically:item.magical_eye.name=Магическое око
+
+lolimagically:item.magical_eye.tooltip.0=§5 Позволяет узнать стабилизацию Рунической Матрицы
+lolimagically:item.magical_eye.tooltip.1=§5 Позволяет узнать количество аспектов в узле ауры
+lolimagically:item.magical_eye.tooltip.2=§5 Позволяет узнать количество маны в блоках, содержащих ману
+
+lolimagically:item.magical_eye.message.value=§5Этот алтарь имеет %i §5(%s) уровень стабилизации.
+lolimagically:item.magical_eye.message.mana.value=§6Этот блок содержит: §9%i §6маны.
+lolimagically:item.magical_eye.message.sufficient.0=§cОчень Слабый
+lolimagically:item.magical_eye.message.sufficient.1=§cСлабый
+lolimagically:item.magical_eye.message.sufficient.2=§6Нормальный
+lolimagically:item.magical_eye.message.sufficient.3=§6Средний
+lolimagically:item.magical_eye.message.sufficient.4=§aВысокий
+lolimagically:item.magical_eye.message.sufficient.5=§aНаилучший
+lolimagically:item.magical_eye.message.error=§cПроверка стабильности не удалась!
+lolimagically:item.magical_eye.message.node=§5Первичные аспекты в этом узле: §eAer: %1$s§f | §2Terra: %2$s§f | §cIgnis: %3$s§f | §3Aqua: %4$s§f | §7Ordo: %5$s§f | §8Perditio: %6$s
+lolimagically:item.magical_eye.message.stabilized_node=§5Возможные аспекты после стабилизации: §eAer: %1$s§f | §2Terra: %2$s§f | §cIgnis: %3$s§f | §3Aqua: %4$s§f | §7Ordo: %5$s§f | §8Perditio: %6$s
+
+lolimagically:item.rune_expansion.name=Руна расширение
+lolimagically:item.rune_growth.name=Руна роста
+lolimagically:item.rune_fertility.name=Руна плодородия
+
+lolimagically:tile.auto_arcane_workbench.name=Автоматический магический верстак
+
+lolimagically:tile.alchemical_synthesizer.name=Алхимический синтезатор
+lolimagically:tile.alchemical_covering.name=Алхимическое покрытие
+lolimagically:tile.alchemical_glass.name=Алхимическое стекло
+lolimagically:tile.alchemical_core.name=Алхимическое ядро
+lolimagically:tile.alchemical_rune_stone.name=Алхимический рунный камень
+
+lolimagically:tile.charging_table.name=Стол наполнения
+lolimagically:tile.automatic_oreflower.name=Автоматический рудноцвет
+lolimagically:tile.life_essence_materializer.name=Демонический материализатор жизненной эссенции
+
+lolimagically:item.lucifer_crystal.name=Кровавый кристалл Люцифера
+lolimagically:item.belphegor_crystal.name=Кровавый кристалл Бельфегора
+lolimagically:item.beelzebub_crystal.name=Кровавый кристалл Вельзевула
+lolimagically:item.demon_crystal.name=Кровавый кристалл Демона
+lolimagically:item.asmodeus_crystal.name=Кровавый кристалл Асмодея
+lolimagically:item.leviathan_crystal.name=Кровавый кристалл Левиафана
+
+# Armor
+item.ItemManulinGemHelm.name=Манулиновый капюшон адских глубин
+item.ItemManulinGemChest.name=Манулиновая роба стратосферы
+item.ItemManulinGemLegs.name=Манулиновые пылающие шаровары
+item.ItemManulinGemBoots.name=Манулиновые щитовые сапоги
+
+
+item.ItemManulinIchorSword.name=Пробуждённый манулино-ихориевый меч
+item.ItemManulinIchorPick.name=Пробуждённая манулино-ихориевая кирка
+item.ItemManulinIchorAxe.name=Пробуждённый манулино-ихориевый топор
+item.ItemManulinIchorShovel.name=Пробуждённая манулино-ихориевая лопата
+
+lolimagically:item.manulin_cloth.name=Манулино-ихориевая ткань
+lolimagically:item.manulin_ichor.name=Манулиновый ихор
+lolimagically:item.manulin_nitor.name=Манулиновый нитор
+
+lolimagically:item.auto_pocket_wardrobe.name=Манулиновый гардероб брони
+lolimagically:item.talisman_hidden_riches.name=Манулиновое хранилище
+
+# Пыль феи улучшенная версия из Botania с аспектами из Thaumcraft
+lolimagically:item.orderfilledDust.name=§eНаполненная порядком пыльца феи
+lolimagically:item.waterFilledDust.name=§eНаполненная водой пыльца феи
+lolimagically:item.airFilledDust.name=§eНаполненная воздухом пыльца феи
+lolimagically:item.earthFilledDust.name=§eНаполненная землёй пыльца феи
+lolimagically:item.fireFilledDust.name=§eНаполненная огнём пыльца феи
+lolimagically:item.chaosFilledDust.name=§eНаполненная хаосом пыльца феи
+
+lolimagically:item.blood_reagent.name=§eКровавый реагент
+lolimagically:item.blood_star.name=§4Кровавая звезда
+lolimagically:item.blood_crystal.name=Кровавый осколок хаоса
+
+lolimagically:item.chaos_sword.name=Клинок кровавой жрицы
+lolimagically:item.chaos_sword.desc=У каждого §6уровня§5 клинка есть свой §6лимит§5 убийств, преодолев который, его уровень §6повышается§5. При убийстве §6ведьмы§5 выпадает осколок §6того же§5 уровня, §6какой§5 и у клинка.
+
+lolimagically:item.shift_tooltip.lore=§5Удерживайте §6Shift§5 для просмотра описания.
+lolimagically:item.ctrl_tooltip.lore=§5Удерживайте §6Ctrl§5 для просмотра состояния.
+
+lolimagically:item.subject_case_gaya_2.name=Коробка гайи 2 уровня
+lolimagically:item.subject_case_gaya_3.name=Коробка гайи 3 уровня
+lolimagically:item.subject_case_gaya_4.name=Коробка гайи 4 уровня
+
+# Items
+item.gayaIngot1.name=Слиток Гайи (2 уровень)
+item.gayaIngot2.name=Слиток Гайи (3 уровень)
+item.gayaIngot3.name=Слиток Гайи (4 уровень)
+
+item.gaya_shard_1.name=Осколок души Гайи (2 уровень)
+item.gaya_shard_2.name=Осколок души Гайи (3 уровень)
+item.gaya_shard_3.name=Осколок души Гайи (4 уровень)
+
+# Entity
+entity.lolimagically.lolimagically:EntityGayaII.name=Гайа (2 уровень)
+entity.lolimagically.lolimagically:EntityGayaIII.name=Гайа (3 уровень)
+entity.lolimagically.lolimagically:EntityGayaIV.name=Гайа (4 уровень)
+
+# Blocks
+tile.botania:custompylon0.name=Гайа Пилон (2 уровень)
+tile.botania:custompylon1.name=Гайа Пилон (3 уровень)
+tile.botania:custompylon2.name=Гайа Пилон (4 уровень)
+
+lolimagically:tile.awakened_alchemical_calcinator.name=Пробужденный алхимический кальцинатор
+lolimagically:tile.asmodeus_reagent_jar.name=Колпак Асмодея
+lolimagically:tile.belphegor_reagent_jar.name=Колпак Бельфегора
+lolimagically:tile.beelzebub_reagent_jar.name=Колпак Вельзевула
+lolimagically:tile.leviathan_reagent_jar.name=Колпак Левиафана
+lolimagically:tile.lucifer_reagent_jar.name=Колпак Люцифера
+
+lolimagically:tile.everfull_lava_jar.name=Неиссякаемый адский кувшин
+lolimagically:tile.everfull_water_jar.name=Неиссякаемый водяной кувшин
+lolimagically:tile.legendary_mechanical_mana_pool.name=Легендарный механический бассейн маны
+lolimagically:tile.magic_assembly_table.name=Магический сборочный стол
+lolimagically:item.awakened_ritual_diviner.name=Пробужденный предсказатель ритуала
+
+lolimagically:tile.magic_stone_generator.name=Магический генератор булыжника
+lolimagically:tile.magic_unpacker.name=Магический распаковщик
+lolimagically:tile.runic_seed_filler.name=Рунический наполнитель семян
+lolimagically:tile.essential_generator.name=Эссенциальный генератор
+
+tile.AlfheimMarket.name=Обменник Альфхейма
+tile.IndustrialAgglomerationFactory.name=Завод промышленной агломерации
+tile.ManaBattery.name=Манабатарея
+tile.MechanicalApothecary.name=Механический аптекарь
+tile.MechanicalBrewery.name=Механическая варочная стойка
+tile.MechanicalDaisy.name=Механическая чистая маргаритка
+tile.MechanicalManaPool.name=Механический бассейн маны
+tile.MechanicalRunicAltar.name=Механический рунический алтарь
+
+tile.AdvancedMechanicalRunicAltar.name=Продвинутый механический рунический алтарь
+lolimagically:tile.magic_catalyst.name=Магический катализатор
+
+tile.AsgardManaBatteryX1.name=Батарея асгарда 1 уровня
+tile.AsgardManaBatteryX2.name=Батарея асгарда 2 уровня
+tile.AsgardManaBatteryX3.name=Батарея асгарда 3 уровня
+tile.AsgardManaBatteryX4.name=Батарея асгарда 4 уровня
+
+tile.AdvancedMechanicalRunicAltarL1.name=Продвинутый механический рунический алтарь X1
+tile.AdvancedMechanicalRunicAltarL2.name=Продвинутый механический рунический алтарь X2
+tile.AdvancedMechanicalRunicAltarL3.name=Продвинутый механический рунический алтарь X3
+tile.AdvancedMechanicalRunicAltarL4.name=Продвинутый механический рунический алтарь X4
+
+tile.ReagentForge.name=Реагентная кузница
+
+lolimagically.nei.alfheimMarket=Обменник Альфхейма
+lolimagically.nei.agglomerationFactory=Завод промышленной агломерации
+lolimagically.nei.petalApothecary=Механический аптекарь
+lolimagically.nei.brewery=Механическая варочная стойка
+lolimagically.nei.pureDaisy=Механическая чистая маргаритка
+lolimagically.nei.manaPool=Механический бассейн маны
+lolimagically.nei.runicAltar=Механический рунический алтарь
+
+lolimagically:nei.advancedRunicAltarL1.name=Продвинутый рунический алтарь X1
+lolimagically:nei.advancedRunicAltarL2.name=Продвинутый рунический алтарь X2
+lolimagically:nei.advancedRunicAltarL3.name=Продвинутый рунический алтарь X3
+lolimagically:nei.advancedRunicAltarL4.name=Продвинутый рунический алтарь X4
+lolimagically:nei.reagentForge.name=Реагентная кузница
+
+lolimagically:item.upgrade_lifestone_generator.name=Улучшение Генератор жизнекамня
+
+lolimagically:item.reagent_ethereal_adamantium.name=Реагент эфирного адамантия
+lolimagically:item.reagent_phantom_adamantium.name=Реагент призрачного адамантия
+lolimagically:item.reagent_arcane_adamantium.name=Реагент чародейского адамантия
+lolimagically:item.reagent_draconic_adamantium.name=Реагент дракониевого адамантия
+
+tc.research_name.INFERNALEXTRAFURNACE=Пробужденная алхимическая печь
+tc.research_text.INFERNALEXTRAFURNACE=Достаточно горячо?
+
+tc.research_name.EXTRATHAUMATORIUM=Пробужденная алхимическая конструкция
+tc.research_text.EXTRATHAUMATORIUM=Алхимию - народу

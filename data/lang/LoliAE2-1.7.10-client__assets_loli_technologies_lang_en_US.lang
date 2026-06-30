@@ -1,0 +1,228 @@
+tile.loli_technologies.CraftingStorageS10.name=256K хранилище создания
+tile.loli_technologies.CraftingStorageS11.name=1024K хранилище создания
+tile.loli_technologies.CraftingStorageS12.name=4096K хранилище создания
+tile.loli_technologies.CraftingStorageS13.name=32M хранилище создания
+tile.loli_technologies.CraftingStorageS20.name=128M хранилище создания
+tile.loli_technologies.CraftingStorageS21.name=512M хранилище создания
+tile.loli_technologies.CraftingStorageS22.name=2048M хранилище создания
+
+tile.loli_technologies.BlockCraftingAccelerator0.name=Блок обработки созданий (9 операций)
+tile.loli_technologies.BlockCraftingAccelerator1.name=Блок обработки созданий (81 операция)
+tile.loli_technologies.BlockCraftingAccelerator2.name=Блок обработки созданий (729 операций)
+
+tile.loli_technologies.BlockInfusionEncoding.name=Матричный кодировщик
+tile.loli_technologies.BlockInfusionAssembler.name=Матричный молекулярный сборщик
+tile.loli_technologies.BlockLargeAssemblerX9.name=Экстремальный молекулярный сборщик
+
+tile.loli_technologies.BlockAdvancedAssembler.name=Ускоренный молекулярный сборщик
+
+tile.loli_technologies.BlockCraftingInterfaceX2.name=МЭ интерфейс X2 (18 шаблонов)
+tile.loli_technologies.BlockCraftingInterfaceX3.name=МЭ интерфейс X3 (27 шаблонов)
+tile.loli_technologies.BlockCraftingInterfaceX4.name=МЭ интерфейс X4 (36 шаблонов)
+
+tile.loli_technologies.BlockEnergyCell.name=Гибридная плотная энергетическая ячейка
+
+tile.loli_technologies.BlockLevelMaintainer.name=МЭ поддерживатель уровня
+tile.loli_technologies.BlockAdvancedCellWorkbench.name=Улучшенный верстак для ячеек
+tile.loli_technologies.BlockAdvancedCondenser.name=Улучшенный конденсатор материи
+tile.loli_technologies.BlockAdvancedIOPort.name=Улучшенный порт ввода/вывода
+
+
+tile.loli_technologies.BlockGoldController.name=Золотой MЭ контроллер
+tile.loli_technologies.BlockInfiniteController.name=Бесконечный MЭ контроллер
+tile.loli_technologies.BlockDemonicController.name=Демонический MЭ контроллер
+
+tile.loli_technologies.BlockGoldCreativeEnergyCell.name=Золотая творческая энергетическая ячейка
+tile.loli_technologies.BlockInfiniteCreativeEnergyCell.name=Бесконечная творческая энергетическая ячейка
+tile.loli_technologies.BlockDemonicCreativeEnergyCell.name=Демоническая творческая энергетическая ячейка
+
+tile.loli_technologies.BlockGoldEnergyCell.name=Золотая энергетическая ячейка
+tile.loli_technologies.BlockInfiniteEnergyCell.name=Бесконечная энергетическая ячейка
+tile.loli_technologies.BlockDemonicEnergyCell.name=Демоническая энергетическая ячейка
+
+tile.loli_technologies.BlockGoldLargeDrive.name=Золотой MЭ накопитель
+tile.loli_technologies.BlockInfiniteLargeDrive.name=Бесконечный MЭ накопитель
+tile.loli_technologies.BlockDemonicLargeDrive.name=Демонический MЭ накопитель
+
+tile.loli_technologies.BlockGoldCellWorkbench.name=Золотой верстак для ячеек
+tile.loli_technologies.BlockInfiniteCellWorkbench.name=Бесконечный верстак для ячеек
+tile.loli_technologies.BlockDemonicCellWorkbench.name=Демонический верстак для ячеек
+
+tile.loli_technologies.BlockGoldWireless.name=Золотая МЭ беспроводная точка доступа
+tile.loli_technologies.BlockInfiniteWireless.name=Бесконечная МЭ беспроводная точка доступа
+tile.loli_technologies.BlockDemonicWireless.name=Демоническая МЭ беспроводная точка доступа
+
+tile.loli_technologies.BlockGoldCraftingInterface.name=Золотой МЭ интерфейс X4 (36 шаблонов)
+tile.loli_technologies.BlockInfiniteCraftingInterface.name=Бесконечный МЭ интерфейс X4 (36 шаблонов)
+tile.loli_technologies.BlockDemonicCraftingInterface.name=Демонический МЭ интерфейс X4 (36 шаблонов)
+
+tile.loli_technologies.box_gold_me.name=Комплект золотой МЭ сети
+tile.loli_technologies.box_infinite_me.name=Комплект бесконечной МЭ сети
+tile.loli_technologies.box_demonic_me.name=Комплект демонической МЭ сети
+
+tile.loli_technologies.BlockCraftingCombiner.name=Объединитель блоков обработки и создания
+tile.loli_technologies.BlockAnnihilation.name=МЭ аннулятор предметов
+
+item.loli_technologies.ItemInfusionCell.name=Диск с матричными шаблонами
+item.loli_technologies.orb.name=Ядро матричных шаблонов
+item.loli_technologies.ItemLargePattern.name=Кодированный экстремальный шаблон
+
+item.loli_technologies.ItemStorageCell32m.name=32M МЭ ячейка хранения
+item.loli_technologies.ItemStorageCell64m.name=64M МЭ ячейка хранения
+item.loli_technologies.ItemStorageCell128p.name=Бесконечная МЭ ячейка хранения
+
+loli_technologies.gui.B=байт
+loli_technologies.gui.KB=килобайт
+loli_technologies.gui.MB=мегабайт
+loli_technologies.gui.GB=гигабайт
+loli_technologies.gui.TB=терабайт
+loli_technologies.gui.PB=петабайт
+
+loli_technologies.gui.KiB=кибибайт
+loli_technologies.gui.MiB=мебибайт
+loli_technologies.gui.GiB=гибибайт
+loli_technologies.gui.TiB=тебибайт
+loli_technologies.gui.PiB=пебибайт
+
+loli_technologies.gui.BUsed=байт использовано
+loli_technologies.gui.KBUsed=килобайт использовано
+loli_technologies.gui.MBUsed=мегабайт использовано
+loli_technologies.gui.GBUsed=гигабайт использовано
+loli_technologies.gui.TBUsed=терабайт использовано
+loli_technologies.gui.PBUsed=петабайт использовано
+
+loli_technologies.gui.KiBUsed=кибибайт использовано
+loli_technologies.gui.MiBUsed=мебибайт использовано
+loli_technologies.gui.GiBUsed=гибибайт использовано
+loli_technologies.gui.TiBUsed=тебибайт использовано
+loli_technologies.gui.PiBUsed=пебибайт использовано
+
+item.essentia.cell.32m.name=32M МЭ ячейка хранения эссенции
+item.essentia.cell.64m.name=64M МЭ ячейка хранения эссенции
+item.essentia.cell.128t.name=Бесконечная МЭ ячейка хранения эссенции
+
+loli_technologies.item.storage.fluid.32m.name=32M МЭ ячейка хранения жидкости
+loli_technologies.item.storage.fluid.64m.name=64M МЭ ячейка хранения жидкости
+loli_technologies.item.storage.fluid.128t.name=Бесконечная МЭ ячейка хранения жидкости
+
+item.loli_technologies.ItemPart.PatternTerminalX9.name=MЭ терминал экстремальных крафтов
+item.loli_technologies.ItemQuantumAccelerationCard.name=Квантовая карта ускорения
+item.loli_technologies.ItemSealAzanor.name=Печать Азанора
+item.loli_technologies.ItemSealArmok.name=Печать Армока
+
+item.loli_technologies.ItemPart.CableImproved.name=Улучшенный MЭ кабель
+item.loli_technologies.ItemPart.CableUltimate.name=Ультимативный MЭ кабель
+item.loli_technologies.ItemPart.CableQuantum.name=Квантовый MЭ кабель
+
+item.loli_technologies.component_green.name=Зеленый компонент хранилища
+item.loli_technologies.component_blue.name=Синий компонент хранилища
+item.loli_technologies.component_magenta.name=Пурпурный компонент хранилища
+item.loli_technologies.component_light_blue.name=Светло-синий компонент хранилища
+item.loli_technologies.component_orange.name=Оранжевый компонент хранилища
+item.loli_technologies.component_pink.name=Розовый компонент хранилища
+item.loli_technologies.component_red.name=Красный компонент хранилища
+
+item.loli_technologies.circuit_green.name=Отпечатанный зеленый контур
+item.loli_technologies.circuit_blue.name=Отпечатанный синий контур
+item.loli_technologies.circuit_magenta.name=Отпечатанный пурпурный контур
+item.loli_technologies.circuit_light_blue.name=Отпечатанный светло-синий контур
+item.loli_technologies.circuit_orange.name=Отпечатанный оранжевый контур
+item.loli_technologies.circuit_pink.name=Отпечатанный розовый контур
+item.loli_technologies.circuit_red.name=Отпечатанный красный контур
+
+item.loli_technologies.processor_green.name=Продвинутый процессор в зеленой оболочке
+item.loli_technologies.processor_blue.name=Продвинутый процессор в синей оболочке
+item.loli_technologies.processor_magenta.name=Продвинутый процессор в пурпурной оболочке
+item.loli_technologies.processor_light_blue.name=Продвинутый процессор в светло-синей оболочке
+item.loli_technologies.processor_orange.name=Продвинутый процессор в оранжевой оболочке
+item.loli_technologies.processor_pink.name=Продвинутый процессор в розовой оболочке
+item.loli_technologies.processor_red.name=Продвинутый процессор в красной оболочке
+
+tile.loli_technologies.BlockArcaneImprovedAssembler.name=Улучшенный магический сборщик
+
+tile.loli_technologies.BlockSupplier.name=МЭ Поставщик
+tile.loli_technologies.BlockBuffer.name=МЭ Буфер
+tile.loli_technologies.BlockLogist.name=МЭ Логист
+tile.loli_technologies.BlockWirelessHub.name=МЭ Центр беспроводных подключений
+tile.loli_technologies.BlockWireless32.name=Беспроводной соединитель
+tile.loli_technologies.BlockWireless64.name=Улучшенный беспроводной соединитель
+tile.loli_technologies.BlockWireless128.name=Ультимативный беспроводной соединитель
+tile.loli_technologies.BlockWireless256.name=Квантовый беспроводной соединитель
+item.loli_technologies.ItemWirelessKit.name=Набор для настройки беспроводного соединителя
+
+tile.loli_technologies.BlockNeutroniumEncoding.name=Нейтронный кодировщик
+item.loli_technologies.orb_neutronium.name=Ядро нейтронных шаблонов
+item.loli_technologies.ItemNeutroniumCell.name=Диск с нейтронными шаблонами
+tile.loli_technologies.BlockNeutroniumAssembler.name=Нейтронный сборщик
+
+tile.loli_technologies.BlockNASAEncoding.name=Кодировщик NASA
+item.loli_technologies.orb_nasa.name=Ядро NASA шаблонов
+item.loli_technologies.ItemNASACell.name=Диск с NASA шаблонами
+tile.loli_technologies.BlockNASAAssembler.name=Автоматический NASA сборщик
+tile.loli_technologies.BlockLargeDrive.name=Расширенный МЭ накопитель
+
+tile.loli_technologies.BlockManaResonator.name=Резонатор маны
+tile.loli_technologies.BlockBloodResonator.name=Резонатор крови
+
+tile.loli_technologies.BlockBloodAlchemyEncoding.name=Кровавый кодировщик алхимической и химической установки
+tile.loli_technologies.BlockBloodAltarEncoding.name=Кровавый кодировщик алтаря
+tile.loli_technologies.BlockBloodAssembler.name=Кровавый сборщик
+item.loli_technologies.orb_blood.name=Ядро кровавых шаблонов
+item.loli_technologies.ItemBloodCell.name=Диск с кровавыми шаблонами
+
+itemGroup.loli_technologies.global=LoliLand: Technologies
+
+text.loli_technologies.wireless.tool.empty=Используйте на беспроводном соединители для привязки
+text.loli_technologies.wireless.tool.bound1=Привязка на %s,%s,%s
+text.loli_technologies.wireless.tool.bound2=Используйте на другой беспроводном соединителе, чтобы подключить его к предыдущему
+text.loli_technologies.wireless.tool.connected=Подключено к %s,%s,%s
+text.loli_technologies.wireless.tool.disconnected=Привязка к %s,%s,%s удалена
+text.loli_technologies.wireless.tool.failed=Соединение не состоялось
+text.loli_technologies.wireless.tool.dimension=Соединители не могут находиться в разных измерениях
+text.loli_technologies.wireless.tool.noexist=Привязанного соединителя больше не существует
+
+text.loli_technologies.error.not_connected=Нет соединения с сетью
+
+text.loli_technologies.visualiser.bound=Визуализируем сеть, находящуюся на %s,%s,%s
+text.loli_technologies.visualiser.mode=Режим:
+text.loli_technologies.visualiser.set=Режим изменен на %s
+text.loli_technologies.visualiser.mode.full=Показывать все
+text.loli_technologies.visualiser.mode.nodes=Показывать узлы сети
+text.loli_technologies.visualiser.mode.channels=Показывать каналы
+text.loli_technologies.visualiser.mode.nonum=Показывать каналы и узлы сети
+text.loli_technologies.visualiser.mode.p2p=Показывать P2P-соединения
+
+tile.loli_technologies.BlockAssemblyTableAssembler.name=Лазерный последовательный сборщик
+tile.loli_technologies.BlockAssemblyTableEncoding.name=Лазерный кодировщик
+
+tile.loli_technologies.BlockFusionAssembler.name=Внеземной дракониевый сборщик
+tile.loli_technologies.BlockFusionEncoding.name=Внеземной дракониевый кодировщик
+
+item.loli_technologies.ItemFusionCell.name=Диск с дракониевыми шаблонами
+item.loli_technologies.ItemAssemblyTableCell.name=Диск с лазерными шаблонами
+
+item.loli_technologies.orb_alien.name=Ядро дракониевых шаблонов
+item.loli_technologies.orb_lazer.name=Ядро лазерных шаблонов
+
+item.loli_technologies.ItemVisualiser.name=Визуализатор сети
+
+item.loli_technologies.ItemPart.PartCraftingInterfaceX2.name=МЭ интерфейс X2 (18 шаблонов)
+item.loli_technologies.ItemPart.PartCraftingInterfaceX3.name=МЭ интерфейс X3 (27 шаблонов)
+item.loli_technologies.ItemPart.PartCraftingInterfaceX4.name=МЭ интерфейс X4 (36 шаблонов)
+item.loli_technologies.ItemPart.PartSupplier.name=МЭ Поставщик
+item.loli_technologies.ItemPart.PartBuffer.name=МЭ Буфер
+item.loli_technologies.ItemPart.PartLogist.name=МЭ Логист
+
+item.loli_technologies.ItemPatternDuplicator.name=Дубликатор шаблонов
+tile.loli_technologies.BlockKnowledgeDuplicationStation.name=Станция дублирования знаний
+
+item.loli_technologies.storage_cell_gas32m.name=32М МЭ ячейка хранения газов
+item.loli_technologies.storage_cell_gas64m.name=64М МЭ ячейка хранения газов
+item.loli_technologies.storage_cell_gas128m.name=Бесконечная МЭ ячейка хранения газов
+
+tile.loli_technologies.BlockCelestialAssembler.name=Небесный сборщик
+tile.loli_technologies.BlockCelestialEncoding.name=Небесный кодировщик
+
+item.loli_technologies.orb_celestial.name=Ядро небесных шаблонов
+item.loli_technologies.ItemCelestialCell.name=Диск с небесными шаблонами
+

@@ -1,0 +1,41 @@
+{
+  "_note": "Ветка финальной «Искрящейся солнечной панели» (квест «Вся искрица»), реконструирована из прохождения #46-48 и гайда. station=где крафтится, source=как добыть/условие. Точные сетки сверь в NEI.",
+  "nodes": [
+    {"id": "lolienergistics:sparkling_panel", "label": "Искрящаяся солнечная панель", "category": "Панель/Страж", "tier": 0, "kind": "goal",
+      "station": "Ужасающий верстак 9×9 (Avaritia)",
+      "source": "Финал квеста «Вся искрица» — топовая дисперсионная панель (~100M EU/t); далее → розовое золото → Квантовый генератор"},
+    {"id": "lolienergistics:singularity_sparkling", "label": "Искрящая сингулярность", "category": "Сингулярность/Звезда", "tier": 0, "kind": "component",
+      "station": "Кодировщик сингулярностей / Молекулярный сборщик",
+      "source": "Кодируется из Расплавленной искрящейся материи (жидкостная сингулярность)"},
+    {"id": "lolienergistics:molten_spark_matter", "label": "Расплавленная искрящаяся материя", "category": "matter", "tier": 0, "kind": "intermediate",
+      "station": "Термоядерный плавильный комплекс (поверхность звезды 43.500°)",
+      "source": "Плавится только при 43.500°: Зодиус + Термоизолятор 3 ур. + Индукц. модули 4 ур. + Портативный модуль"},
+    {"id": "lolienergistics:zodius_micro_star", "label": "Микрозвезда: Зодиус", "category": "heliospher", "tier": 0, "kind": "intermediate",
+      "station": "Гелиосферное зарядное ядро",
+      "source": "Заряжается до поверхности 43.500° (ядро ~120M) — единственная звезда с нужной температурой"},
+    {"id": "lolienergistics:thermal_insulator_t3", "label": "Термоизолятор 3 ур.", "category": "heliospher", "tier": 0, "kind": "component",
+      "station": "Молекулярный сборщик",
+      "source": "Крафт: ядра Хаоса + 4 демондракона; держит температуру звезды"},
+    {"id": "lolienergistics:induction_module_t4", "label": "Индукционные модули 4 ур.", "category": "heliospher", "tier": 0, "kind": "component",
+      "station": "Молекулярный сборщик", "source": "Поднимают макс. температуру зарядного центра до 43.500°"},
+    {"id": "lolienergistics:portable_charging_module", "label": "Портативный заряжающий модуль", "category": "heliospher", "tier": 0, "kind": "component",
+      "station": "Молекулярный сборщик", "source": "Звезда перестаёт терять температуру/энергию — непрерывная плавка"},
+    {"id": "lolimagically:legendary_aether_wand", "label": "Легендарный эфирный жезл", "category": "Магия/Оружие", "tier": 0, "kind": "component",
+      "station": "Магический верстак / резонатор крови",
+      "source": "~10k аспектов каждого типа + кровь; обязателен для панелей тауматурга драконьего/инфернального тира. Сверь имя в NEI"}
+  ],
+  "edges": [
+    {"from": "lolienergistics:sparkling_core", "to": "lolienergistics:zodius_micro_star"},
+    {"from": "lolienergistics:star_matter", "to": "lolienergistics:zodius_micro_star"},
+    {"from": "lolienergistics:zodius_micro_star", "to": "lolienergistics:molten_spark_matter"},
+    {"from": "lolienergistics:matter_sparkling", "to": "lolienergistics:molten_spark_matter"},
+    {"from": "lolienergistics:thermal_insulator_t3", "to": "lolienergistics:molten_spark_matter"},
+    {"from": "lolienergistics:induction_module_t4", "to": "lolienergistics:molten_spark_matter"},
+    {"from": "lolienergistics:portable_charging_module", "to": "lolienergistics:molten_spark_matter"},
+    {"from": "lolienergistics:molten_spark_matter", "to": "lolienergistics:singularity_sparkling"},
+    {"from": "lolienergistics:singularity_sparkling", "to": "lolienergistics:sparkling_panel"},
+    {"from": "lolienergistics:sparkling_core", "to": "lolienergistics:sparkling_panel"},
+    {"from": "lolienergistics:infinity_guardian_panel", "to": "lolienergistics:sparkling_panel"},
+    {"from": "lolimagically:legendary_aether_wand", "to": "lolienergistics:demon_blood_panels"}
+  ]
+}

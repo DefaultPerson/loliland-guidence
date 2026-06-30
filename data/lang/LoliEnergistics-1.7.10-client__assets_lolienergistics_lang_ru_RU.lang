@@ -1,0 +1,55 @@
+tile.blockMolecularTransformer.name=Молекулярный преобразователь
+gui.MolecularTransformer.input=Вход
+gui.MolecularTransformer.output=Выход
+gui.MolecularTransformer.energyPerOperation=Энергия
+gui.MolecularTransformer.energyPerTick=EU/t
+gui.MolecularTransformer.progress=Прогресс
+
+lolienergistics:item.focus_energy_ball.name=Набалдашник: Наэлектризованное облако
+lolienergistics:item.vis_discount.tooltip=Уменьшение затрат Вис
+
+lolienergistics:item.electric_boots_traveller.name=Электрические ботинки путешественника
+lolienergistics:item.nano_boots_traveller.name=Нано-ботинки путешественника
+lolienergistics:item.quantum_boots_traveller.name=Квантовые ботинки путешественника
+lolienergistics:item.electric_scribing_tool.name=Электрическая чернильница с пером
+
+lolienergistics:item.infused_quantum_chest.name=Наполненный квантовый нагрудник
+
+lolienergistics.key.unequip=Снять
+
+lolienergistics:item.electric_goggles.name=Электрические очки откровения
+lolienergistics:item.nano_thaumic_helmet.name=Нано-очки откровения
+lolienergistics:item.quantum_thaumic_helmet.name=Квантовые очки откровения
+lolienergistics:item.solar_helmet_revealing.name=Солнечные очки откровения
+
+loliindex.recipe_type.ic2.macerating=Дробление
+loliindex.recipe_type.ic2.extracting=Экстракция
+loliindex.recipe_type.ic2.compressing=Сжатие
+loliindex.recipe_type.ic2.block_cutting=Резка блоков
+loliindex.recipe_type.ic2.metal_forming=Прокатка
+loliindex.recipe_type.ic2.centrifuging=Центрифугирование
+loliindex.recipe_type.ic2.ore_washing=Промывка руды
+loliindex.recipe_type.ic2.solid_canning=Консервирование
+loliindex.recipe_type.ic2.fluid_enriching=Обогащение жидкости
+loliindex.recipe_type.ic2.scrapbox=Утильсырьё
+
+loliindex.recipe_type.avaritia.compression=Компрессия нейтрония
+
+loliindex.recipe_type.le.molecular=Молекулярный преобразователь
+loliindex.recipe_type.le.molecular_farm=Молекулярная ферма
+loliindex.recipe_type.le.double_molecular=Двойной молекулярный преобразователь
+
+loliindex.recipe_type.le.coke_oven=Коксовая печь
+loliindex.recipe_type.le.blast_furnace=Доменная печь
+
+loliindex.recipe_type.le.matter_solid_t0=Генератор твёрдой материи T1
+loliindex.recipe_type.le.matter_solid_t1=Генератор твёрдой материи T2
+loliindex.recipe_type.le.matter_solid_t2=Генератор твёрдой материи T3
+loliindex.recipe_type.le.matter_solid_t3=Генератор твёрдой материи T4
+loliindex.recipe_type.le.matter_solid_t4=Генератор твёрдой материи T5
+loliindex.recipe_type.le.matter_solid_t5=Генератор твёрдой материи T6
+loliindex.recipe_type.le.matter_solid_t6=Генератор твёрдой материи T7
+loliindex.recipe_type.le.matter_solid_t7=Генератор твёрдой материи T8
+loliindex.recipe_type.le.matter_solid_t8=Генератор твёрдой материи T9
+loliindex.recipe_type.le.matter_solid_t9=Генератор твёрдой материи T10
+lolienergistics:tile.deep_storage_unit.name=Глубокое хранилище

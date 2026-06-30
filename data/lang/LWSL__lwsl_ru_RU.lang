@@ -1,0 +1,9 @@
+itemGroup.tabLWSL=Система LWSL
+tile.structure_transience.name=Структурная изменчивость
+tile.structure_air.name=Структурный воздух
+tile.cold_structure_air.name=Холодный структурный воздух
+tile.structure_red.name=Красная структура
+tile.structure_green.name=Зелёная структура
+tile.structure_blue.name=Синяя структура
+tile.hypothetical_snow.name=Гипотетический снег
+item.structure_selector.name=Селектор структур

@@ -1,0 +1,649 @@
+# en_US translation, default
+
+
+#Item_Cell
+ic2.itemCellEmpty=Empty Cell
+ic2.itemCellLava=Lava Cell
+ic2.itemCellWater=Water Cell
+ic2.itemCellUuMatter=UuMatter Cell
+ic2.itemCellCF=Construction Foam Cell
+ic2.itemCellAir=Compressed Air Cell
+ic2.itemCellCoal=H. Coal Cell
+ic2.itemCellBiomass=Biomass Cell
+ic2.itemCellCoalRef=Coalfuel Cell
+ic2.itemCellBiogas=Biogas Cell
+ic2.itemCellWaterElectro=Electrolyzed Water Cell
+ic2.itemCellCoolant=Coolant Cell
+ic2.itemCellHotCoolant=Hot Coolant Cell
+ic2.itemCellPahoehoelava=Pahoehoe Lava Cell
+ic2.itemCellDistilledWater=Distilled Water Cell
+
+#Item_CrushedOre
+
+ic2.itemCrushedCopperOre=Crushed Copper Ore
+ic2.itemCrushedGoldOre=Crushed Gold Ore
+ic2.itemCrushedIronOre=Crushed Iron Ore
+ic2.itemCrushedTinOre=Crushed Tin Ore
+ic2.itemCrushedUranOre=Crushed Uranium Ore
+ic2.itemCrushedSilverOre=Crushed Silver Ore
+ic2.itemCrushedLeadOre=Crushed Lead Ore
+
+#Item_PurifiedCrushedOre
+
+
+ic2.itemPurifiedCrushedCopperOre=Purified Crushed Copper Ore
+ic2.itemPurifiedCrushedGoldOre=Purified Crushed Gold Ore
+ic2.itemPurifiedCrushedIronOre=Purified Crushed Iron Ore
+ic2.itemPurifiedCrushedTinOre=Purified Crushed Tin Ore
+ic2.itemPurifiedCrushedUranOre=Purified Crushed Uranium Ore
+ic2.itemPurifiedCrushedSilverOre=Purified Crushed Silver Ore
+ic2.itemPurifiedCrushedLeadOre=Purified Crushed Lead Ore
+
+#Item_Plate
+
+ic2.itemPlateBronze=Bronze Plate
+ic2.itemPlateAdvIron=Refined Iron Plate
+ic2.itemPlateCopper=Copper Plate
+ic2.itemPlateGold=Gold Plate
+ic2.itemPlateIron=Iron Plate
+ic2.itemPlateTin=Tin Plate
+ic2.itemPlateLead=Lead Plate
+ic2.itemPlateObsidian=Obsidian Plate
+ic2.itemPlateLapi=Lapis Lazuli Plate
+
+#Item_DensePlate
+
+ic2.itemDensePlateBronze=Dense Bronze Plate
+ic2.itemDensePlateAdvIron=Dense Refined Iron Plate
+ic2.itemDensePlateCopper=Dense Copper Plate
+ic2.itemDensePlateGold=Dense Gold Plate
+ic2.itemDensePlateIron=Dense Iron Plate
+ic2.itemDensePlateTin=Dense Tin Plate
+ic2.itemDensePlateLead=Dense Lead Plate
+ic2.itemDensePlateObsidian=Dense Obsidian Plate
+ic2.itemDensePlateLapi=Dense Lapis Lazuli Plate
+
+#Item_Casing
+
+ic2.itemCasingCopper=Copper Item Casing
+ic2.itemCasingTin=Tin Item Casing
+ic2.itemCasingBronze=Bronze Item Casing
+ic2.itemCasingGold=Gold Item Casing
+ic2.itemCasingIron=Iron Item Casing
+ic2.itemCasingAdvIron=Refined Iron Item Casing
+ic2.itemCasingLead=Lead Item Casing
+
+#Item_Ingot
+
+ic2.itemIngotAdvIron=Refined Iron Ingot
+ic2.itemIngotCopper=Copper Ingot
+ic2.itemIngotTin=Tin Ingot
+ic2.itemIngotBronze=Bronze Ingot
+ic2.itemIngotAlloy=Mixed Metal Ingot
+ic2.itemIngotLead=Lead Ingot
+ic2.itemIngotSilver=Silver Ingot
+
+#Item_Dust
+
+ic2.itemDustStone=Stone Dust
+ic2.itemDustLead=Lead Dust
+ic2.itemDustObsidian=Obsidian Dust
+ic2.itemDustLapi=Lapis Lazuli Dust
+ic2.itemDustSulfur=Sulfur Dust
+ic2.itemDustsilicondioxide=Silicon dioxide
+ic2.itemDustdiamond=Diamond Dust
+ic2.itemDustenergium=Energium Dust
+ic2.itemDustCoal=Coal Dust
+ic2.itemDustIron=Iron Dust
+ic2.itemDustGold=Gold Dust
+ic2.itemDustCopper=Copper Dust
+ic2.itemDustTin=Tin Dust
+ic2.itemDustBronze=Bronze Dust
+ic2.itemDustClay=Clay Dust
+ic2.itemDustSilver=Silver Dust
+
+#Item_SmallDust
+
+ic2.itemDustCopperSmall=Tiny Pile of Copper Dust
+ic2.itemDustGoldSmall=Tiny Pile of Gold Dust
+ic2.itemDustTinSmall=Tiny Pile of Tin Dust
+ic2.itemDustSilverSmall=Tiny Pile of Silver Dust
+ic2.itemDustLeadSmall=Tiny Pile of Lead Dust
+ic2.itemDustSulfurSmall=Tiny Pile of Sulfur Dust
+ic2.itemDustLithiumSmall=Tiny Pile of Lithium Dust
+ic2.itemDustIronSmall=Tiny Pile of Iron Dust
+ic2.itemDustBronzeSmall=Tiny Pile of Bronze Dust
+ic2.itemDustLapiSmall=Tiny Pile of Lapis Dust
+ic2.itemDustObsidianSmall=Tiny Pile of Obsidian Dust
+
+#Item_Tool
+
+ic2.itemToolDrill=Mining Drill
+ic2.itemToolDDrill=Diamond Drill
+ic2.itemToolIridiumDrill=Iridium Drill
+ic2.itemToolChainsaw=Chainsaw
+ic2.itemScanner=OD Scanner
+ic2.itemScannerAdv=OV Scanner
+ic2.itemScanner.found=scan result:
+ic2.itemToolWrench=Wrench
+ic2.itemToolForgeHammer=Forge Hammer
+ic2.itemToolHoe=Electric Hoe
+ic2.itemToolMiningLaser=Mining Laser
+ic2.itemToolPainter=Painter
+ic2.itemToolPainterBlack=Black Painter
+ic2.itemToolPainterBlue=Blue Painter
+ic2.itemToolPainterBrown=Brown Painter
+ic2.itemToolPainterCloud=Light Blue Painter
+ic2.itemToolPainterCyan=Cyan Painter
+ic2.itemToolPainterDarkGrey=Dark Grey Painter
+ic2.itemToolPainterGreen=Green Painter
+ic2.itemToolPainterLightGrey=Light Grey Painter
+ic2.itemToolPainterLime=Lime Painter
+ic2.itemToolPainterMagenta=Magenta Painter
+ic2.itemToolPainterOrange=Orange Painter
+ic2.itemToolPainterPink=Pink Painter
+ic2.itemToolPainterPurple=Purple Painter
+ic2.itemToolPainterRed=Red Painter
+ic2.itemToolPainterWhite=White Painter
+ic2.itemToolPainterYellow=Yellow Painter
+ic2.itemToolCutter=Cutter
+ic2.itemNanoSaber=Nano Saber
+ic2.itemTreetap=Treetap
+ic2.itemFoamSprayer=CF Sprayer
+ic2.itemToolWrenchElectric=Electric Wrench
+ic2.itemTreetapElectric=Electric Treetap
+ic2.itemFreq=Frequency Transmitter
+ic2.itemFreq.tooltip.blank=Target not set.
+ic2.itemFreq.tooltip.target=Target: X=%s Y=%s Z=%s
+ic2.obscurator=Obscurator
+
+ic2.itemToolMEter=EU-Reader
+ic2.itemToolMEter.mode=Mode :
+ic2.itemToolMEter.mode.EnergyIn=EnergyIn
+ic2.itemToolMEter.mode.EnergyOut=EnergyOut
+ic2.itemToolMEter.mode.EnergyGain=EnergyGain
+ic2.itemToolMEter.mode.Voltage=Voltage
+ic2.itemToolMEter.mode.switch=Switch to:
+ic2.itemToolMEter.mode.reset=Reset
+ic2.itemToolMEter.cycle=Cycle: %1$s sec
+ic2.itemToolMEter.avg=Avg:
+ic2.itemToolMEter.max/min=Max/Min
+
+ic2.itemMFSUupgradekit=MFSU Upgrade Kit
+ic2.itemMFSUupgradekit.info=Work on MFE
+
+#Item_Armor
+ic2.itemArmorJetpack=Jetpack
+ic2.itemArmorJetpackElectric=Electric Jetpack
+ic2.itemArmorLappack=Lappack
+ic2.itemArmorAdvBatpack=Adv.Batpack
+ic2.itemArmorEnergypack=Energypack
+ic2.itemArmorBatpack=BatPack
+ic2.itemArmorNanoHelmet=NanoSuit Helmet
+ic2.itemArmorNanoChestplate=NanoSuit Bodyarmor
+ic2.itemArmorNanoLegs=NanoSuit Leggings
+ic2.itemArmorNanoBoots=NanoSuit Boots
+ic2.itemArmorQuantumHelmet=QuantumSuit Helmet
+ic2.itemArmorQuantumChestplate=QuantumSuit Bodyarmor
+ic2.itemArmorQuantumLegs=QuantumSuit Leggings
+ic2.itemArmorQuantumBoots=QuantumSuit Boots
+ic2.itemArmorRubBoots=Rubber Boots
+ic2.itemArmorHazmatHelmet=Scuba Helmet
+ic2.itemArmorHazmatChestplate=Hazmat Suit
+ic2.itemArmorHazmatLeggings=Hazmat Suit Leggings
+ic2.itemNightvisionGoggles=Nightvision Goggles
+ic2.itemStaticBoots=Static Boots
+ic2.itemArmorCFPack=CF Backpack
+
+#Item_Cable
+
+ic2.itemCable=Insulated Copper Cable
+ic2.itemCableO=Copper Cable
+ic2.itemGoldCable=Gold Cable
+ic2.itemGoldCableI=Insulated Gold Cable
+ic2.itemGoldCableII=2xIns. Gold Cable
+ic2.itemIronCable=HV Cable
+ic2.itemIronCableI=Insulated HV Cable
+ic2.itemIronCableII=2xIns. HV Cable
+ic2.itemIronCableIIII=3xIns. HV Cable
+ic2.itemGlassCable=Glass Fibre Cable
+ic2.itemTinCable=Tin Cable
+ic2.itemTinCableI=Insulated Tin Cable
+ic2.itemDetectorCable=EU-Detector Cable
+ic2.itemSplitterCable=EU-Splitter Cable
+
+#Item_Upgrade
+
+ic2.overclockerUpgrade=Overclocker Upgrade
+ic2.transformerUpgrade=Transformer Upgrade
+ic2.energyStorageUpgrade=Energy Storage Upgrade
+ic2.ejectorUpgrade=Ejector Upgrade
+ic2.fluidEjectorUpgrade=Fluid Ejector Upgrade
+ic2.redstoneinvUpgrade=Redstone Signal Inverter Upgrade
+ic2.pullingUpgrade=Pulling Upgrade
+
+
+#Item_Reactor
+
+ic2.reactoritem.heatwarning.line1=Can not be used in Fluid Reactor
+ic2.reactoritem.heatwarning.line2=Please cool down in the EU Reactor
+
+ic2.reactorCoolantSimple=10k Coolant Cell
+ic2.reactorCoolantTriple=30k Coolant Cell
+ic2.reactorCoolantSix=60k Coolant Cell
+ic2.reactorPlating=Reactor Plating
+ic2.reactorPlatingHeat=Heat-Capacity Reactor Plating
+ic2.reactorPlatingExplosive=Containment Reactor Plating
+ic2.reactorHeatSwitch=Heat Exchanger
+ic2.reactorHeatSwitchCore=Reactor Heat Exchanger
+ic2.reactorHeatSwitchSpread=Component Heat Exchanger
+ic2.reactorHeatSwitchDiamond=Advanced Heat Exchanger
+ic2.reactorVent=Heat Vent
+ic2.reactorVentCore=Reactor Heat Vent
+ic2.reactorVentGold=Overclocked Heat Vent
+ic2.reactorVentSpread=Component Heat Vent
+ic2.reactorVentDiamond=Advanced Heat Vent
+ic2.reactorReflector=Neutron Reflector
+ic2.reactorReflectorThick=Thick Neutron Reflector
+ic2.reactorCondensator=RSH-Condensator
+ic2.reactorCondensatorLap=LZH-Condensator
+ic2.reactorUraniumSimple=Fuel Rod (Uranium)
+ic2.reactorUraniumDual=Dual Fuel Rod (Uranium)
+ic2.reactorUraniumQuad=Quad Fuel Rod (Uranium)
+ic2.reactorMOXDual=Dual Fuel Rod (MOX)
+ic2.reactorMOXQuad=Quad Fuel Rod (MOX)
+ic2.reactorMOXSimple=Fuel Rod (MOX)
+ic2.reactorMOXDualdepleted=Dual Fuel Rod (Depleted MOX)
+ic2.reactorMOXQuaddepleted=Quad Fuel Rod (Depleted MOX)
+ic2.reactorMOXSimpledepleted=Fuel Rod (Depleted MOX)
+ic2.reactorUraniumDualdepleted=Dual Fuel Rod (Depleted Uranium)
+ic2.reactorUraniumQuaddepleted=Quad Fuel Rod (Depleted Uranium)
+ic2.reactorUraniumSimpledepleted=Fuel Rod (Depleted Uranium)
+ic2.itemUran=Enriched Uranium Nuclear Fuel
+ic2.itemMOX=MOX Nuclear Fuel
+ic2.itemPlutonium=Plutonium
+ic2.itemPlutoniumSmall=Tiny Pile of Plutonium
+ic2.itemUran235=Uranium 235
+ic2.itemUran235small=Tiny Pile of Uranium 235
+ic2.itemUran238=Uranium 238
+ic2.itemUranPellet=Pellets of Enriched Uranium Nuclear Fuel
+ic2.itemMOXPellet=Pellets of MOX Nuclear Fuel
+ic2.reactorLithiumCell=Fuel Rod (Lithium)
+ic2.itemDustLithium=Lithium Dust
+ic2.itemTritiumCell=Fuel Rod (Tritium)
+ic2.itemRTGPellet=Pellets of RTG Fuel
+ic2.itemFuelRod=Fuel Rod (Empty)
+
+#Item_random
+
+ic2.itemBatRE=RE-Battery
+ic2.itemBatREDischarged=RE-Battery
+ic2.itemBatCrystal=Energy Crystal
+ic2.itemBatLamaCrystal=Lapotron Crystal
+ic2.itemBatChargeRE=Charging RE Battery
+ic2.itemBatChargeAdv=Advanced Charging Battery
+ic2.itemBatChargeCrystal=Charging Energy Crystal
+ic2.itemBatChargeLamaCrystal=Charging Lapotron Crystal
+ic2.itemFuelCan=Filled Fuel Can
+ic2.itemFuelCanEmpty=(Empty) Fuel Can
+ic2.itemFuelCoalDust=Hydrated Coal Dust
+ic2.itemFuelCoalCmpr=H. Coal
+ic2.itemFuelPlantBall=Plantball
+ic2.itemHarz=Sticky Resin
+ic2.itemRubber=Rubber
+ic2.itemPartCircuit=Electronic Circuit
+ic2.itemPartCircuitAdv=Advanced Circuit
+ic2.itemPartAlloy=Advanced Alloy
+ic2.itemScrap=Scrap
+ic2.itemDoorAlloy=Reinforced Door
+ic2.itemPartCarbonFibre=Raw Carbon Fibre
+ic2.itemPartCarbonMesh=Raw Carbon Mesh
+ic2.itemPartCarbonPlate=Carbon Plate
+ic2.itemPartIridium=Iridium Reinforced Plate
+ic2.itemScrapbox=Scrap Box
+ic2.itemPartCoalBall=Coal Ball
+ic2.itemPartCoalBlock=Compressed Coal Ball
+ic2.itemPartCoalChunk=Coal Chunk
+ic2.itemPartIndustrialDiamond=Industrial Diamond
+ic2.itemOreIridium=Iridium Ore
+ic2.itemShardIridium=Iridium Shard
+ic2.itemCoolant=Coolant
+ic2.itemheatconductor=Heat Conductor
+ic2.itemcopperboiler=Copper Boiler
+ic2.itemPartCFPowder=CF Powder
+ic2.itemAshes=Ashes
+ic2.itemPartCoil=Coil
+ic2.itemPartEleMotor=Electric Motor
+ic2.itemFluidCell=Universal Fluid Cell
+ic2.itempowerunit=Power Unit
+ic2.itempowerunitsmall=Small Power Unit
+ic2.itemAdvBat=Advanced RE-Battery
+ic2.itemContainmentbox=Containment Box
+
+#Blocks_Ore
+
+ic2.blockOreCopper=Copper Ore
+ic2.blockOreTin=Tin Ore
+ic2.blockOreUran=Uranium Ore
+ic2.blockOreLead=Lead Ore
+
+#Blocks_Fluid
+
+ic2.fluidPahoehoeLava=Pahoehoe Lava
+ic2.fluidUuMatter=UU-Matter
+ic2.fluidConstructionFoam=Construction Foam
+ic2.fluidCoolant=IC2 Coolant
+ic2.fluidHotCoolant=IC2 Hot Coolant
+ic2.fluidBiogas=Biogas
+ic2.fluidBiomass=Biomass
+ic2.fluidDistilledWater=Distilled Water
+ic2.fluidHotWater=Hotspring Water
+
+#Maschine
+
+ic2.blockCanner=Fluid/Solid Canning Machine
+ic2.Canner.gui.name=Fluid/Solid Canning Machine
+ic2.Canner.gui.switch.BottleSolid=Canning
+ic2.Canner.gui.switch.EmptyLiquid=drain from Cell into Tank
+ic2.Canner.gui.switch.BottleLiquid=fill Cell from Tank
+ic2.Canner.gui.switch.EnrichLiquid=fluid enrich (Tank or Cell)
+ic2.Canner.gui.switchTanks=Switch Tanks
+
+ic2.blockCentrifuge=Thermal Centrifuge
+ic2.Centrifuge.gui.name=Thermal Centrifuge
+
+ic2.blockCompressor=Compressor
+ic2.Compressor.gui.name=Compressor
+
+ic2.blockElecFurnace=Electric Furnace
+ic2.ElecFurnace.gui.name=Electric Furnace
+
+ic2.blockExtractor=Extractor
+ic2.Extractor.gui.name=Extractor
+
+ic2.blockFluidBottler=Bottling Plant
+ic2.FluidBottler.gui.name=Bottling Plant
+
+ic2.blockIronFurnace=Iron Furnace
+ic2.IronFurnace.gui.name=Iron Furnace
+
+ic2.blockMacerator=Macerator
+ic2.Macerator.gui.name=Macerator
+
+ic2.blockMetalFormer=Metal Former
+ic2.MetalFormer.gui.name=Metal Former
+ic2.MetalFormer.gui.switch.Extruding=Extruding
+ic2.MetalFormer.gui.switch.Rolling=Rolling
+ic2.MetalFormer.gui.switch.Cutting=Cutting
+
+
+ic2.blockOreWashingPlant=Ore Washing Plant
+ic2.OreWashingPlan.gui.name=Ore Washing Plant
+
+ic2.blockPump=Pump
+ic2.Pump.gui.name=Pump
+
+ic2.blockRecycler=Recycler
+ic2.Recycler.gui.name=Recycler
+
+ic2.blockReplicator=Replicator
+ic2.Replicator.gui.name=Replicator
+ic2.Replicator.gui.info.Stop=Stop
+ic2.Replicator.gui.info.single=single run
+ic2.Replicator.gui.info.repeat=repeat run
+ic2.Replicator.gui.info.last=last Pattern
+ic2.Replicator.gui.info.next=next Pattern
+ic2.Replicator.gui.info.Waiting=Waiting....
+
+ic2.blockSolidCanner=Solid Canning Machine
+ic2.SolidCanner.gui.name=Solid Canning Machine
+
+ic2.blockCondenser=Condenser
+ic2.Condenser.gui.name=Condenser
+ic2.Condenser.gui.tooltipvent=Add heat vents for faster progress ( %1$s EU/Vent )
+
+ic2.blockBlockCutter=Block Cutting Machine
+ic2.BlockCutter.gui.name=Block Cutting Machine
+ic2.BlockCutter.gui.bladeslot=Block Cutting Blade Slot
+ic2.BlockCutter.gui.bladetoweak=Block Cutting Blade is too weak or missing
+
+ic2.itemIronBlockCuttingBlade=Block Cutting Blade (Iron)
+ic2.itemAdvIronBlockCuttingBlade=Block Cutting Blade (Refined Iron)
+ic2.itemDiamondBlockCuttingBlade=Block Cutting Blade (Diamond)
+ic2.CuttingBlade.hardness=Hardness: %s
+
+ic2.IronBlockCuttingBlade.info=cuts materials softer than Iron
+ic2.AdvIronBlockCuttingBlade.info=cuts materials softer than Refine Iron
+ic2.DiamondBlockCuttingBlade.info=cuts materials softer than Diamond
+
+ic2.blockSolarDestiller=Solar Distiller
+ic2.SolarDestiller.gui.name=Solar Distiller
+
+#Block_Transformer
+
+ic2.blockTransformer=Transformer
+ic2.blockTransformerLV=LV-Transformer
+ic2.blockTransformerMV=MV-Transformer
+ic2.blockTransformerHV=HV-Transformer
+ic2.blockTransformerEV=EV-Transformer
+
+ic2.Transformer.gui.switch.mode1=Redstone = step-up
+ic2.Transformer.gui.switch.mode2=fixed step-down
+ic2.Transformer.gui.switch.mode3=fixed step-up
+
+ic2.Transformer.gui.Output=Output:
+ic2.Transformer.gui.Input=Input:
+ic2.Transformer.gui.refresh=force manual refresh only need if no energy flow in Grid
+
+
+#Block_EU Storage
+
+ic2.blockBatBox=BatBox
+ic2.blockMFE=MFE
+ic2.blockMFSU=MFSU
+ic2.blockCESU=CESU
+
+ic2.EUStorage.gui.mod.redstone0=Redstone Behavior: Nothing
+ic2.EUStorage.gui.mod.redstone1=Redstone Behavior: Emit if full
+ic2.EUStorage.gui.mod.redstone2=Redstone Behavior: Emit if partially filled
+ic2.EUStorage.gui.mod.redstone3=Redstone Behavior: Emit if partially filled or empty
+ic2.EUStorage.gui.mod.redstone4=Redstone Behavior: Emit if empty
+ic2.EUStorage.gui.mod.redstone5=Redstone Behavior: Do not output energy
+ic2.EUStorage.gui.mod.redstone6=Redstone Behavior: Do not output energy unless full
+
+ic2.EUStorage.gui.info.armor=Armor
+ic2.EUStorage.gui.info.level=Power Level:
+ic2.EUStorage.gui.info.output=Out: %1$s EU/t
+
+#Blocks_EU_Generator
+
+ic2.blockGenerator=Generator
+ic2.Generator.gui.name=Generator
+
+ic2.blockGeoGenerator=Geothermal Generator
+ic2.GeoGenerator.gui.name=Geothermal Generator
+
+ic2.blockNuclearReactor=Nuclear Reactor
+ic2.NuclearReactor.gui.name=Nuclear Reactor
+ic2.NuclearReactor.gui.info.EU=Output: %1$s EU/t   Core Temp: %2$s
+ic2.NuclearReactor.gui.info.hU=Output: %1$s Hu/s   Core Temp: %2$s
+ic2.NuclearReactor.gui.mode.fluid=Nuclear Reactor in Fluid Cooling mode output by 100%
+ic2.NuclearReactor.gui.mode.electric=Nuclear Reactor in EU mode  throttled output by 50%
+
+# blocks
+
+ic2.blockMachine=Basic Machine Casing
+ic2.blockAdvMachine=Advanced Machine Casing
+ic2.blockRubWood=Rubber Wood
+ic2.blockRubLeaves=Rubber Tree Leaves
+ic2.blockRubSapling=Rubber Tree Sapling
+ic2.blockReactorChamber=Reactor Chamber
+ic2.blockAlloy=Reinforced Stone
+ic2.blockAlloyGlass=Reinforced Glass
+ic2.blockMetalCopper=Copper Block
+ic2.blockMetalTin=Tin Block
+ic2.blockMetalBronze=Bronze Block
+ic2.blockMetalUranium=Uranium Block
+ic2.blockMetalLead=Lead Block
+ic2.blockMetalAdvIron=Refined Iron Block
+
+ic2.blockTeleporter=Teleporter
+ic2.blockTesla=Tesla Coil
+ic2.blockFoam=Construction Foam
+ic2.blockReinforcedFoam=Reinforced Construction Foam
+ic2.blockScaffold=Scaffold
+ic2.blockIronScaffold=Iron Scaffold
+
+
+# achievements
+achievement.acquireRefinedIron=Not really better than iron
+achievement.acquireRefinedIron.desc=You just made a useless ingot
+achievement.buildGenerator=Suitable Power
+achievement.buildGenerator.desc=Build a generator
+achievement.acquireResin=Sticky Situation
+achievement.acquireResin.desc=Get resin from a rubber tree with a treetap
+achievement.buildCable=Energy Flow
+achievement.buildCable.desc=Make some cables
+achievement.mineOre=New Ore Miner
+achievement.mineOre.desc=Mine copper, tin or uranium
+achievement.buildMacerator=Double Trouble
+achievement.buildMacerator.desc=Build a macerator
+achievement.buildCoalDiamond=Shiny
+achievement.buildCoalDiamond.desc=Make a coal chunk to compress into a diamond
+achievement.buildElecFurnace=Even Hotter Topic
+achievement.buildElecFurnace.desc=Build an electric furnace
+achievement.buildBatBox=Stash It
+achievement.buildBatBox.desc=Build a BatBox
+achievement.buildCompressor=Epic Squeeze
+achievement.buildCompressor.desc=Build a compressor
+achievement.compressUranium=Radioactivity
+achievement.compressUranium.desc=Compress uranium into an uranium fuel ingot
+achievement.buildExtractor=Super Treetap
+achievement.buildExtractor.desc=Build an extractor
+achievement.buildChainsaw=Lumberjack Assassin
+achievement.buildChainsaw.desc=Build a chainsaw
+achievement.killCreeperChainsaw=Creeper Chainsaw Massacre
+achievement.killCreeperChainsaw.desc=Kill a creeper with a chainsaw
+achievement.buildDrill=Meet the Dentist
+achievement.buildDrill.desc=Build a mining drill
+achievement.buildDDrill=Valuable Upgrade
+achievement.buildDDrill.desc=Upgrade your mining drill to a diamond-tipped mining drill
+achievement.buildMFE=Storage Upgrade
+achievement.buildMFE.desc=Build a MFE Unit
+achievement.buildMiningLaser=Laser Time
+achievement.buildMiningLaser.desc=Build a mining laser
+achievement.killDragonMiningLaser=Like A Boss
+achievement.killDragonMiningLaser.desc=Kill the enderdragon with a mining laser
+achievement.acquireMatter=Pink Blob
+achievement.acquireMatter.desc=Produce some UU-Matter
+achievement.buildQArmor=Hi-Tech Wonder
+achievement.buildQArmor.desc=Build a piece of the quantum suit
+achievement.buildMFS=Just Too Much
+achievement.buildMFS.desc=Build a MFS Unit
+achievement.buildTeleporter=Intradimensional Warp
+achievement.buildTeleporter.desc=Build a Teleporter
+achievement.teleportFarAway=Far Far Away
+achievement.teleportFarAway.desc=Teleport for at least 1 km
+
+# guis
+
+ic2.container.personalTrader.want=Want:
+ic2.container.personalTrader.offer=Offer:
+ic2.container.personalTrader.totalTrades0=Performed
+ic2.container.personalTrader.totalTrades1=Trades:
+ic2.container.personalTrader.stock=Stock:
+
+# creative tab
+itemGroup.IC2=IndustrialCraft 2
+
+# potion effects
+ic2.potion.radiation=Radiation
+
+# death messages
+death.attack.electricity=%1$s was electrocuted
+death.attack.radiation=%1$s died from radiation
+
+# tool tips
+ic2.tooltip.upgrade.overclocker.time=Decrease process time to %1$s%%
+ic2.tooltip.upgrade.overclocker.power=Increase power to %1$s%%
+ic2.tooltip.upgrade.transformer=Increase energy input tier by %1$s
+ic2.tooltip.upgrade.storage=Increase energy storage by %1$s EU
+ic2.tooltip.upgrade.ejector=Automatically output to the %1$s side
+ic2.tooltip.upgrade.ejector.anyside=first valid
+ic2.tooltip.upgrade.redstone=Inverts the current redstone signal
+ic2.tooltip.upgrade.pulling=Automatically input from the %1$s side
+ic2.tooltip.mode=Mode: %1$s
+ic2.tooltip.mode.enabled=Enabled
+ic2.tooltip.mode.disabled=Disabled
+ic2.tooltip.mode.not_in_hand=Charge Items not in hand
+ic2.tooltip.mode.boxable=Only boxable in disabled state
+ic2.tooltip.mode.normal=Normal
+ic2.tooltip.mode.lossless=Lossless
+ic2.tooltip.mode.mining=Mining
+ic2.tooltip.mode.lowFocus=Low-Focus
+ic2.tooltip.mode.longRange=Long-Range
+ic2.tooltip.mode.horizontal=Horizontal
+ic2.tooltip.mode.superHeat=Super-Heat
+ic2.tooltip.mode.scatter=Scatter
+ic2.tooltip.mode.explosive=Explosive
+ic2.tooltip.mode.single=Single
+ic2.tooltip.mode.silkTouch=Silk Touch
+ic2.tooltip.mode.noShear=No Shearing
+
+#mausover tool tips
+
+
+ic2.item.tooltip.power=Power
+ic2.item.tooltip.max=max
+ic2.item.tooltip.Output=Output:
+ic2.item.tooltip.Capacity=Capacity:
+ic2.item.tooltip.Store=Store:
+ic2.item.tooltip.Low=Low:
+ic2.item.tooltip.High=High:
+ic2.item.tooltip.PowerOutput=Power Output:
+ic2.item.ItemTool.tooltip.UsesLeft=Uses Left:
+ic2.item.FluidContainer.Empty=< Empty >
+ic2.item.tooltip.PowerTier=Power Tier:
+
+
+#Generic
+
+ic2.generic.text.upgrade=compatible upgrades:
+ic2.generic.text.UUMatte=UU-Matter:
+ic2.generic.text.Energy=Energy:
+ic2.generic.text.Name=Name:
+ic2.generic.text.EU=EU
+ic2.generic.text.EUt=EU/t
+ic2.generic.text.v=V
+ic2.generic.text.mb=mB
+ic2.generic.text.bucketUnit=B
+ic2.generic.text.heat=heat:
+ic2.generic.text.Buffer=Buffer:
+ic2.generic.text.hu=Hu:
+ic2.generic.text.bufferEU=Buffer: %1$s EU
+ic2.generic.text.C=%1$s C
+ic2.generic.text.bar=%1$s bar
+ic2.generic.text.tick=/tick
+ic2.generic.text.sec=/sec
+
+# directions
+ic2.dir.top=top
+ic2.dir.bottom=bottom
+ic2.dir.north=north
+ic2.dir.east=east
+ic2.dir.south=south
+ic2.dir.west=west
+
+# LoliIndex recipe type names
+loliindex.recipe_type.ic2.macerating=Macerating
+loliindex.recipe_type.ic2.extracting=Extracting
+loliindex.recipe_type.ic2.compressing=Compressing
+loliindex.recipe_type.ic2.block_cutting=Block Cutting
+loliindex.recipe_type.ic2.metal_forming=Metal Forming
+loliindex.recipe_type.ic2.centrifuging=Centrifuging
+loliindex.recipe_type.ic2.ore_washing=Ore Washing
+loliindex.recipe_type.ic2.solid_canning=Solid Canning
+loliindex.recipe_type.ic2.fluid_enriching=Fluid Enriching
+loliindex.recipe_type.ic2.scrapbox=Scrapbox
+
+loliindex.recipe_type.ic2.condenser=Condensing

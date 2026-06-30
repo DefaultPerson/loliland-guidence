@@ -1,0 +1,638 @@
+# ru_RU translation
+
+
+#Item_Cell
+ic2.itemCellEmpty=Пустая капсула
+ic2.itemCellLava=Капсула лавы
+ic2.itemCellWater=Капсула воды
+ic2.itemCellUuMatter=Капсула жидкой материи
+ic2.itemCellCF=Капсула строительной пены
+ic2.itemCellAir=Капсула сжатого воздуха
+ic2.itemCellCoal=Капсула гидратированного угля
+ic2.itemCellBiomass=Капсула биомассы
+ic2.itemCellCoalRef=Капсула угольного топлива
+ic2.itemCellBiogas=Капсула биогаза
+ic2.itemCellWaterElectro=Капсула с электролизованной водой
+ic2.itemCellCoolant=Капсула хладагента
+ic2.itemCellHotCoolant=Капсула горячего хладагента
+ic2.itemCellPahoehoelava=Капсула базальтовой лавы
+ic2.itemCellDistilledWater=Капсула дистиллированной воды
+
+#Item_CrushedOre
+
+ic2.itemCrushedCopperOre=Измельчённая медная руда
+ic2.itemCrushedGoldOre=Измельчённая золотая руда
+ic2.itemCrushedIronOre=Измельчённая железная руда
+ic2.itemCrushedTinOre=Измельчённая оловянная руда
+ic2.itemCrushedUranOre=Измельчённая урановая руда
+ic2.itemCrushedSilverOre=Измельчённая серебряная руда
+ic2.itemCrushedLeadOre=Измельчённая свинцовая руда
+
+#Item_PurifiedCrushedOre
+
+
+ic2.itemPurifiedCrushedCopperOre=Очищенная измельчённая медная руда
+ic2.itemPurifiedCrushedGoldOre=Очищенная измельчённая золотая руда
+ic2.itemPurifiedCrushedIronOre=Очищенная измельчённая железная руда
+ic2.itemPurifiedCrushedTinOre=Очищенная измельчённая оловянная руда
+ic2.itemPurifiedCrushedUranOre=Очищенная измельчённая урановая руда
+ic2.itemPurifiedCrushedSilverOre=Очищенная измельчённая серебряная руда
+ic2.itemPurifiedCrushedLeadOre=Очищенная измельчённая свинцовая руда
+
+#Item_Plate
+
+ic2.itemPlateBronze=Бронзовая пластина
+ic2.itemPlateAdvIron=Пластина из закалённого железа
+ic2.itemPlateCopper=Медная пластина
+ic2.itemPlateGold=Золотая пластина
+ic2.itemPlateIron=Железная пластина
+ic2.itemPlateTin=Оловянная пластина
+ic2.itemPlateLead=Свинцовая пластина
+ic2.itemPlateObsidian=Обсидиановая пластина
+ic2.itemPlateLapi=Лазуритовая пластина
+
+#Item_DensePlate
+
+ic2.itemDensePlateBronze=Плотная бронзовая пластина
+ic2.itemDensePlateAdvIron=Плотная пластина из закалённого железа
+ic2.itemDensePlateCopper=Плотная медная пластина
+ic2.itemDensePlateGold=Плотная золотая пластина
+ic2.itemDensePlateIron=Плотная железная пластина
+ic2.itemDensePlateTin=Плотная оловянная пластина
+ic2.itemDensePlateLead=Плотная свинцовая пластина
+ic2.itemDensePlateObsidian=Плотная обсидиановая пластина
+ic2.itemDensePlateLapi=Плотная лазуритовая пластина
+
+#Item_Casing
+
+ic2.itemCasingCopper=Медная оболочка
+ic2.itemCasingTin=Оловянная оболочка
+ic2.itemCasingBronze=Бронзовая оболочка
+ic2.itemCasingGold=Золотая оболочка
+ic2.itemCasingIron=Железная оболочка
+ic2.itemCasingAdvIron=Оболочка из закалённого железа
+ic2.itemCasingLead=Свинцовая оболочка
+
+#Item_Ingot
+
+ic2.itemIngotAdvIron=Слиток закалённого железа
+ic2.itemIngotCopper=Медный слиток
+ic2.itemIngotTin=Оловянный слиток
+ic2.itemIngotBronze=Бронзовый слиток
+ic2.itemIngotAlloy=Композитный слиток
+ic2.itemIngotLead=Свинцовый слиток
+ic2.itemIngotSilver=Серебрянный слиток
+
+#Item_Dust
+
+ic2.itemDustStone=Каменная пыль
+ic2.itemDustLead=Свинцовая пыль
+ic2.itemDustObsidian=Обсидиановая пыль
+ic2.itemDustLapi=Лазуритовая пыль
+ic2.itemDustSulfur=Серная пыль
+ic2.itemDustsilicondioxide=Диоксид кремния
+ic2.itemDustdiamond=Алмазная пыль
+ic2.itemDustenergium=Энергопыль
+ic2.itemDustCoal=Угольная пыль
+ic2.itemDustIron=Железная пыль
+ic2.itemDustGold=Золотая пыль
+ic2.itemDustCopper=Медная пыль
+ic2.itemDustTin=Оловянная пыль
+ic2.itemDustBronze=Бронзовая пыль
+ic2.itemDustClay=Глиняная пыль
+ic2.itemDustSilver=Серебряная пыль
+
+#Item_SmallDust
+
+ic2.itemDustCopperSmall=Небольшая кучка медной пыли
+ic2.itemDustGoldSmall=Небольшая кучка золотой пыли
+ic2.itemDustTinSmall=Небольшая кучка оловянной пыли
+ic2.itemDustSilverSmall=Небольшая кучка серебряной пыли
+ic2.itemDustLeadSmall=Небольшая кучка свинцовой пыли
+ic2.itemDustSulfurSmall=Небольшая кучка серной пыли
+ic2.itemDustLithiumSmall=Небольшая кучка литиевой пыли
+ic2.itemDustIronSmall=Небольшая кучка железной пыли
+ic2.itemDustBronzeSmall=Небольшая кучка бронзовой пыли
+ic2.itemDustLapiSmall=Небольшая кучка лазуритовой пыли
+ic2.itemDustObsidianSmall=Небольшая кучка обсидиановой пыли
+
+#Item_Tool
+
+ic2.itemToolDrill=Шахтёрский бур
+ic2.itemToolDDrill=Алмазный бур
+ic2.itemToolIridiumDrill=Иридиевый бур
+ic2.itemToolChainsaw=Электропила
+ic2.itemScanner=КР сканер
+ic2.itemScannerAdv=ЦР сканер
+ic2.itemScanner.found=результат сканирования:
+ic2.itemToolWrench=Гаечный ключ
+ic2.itemToolForgeHammer=Кузнечный молот
+ic2.itemToolHoe=Электромотыга
+ic2.itemToolMiningLaser=Шахтёрский лазер
+ic2.itemToolPainter=Валик
+ic2.itemToolPainterBlack=Чёрный валик
+ic2.itemToolPainterBlue=Синий валик
+ic2.itemToolPainterBrown=Коричневый валик
+ic2.itemToolPainterCloud=Ярко-синий валик
+ic2.itemToolPainterCyan=Бирюзовый валик
+ic2.itemToolPainterDarkGrey=Тёмно-серый валик
+ic2.itemToolPainterGreen=Зелёный валик
+ic2.itemToolPainterLightGrey=Светло-серый валик
+ic2.itemToolPainterLime=Лаймовый валик
+ic2.itemToolPainterMagenta=Сиреневый валик
+ic2.itemToolPainterOrange=Оранжевый валик
+ic2.itemToolPainterPink=Розовый валик
+ic2.itemToolPainterPurple=Фиолетовый валик
+ic2.itemToolPainterRed=Красный валик
+ic2.itemToolPainterWhite=Белый валик
+ic2.itemToolPainterYellow=Жёлтый валик
+ic2.itemToolCutter=Кусачки
+ic2.itemNanoSaber=Нано-сабля
+ic2.itemTreetap=Краник
+ic2.itemFoamSprayer=Распылитель строительной пены
+ic2.itemToolWrenchElectric=Электроключ
+ic2.itemTreetapElectric=Электрокраник
+ic2.itemFreq=Частотный связыватель
+ic2.obscurator=Хамелеон
+
+ic2.itemToolMEter=Ваттметр
+ic2.itemToolMEter.mode=Режим :
+ic2.itemToolMEter.mode.EnergyIn=Энергии входит
+ic2.itemToolMEter.mode.EnergyOut=Энергии выходит
+ic2.itemToolMEter.mode.EnergyGain=Энергии приобретается
+ic2.itemToolMEter.mode.Voltage=Напряжение
+ic2.itemToolMEter.mode.switch=Переключён на:
+ic2.itemToolMEter.mode.reset=Сброс
+ic2.itemToolMEter.cycle=Цикл: %1$s sec
+ic2.itemToolMEter.avg=Средн.:
+ic2.itemToolMEter.max/min=Макс./Мин.
+
+ic2.itemMFSUupgradekit=Набор улучшения МФСУ
+ic2.itemMFSUupgradekit.info=Работает на МФЭ
+
+#Item_Armor
+ic2.itemArmorJetpack=Реактивный ранец
+ic2.itemArmorJetpackElectric=Электрический реактивный ранец
+ic2.itemArmorLappack=Лазуротроновый ранец
+ic2.itemArmorAdvBatpack=Продвинутый аккумуляторный ранец
+ic2.itemArmorEnergypack=Энергетический ранец
+ic2.itemArmorBatpack=Аккумуляторный ранец
+ic2.itemArmorNanoHelmet=Нано-шлем
+ic2.itemArmorNanoChestplate=Нано-кираса
+ic2.itemArmorNanoLegs=Нано-поножи
+ic2.itemArmorNanoBoots=Нано-ботинки
+ic2.itemArmorQuantumHelmet=Квантовый шлем
+ic2.itemArmorQuantumChestplate=Квантовая кираса
+ic2.itemArmorQuantumLegs=Квантовые поножи
+ic2.itemArmorQuantumBoots=Квантовые ботинки
+ic2.itemArmorRubBoots=Резиновые ботинки
+ic2.itemArmorHazmatHelmet=Шлем-акваланг
+ic2.itemArmorHazmatChestplate=Защитная куртка
+ic2.itemArmorHazmatLeggings=Защитные поножи
+ic2.itemNightvisionGoggles=Прибор ночного видения
+ic2.itemStaticBoots=Электростатические ботинки
+ic2.itemArmorCFPack=Строительный ранец
+
+#Item_Cable
+
+ic2.itemCable=Изолированный медный провод
+ic2.itemCableO=Медный провод
+ic2.itemGoldCable=Золотой провод
+ic2.itemGoldCableI=Изолированный золотой провод
+ic2.itemGoldCableII=Золотой провод с двойной изоляцией
+ic2.itemIronCable=Высоковольтный провод
+ic2.itemIronCableI=Изолированный высоковольтный провод
+ic2.itemIronCableII=Высоковольтный провод с двойной изоляцией
+ic2.itemIronCableIIII=Высоковольтный провод с тройной изоляцией
+ic2.itemGlassCable=Стекловолоконный провод
+ic2.itemTinCable=Оловянный провод
+ic2.itemTinCableI=Изолированный оловянный провод
+ic2.itemDetectorCable=Провод-детектор
+ic2.itemSplitterCable=Провод-разъединитель
+
+#Item_Upgrade
+
+ic2.overclockerUpgrade=Улучшение: Ускоритель
+ic2.transformerUpgrade=Улучшение: Трансформатор
+ic2.energyStorageUpgrade=Улучшение: Энергохранитель
+ic2.ejectorUpgrade=Улучшение: Выталкиватель
+ic2.fluidEjectorUpgrade=Улучшение: Выталкиватель жидкостей
+ic2.redstoneinvUpgrade=Улучшение: Инвертор сигнала красного камня
+ic2.pullingUpgrade=Улучшение: Затягиватель
+
+
+#Item_Reactor
+
+ic2.reactoritem.heatwarning.line1=Не может использоваться в жидкостном реакторе
+ic2.reactoritem.heatwarning.line2=Пожалуйста охладите EU реактор
+
+ic2.reactorCoolantSimple=Охлаждающий стержень 10к
+ic2.reactorCoolantTriple=Охлаждающий стержень 30к
+ic2.reactorCoolantSix=Охлаждающий стержень 60к
+ic2.reactorPlating=Реакторная обшивка
+ic2.reactorPlatingHeat=Теплоёмкая реакторная пластина
+ic2.reactorPlatingExplosive=Сдерживающая реакторная пластина
+ic2.reactorHeatSwitch=Теплообменник
+ic2.reactorHeatSwitchCore=Реакторный теплообменник
+ic2.reactorHeatSwitchSpread=Компонентный теплообменник
+ic2.reactorHeatSwitchDiamond=Продвинутый теплообменник
+ic2.reactorVent=Теплоотвод
+ic2.reactorVentCore=Реакторный теплоотвод
+ic2.reactorVentGold=Разогнанный теплоотвод
+ic2.reactorVentSpread=Компонентный теплоотвод
+ic2.reactorVentDiamond=Улучшенный теплоотвод
+ic2.reactorReflector=Отражатель нейтронов
+ic2.reactorReflectorThick=Утолщённый отражатель нейтронов
+ic2.reactorCondensator=Красный конденсатор
+ic2.reactorCondensatorLap=Лазуритовый конденсатор
+ic2.reactorUraniumSimple=Топливный стержень (Уран)
+ic2.reactorUraniumDual=Сдвоенный топливный стержень (Уран)
+ic2.reactorUraniumQuad=Счетверённый топливный стержень (Уран)
+ic2.reactorMOXDual=Сдвоенный топливный стержень (MOX)
+ic2.reactorMOXQuad=Счетверённый топливный стержень (MOX)
+ic2.reactorMOXSimple=Топливный стержень (MOX)
+ic2.reactorMOXDualdepleted=Сдвоенный топливный стержень (Обеднённый MOX)
+ic2.reactorMOXQuaddepleted=Счетверённый топливный стержень (Обеднённый MOX)
+ic2.reactorMOXSimpledepleted=Топливный стержень (Обеднённый MOX)
+ic2.reactorUraniumDualdepleted=Сдвоенный топливный стержень (Обеднённый уран)
+ic2.reactorUraniumQuaddepleted=Счетверённый топливный стержень (Обеднённый уран)
+ic2.reactorUraniumSimpledepleted=Топливный стержень (Обеднённый уран)
+ic2.itemUran=Обогащённое урановое ядерное топливо
+ic2.itemMOX=Ядерное топливо MOX
+ic2.itemPlutonium=Плутоний
+ic2.itemPlutoniumSmall=Кусочек плутония
+ic2.itemUran235=Уран-235
+ic2.itemUran235small=Кусочек урана-235
+ic2.itemUran238=Уран-238
+ic2.itemUranPellet=Пеллеты обогащённого уранового ядерного топлива
+ic2.itemMOXPellet=Пеллеты ядерного топлива MOX
+ic2.reactorLithiumCell=Топливный стержень (Литий)
+ic2.itemDustLithium=Литиевая пыль
+ic2.itemTritiumCell=Топливный стержень (Тритий)
+ic2.itemRTGPellet=Пеллета РИТЭГ-топлива
+ic2.itemFuelRod=Топливный стержень (Пустой)
+
+#Item_random
+
+ic2.itemBatRE=Аккумулятор
+ic2.itemBatREDischarged=Незаряженный аккумулятор
+ic2.itemBatCrystal=Энергетический кристалл
+ic2.itemBatLamaCrystal=Лазуротроновый кристалл
+ic2.itemBatChargeRE=Заряжающий аккумулятор
+ic2.itemBatChargeAdv=Продвинутый заряжающий аккумулятор
+ic2.itemBatChargeCrystal=Заряжающий энергетический кристалл
+ic2.itemBatChargeLamaCrystal=Заряжающий лазуротроновый кристалл
+ic2.itemFuelCan=Канистра топлива
+ic2.itemFuelCanEmpty=Пустая канистра
+ic2.itemFuelCoalDust=Гидратированная угольная пыль
+ic2.itemFuelCoalCmpr=Гидратированный уголь
+ic2.itemFuelPlantBall=Биомасса
+ic2.itemHarz=Латекс
+ic2.itemRubber=Резина
+ic2.itemPartCircuit=Электросхема
+ic2.itemPartCircuitAdv=Продвинутая электросхема
+ic2.itemPartAlloy=Композит
+ic2.itemScrap=Утильсырьё
+ic2.itemDoorAlloy=Укреплённая дверь
+ic2.itemPartCarbonFibre=Углеволокно
+ic2.itemPartCarbonMesh=Углеткань
+ic2.itemPartCarbonPlate=Углепластик
+ic2.itemPartIridium=Укреплённая иридиевая пластина
+ic2.itemScrapbox=Коробка с утильсырьём
+ic2.itemPartCoalBall=Угольный шарик
+ic2.itemPartCoalBlock=Сжатый угольный шарик
+ic2.itemPartCoalChunk=Куб сжатого угля
+ic2.itemPartIndustrialDiamond=Промышленный алмаз
+ic2.itemOreIridium=Иридиевая руда
+ic2.itemCoolant=Хладагент
+ic2.itemheatconductor=Теплопровод
+ic2.itemcopperboiler=Медный котёл
+ic2.itemPartCFPowder=Сжатая строительная пена
+ic2.itemAshes=Пепел
+ic2.itemPartCoil=Катушка
+ic2.itemPartEleMotor=Электромотор
+ic2.itemFluidCell=Универсальная жидкостная капсула
+ic2.itempowerunit=Силовой агрегат
+ic2.itempowerunitsmall=Малый силовой агрегат
+ic2.itemAdvBat=Продвинутый аккумулятор
+ic2.itemContainmentbox=Ящик содержания
+
+#Blocks_Ore
+
+ic2.blockOreCopper=Медная руда
+ic2.blockOreTin=Оловянная руда
+ic2.blockOreUran=Урановая руда
+ic2.blockOreLead=Свинцовая руда
+
+#Blocks_Fluid
+
+ic2.fluidPahoehoeLava=Базальтовая лава
+ic2.fluidUuMatter=Жидкая материя
+ic2.fluidConstructionFoam=Строительная пена
+ic2.fluidCoolant=Хладагент (IC2)
+ic2.fluidHotCoolant=Горячий хладагент (IC2)
+ic2.fluidBiogas=Биогаз
+ic2.fluidBiomass=Биомасса
+ic2.fluidDistilledWater=Дистиллированная вода
+
+#Maschine
+
+ic2.blockCanner=Жидкостный/Твердотельный наполняющий механизм
+ic2.Canner.gui.name=Жидкостный/Твердотельный наполняющий механизм
+ic2.Canner.gui.switch.BottleSolid=Наполнение
+ic2.Canner.gui.switch.EmptyLiquid=перелить из капсулы в бак
+ic2.Canner.gui.switch.BottleLiquid=заполнить капсулу из бака
+ic2.Canner.gui.switch.EnrichLiquid=обогатить жидкостью (бак или капсулу)
+
+ic2.blockCentrifuge=Термальная центрифуга
+ic2.Centrifuge.gui.name=Термальная центрифуга
+
+ic2.blockCompressor=Компрессор
+ic2.Compressor.gui.name=Компрессор
+
+ic2.blockElecFurnace=Электропечь
+ic2.ElecFurnace.gui.name=Электропечь
+
+ic2.blockExtractor=Экстрактор
+ic2.Extractor.gui.name=Экстрактор
+
+ic2.blockFluidBottler=Разливочный механизм
+ic2.FluidBottler.gui.name=Разливочный механизм
+
+ic2.blockIronFurnace=Железная печь
+ic2.IronFurnace.gui.name=Железная печь
+
+ic2.blockMacerator=Дробитель
+ic2.Macerator.gui.name=Дробитель
+
+ic2.blockMetalFormer=Металлоформовочный механизм
+ic2.MetalFormer.gui.name=Металлоформовочный механизм
+ic2.MetalFormer.gui.switch.Extruding=Выдавливание
+ic2.MetalFormer.gui.switch.Rolling=Прокатка
+ic2.MetalFormer.gui.switch.Cutting=Резка
+
+
+ic2.blockOreWashingPlant=Рудопромывочный механизм
+ic2.OreWashingPlan.gui.name=Рудопромывочный механизм
+
+ic2.blockPump=Помпа
+ic2.Pump.gui.name=Помпа
+
+ic2.blockRecycler=Утилизатор
+ic2.Recycler.gui.name=Утилизатор
+
+ic2.blockReplicator=Репликатор
+ic2.Replicator.gui.name=Репликатор
+ic2.Replicator.gui.info.Stop=Стоп
+ic2.Replicator.gui.info.single=одиночный запуск
+ic2.Replicator.gui.info.repeat=повторяющийся запуск
+ic2.Replicator.gui.info.last=предыдущий шаблон
+ic2.Replicator.gui.info.next=следующий шаблон
+ic2.Replicator.gui.info.Waiting=Ожидание...
+
+ic2.blockSolidCanner=Консервирующий механизм
+ic2.SolidCanner.gui.name=Консервирующий механизм
+
+ic2.blockCondenser=Конденсатор
+ic2.Condenser.gui.name=Конденсатор
+ic2.Condenser.gui.tooltipvent=Добавьте теплоотводы для ускорения ( %1$s EU/теплоотвод )
+
+ic2.blockBlockCutter=Режущий механизм
+ic2.BlockCutter.gui.name=Режущий механизм
+ic2.BlockCutter.gui.bladeslot=Слот для режущего диска
+ic2.BlockCutter.gui.bladetoweak=Режущий диск слишком мягок или отсутствует
+
+ic2.itemIronBlockCuttingBlade=Железный режущий диск
+ic2.itemAdvIronBlockCuttingBlade=Режущий диск из закалённого железа
+ic2.itemDiamondBlockCuttingBlade=Алмазный режущий диск
+
+ic2.IronBlockCuttingBlade.info=разрезает блоки мягче железа
+ic2.AdvIronBlockCuttingBlade.info=разрезает блоки мягче закалённого железа
+ic2.DiamondBlockCuttingBlade.info=разрезает блоки мягче алмаза
+
+ic2.blockSolarDestiller=Солнечный опреснитель
+ic2.SolarDestiller.gui.name=Солнечный опреснитель
+
+#Block_Transformer
+
+ic2.blockTransformer=Трансформатор
+ic2.blockTransformerLV=Трансформатор НН
+ic2.blockTransformerMV=Трансформатор СН
+ic2.blockTransformerHV=Трансформатор ВН
+ic2.blockTransformerEV=Трансформатор СВН
+
+ic2.Transformer.gui.switch.mode1=Красный сигнал = повыш.
+ic2.Transformer.gui.switch.mode2=фиксир. пониж.
+ic2.Transformer.gui.switch.mode3=фиксир. повыш.
+
+ic2.Transformer.gui.Output=Выход:
+ic2.Transformer.gui.Input=Вход:
+ic2.Transformer.gui.refresh=принудительное обновление нужно только при отсутствии потока энергии
+
+
+#Block_EU Storage
+
+ic2.blockBatBox=Энергохранилище
+ic2.blockMFE=МФЭ
+ic2.blockMFSU=МФЭХ
+ic2.blockCESU=МЭХ
+
+ic2.EUStorage.gui.mod.redstone0=Красный сигнал: Без действия
+ic2.EUStorage.gui.mod.redstone1=Красный сигнал: Излучать, если заполнено
+ic2.EUStorage.gui.mod.redstone2=Красный сигнал: Излучать, если наполовину заполнено
+ic2.EUStorage.gui.mod.redstone3=Красный сигнал: Излучать, если наполовину заполнено или пусто
+ic2.EUStorage.gui.mod.redstone4=Красный сигнал: Излучать, если пусто
+ic2.EUStorage.gui.mod.redstone5=Красный сигнал: Не подавать энергию
+ic2.EUStorage.gui.mod.redstone6=Красный сигнал: Не подавать энергию, если не заполнено
+
+ic2.EUStorage.gui.info.armor=Броня
+ic2.EUStorage.gui.info.level=Уровень энергии:
+ic2.EUStorage.gui.info.output=Выход: %1$s EU/т
+
+#Blocks_EU_Generator
+
+ic2.blockGenerator=Генератор
+ic2.Generator.gui.name=Генератор
+
+ic2.blockGeoGenerator=Геотермальный генератор
+ic2.GeoGenerator.gui.name=Геотермальный генератор
+
+ic2.blockNuclearReactor=Ядерный реактор
+ic2.NuclearReactor.gui.name=Ядерный реактор
+ic2.NuclearReactor.gui.info.EU=Выход: %1$s EU/т   Нагрев ядра: %2$s
+ic2.NuclearReactor.gui.info.hU=Выход: %1$s Hu/с   Нагрев ядра: %2$s
+ic2.NuclearReactor.gui.mode.fluid=Реактор в охлаждающем режиме работает на 100%
+ic2.NuclearReactor.gui.mode.electric=Реактор в энергетическом режиме работает на 50%
+
+# blocks
+
+ic2.blockMachine=Основной корпус механизма
+ic2.blockAdvMachine=Продвинутый корпус механизма
+ic2.blockRubWood=Древесина гевеи
+ic2.blockRubLeaves=Листва гевеи
+ic2.blockRubSapling=Саженец гевеи
+ic2.blockReactorChamber=Реакторная камера
+ic2.blockAlloy=Укреплённый камень
+ic2.blockAlloyGlass=Укреплённое стекло
+ic2.blockMetalCopper=Медный блок
+ic2.blockMetalTin=Оловянный блок
+ic2.blockMetalBronze=Бронзовый блок
+ic2.blockMetalUranium=Урановый блок
+ic2.blockMetalLead=Свинцовый блок
+ic2.blockMetalAdvIron=Блок закалённого железа
+
+ic2.blockTeleporter=Телепортер
+ic2.blockTesla=Катушка Теслы
+ic2.blockFoam=Строительная пена
+ic2.blockReinforcedFoam=Укреплённая строительная пена
+ic2.blockScaffold=Леса
+ic2.blockIronScaffold=Железные леса
+
+
+# achievements
+achievement.acquireRefinedIron=В действительности не лучше, чем железо
+achievement.acquireRefinedIron.desc=Вы только что сделали бесполезный слиток
+achievement.buildGenerator=Пригодная энергия
+achievement.buildGenerator.desc=Сделайте генератор
+achievement.acquireResin=Липкая ситуация
+achievement.acquireResin.desc=Получите латекс с дерева гевеи с помощью краника
+achievement.buildCable=Поток энергии
+achievement.buildCable.desc=Сделайте несколько проводов
+achievement.mineOre=Добытчик новых руд
+achievement.mineOre.desc=Добудьте медь олово, или уран
+achievement.buildMacerator=Двойные проблемы
+achievement.buildMacerator.desc=Сделайте дробитель
+achievement.buildCoalDiamond=Блестящий
+achievement.buildCoalDiamond.desc=Сделайте куб из угля и сожмите его в алмаз
+achievement.buildElecFurnace=Еще более горячие новости
+achievement.buildElecFurnace.desc=Сделайте электрическую печь
+achievement.buildBatBox=Накопи это
+achievement.buildBatBox.desc=Сделайте энергохранитель
+achievement.buildCompressor=Эпическое сжатие
+achievement.buildCompressor.desc=Сделайте компрессор
+achievement.compressUranium=Радиоактивность
+achievement.compressUranium.desc=Сожмите уран в слиток уранового топлива
+achievement.buildExtractor=Суперкраник
+achievement.buildExtractor.desc=Сделайте экстрактор
+achievement.buildChainsaw=Дровосек-убийца
+achievement.buildChainsaw.desc=Сделайте электропилу
+achievement.killCreeperChainsaw=Криперская резня бензопилой
+achievement.killCreeperChainsaw.desc=Убейте крипера электропилой
+achievement.buildDrill=Посетить дантиста
+achievement.buildDrill.desc=Сделайте шахтёрский бур
+achievement.buildDDrill=Значимое обновление
+achievement.buildDDrill.desc=Сделайте алмазный бур
+achievement.buildMFE=Обновление хранилища
+achievement.buildMFE.desc=Сделайте МФЭ
+achievement.buildMiningLaser=Время для лазера
+achievement.buildMiningLaser.desc=Сделайте шахтёрский лазер
+achievement.killDragonMiningLaser=LIKE A BOSS
+achievement.killDragonMiningLaser.desc=Убейте Дракона Края из лазера
+achievement.acquireMatter=Розовое желе
+achievement.acquireMatter.desc=Произведите материю
+achievement.buildQArmor=Высокотехнологичное чудо
+achievement.buildQArmor.desc=Сделайте какой-нибудь элемент квантовой брони
+achievement.buildMFS=Просто чересчур
+achievement.buildMFS.desc=Сделайте МФСУ
+achievement.buildTeleporter=Внутрипространственный скачок
+achievement.buildTeleporter.desc=Сделайте телепортер
+achievement.teleportFarAway=Далеко-далеко
+achievement.teleportFarAway.desc=Телепортируйтесь по крайней мере на 1 км
+
+# guis
+
+ic2.container.personalTrader.want=Покупка:
+ic2.container.personalTrader.offer=Продажа:
+ic2.container.personalTrader.totalTrades0=Заключено
+ic2.container.personalTrader.totalTrades1=Сделок:
+ic2.container.personalTrader.stock=В наличии:
+
+# creative tab
+itemGroup.IC2=IndustrialCraft 2
+
+# potion effects
+ic2.potion.radiation=Радиация
+
+# death messages
+death.attack.electricity=%1$s был убит током
+death.attack.radiation=%1$s умер от радиации
+
+# tool tips
+ic2.tooltip.upgrade.overclocker.time=Уменьшает время работы до %1$s%%
+ic2.tooltip.upgrade.overclocker.power=Увеличивает энергопотребление до %1$s%%
+ic2.tooltip.upgrade.transformer=Увеличивает максимальное напряжение на %1$s ступень
+ic2.tooltip.upgrade.storage=Увеличивает энергоёмкость на %1$s EU
+ic2.tooltip.upgrade.ejector=Автоматическое извлечение с %1$s стороны
+ic2.tooltip.upgrade.ejector.anyside=первой подходящей
+ic2.tooltip.upgrade.redstone=Инвертирует текущий сигнал красного камня
+ic2.tooltip.mode=Режим: %1$s
+ic2.tooltip.mode.normal=Обычный
+ic2.tooltip.mode.lossless=Без потерь
+ic2.tooltip.mode.mining=Добыча
+ic2.tooltip.mode.lowFocus=Короткого фокуса
+ic2.tooltip.mode.longRange=Дальнего действия
+ic2.tooltip.mode.horizontal=Горизонтальный
+ic2.tooltip.mode.superHeat=Перегревающий
+ic2.tooltip.mode.scatter=Разброс
+ic2.tooltip.mode.explosive=Взрывоопасный
+ic2.tooltip.mode.single=Одиночный
+ic2.tooltip.mode.silkTouch=Шёлковое касание
+ic2.tooltip.mode.noShear=Без стрижки
+
+#mausover tool tips
+
+
+ic2.item.tooltip.power=Энергия
+ic2.item.tooltip.max=макс.
+ic2.item.tooltip.Output=Выход:
+ic2.item.tooltip.Capacity=Ёмкость:
+ic2.item.tooltip.Store=Хранится:
+ic2.item.tooltip.Low=Пониж.:
+ic2.item.tooltip.High=Повыш.:
+ic2.item.tooltip.PowerOutput=Выход энергии:
+ic2.item.ItemTool.tooltip.UsesLeft=Осталось использований:
+ic2.item.FluidContainer.Empty=< Пустой >
+ic2.item.tooltip.PowerTier=Энергоуровень:
+
+
+#Generic
+
+ic2.generic.text.upgrade=совместимые улучшения:
+ic2.generic.text.UUMatte=Жидкая материя:
+ic2.generic.text.Energy=Энергия:
+ic2.generic.text.Name=Имя:
+ic2.generic.text.EU=EU
+ic2.generic.text.EUt=EU/т
+ic2.generic.text.v=V
+ic2.generic.text.mb=mB
+ic2.generic.text.bucketUnit=B
+ic2.generic.text.heat=нагрев:
+ic2.generic.text.Buffer=Буфер:
+ic2.generic.text.hu=Hu:
+ic2.generic.text.bufferEU=Буфер: %1$s EU
+ic2.generic.text.C=%1$s C
+ic2.generic.text.bar=%1$s бар
+ic2.generic.text.tick=/такт
+ic2.generic.text.sec=/сек
+
+# directions
+ic2.dir.top=верхней
+ic2.dir.bottom=нижней
+ic2.dir.north=северной
+ic2.dir.east=восточной
+ic2.dir.south=южной
+ic2.dir.west=западной
+
+# LoliIndex recipe type names
+loliindex.recipe_type.ic2.macerating=Дробление
+loliindex.recipe_type.ic2.extracting=Экстракция
+loliindex.recipe_type.ic2.compressing=Сжатие
+loliindex.recipe_type.ic2.block_cutting=Резка блоков
+loliindex.recipe_type.ic2.metal_forming=Прокатка
+loliindex.recipe_type.ic2.centrifuging=Центрифугирование
+loliindex.recipe_type.ic2.ore_washing=Промывка руды
+loliindex.recipe_type.ic2.solid_canning=Консервирование
+loliindex.recipe_type.ic2.fluid_enriching=Обогащение жидкости
+loliindex.recipe_type.ic2.scrapbox=Утильсырьё
+
+loliindex.recipe_type.ic2.condenser=Конденсация

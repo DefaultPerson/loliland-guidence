@@ -1,0 +1,1265 @@
+[
+ {
+  "file": "Thaumcraft__arcane_workbench.json",
+  "system": "Thaumcraft",
+  "id": "Thaumcraft:blockTable",
+  "name": "Thaumcraft__arcane_workbench",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__advanced_solar_destiller.json",
+  "system": "ic2",
+  "id": "lolienergistics:advanced_solar_destiller",
+  "name": "ic2__advanced_solar_destiller",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__bat_box.json",
+  "system": "ic2",
+  "id": "IC2:blockElectric",
+  "name": "ic2__bat_box",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__blast_furnace.json",
+  "system": "ic2",
+  "id": "lolienergistics:blast_furnace_brick",
+  "name": "ic2__blast_furnace",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__block_cutter.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine3",
+  "name": "ic2__block_cutter",
+  "paragraphs": {
+   "Резка за энергию": "Режущий механизм - механизм, позволяющий резать блоки на пластины целыми стаками используя энергию.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости сжатия.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы режущего механизма подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__capillary_filler.json",
+  "system": "ic2",
+  "id": "lolienergistics:capillary_filler",
+  "name": "ic2__capillary_filler",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__centrifuge_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCentrifuge",
+  "name": "ic2__centrifuge_x12",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__centrifuge_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCentrifuge",
+  "name": "ic2__centrifuge_x6",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__cesu.json",
+  "system": "ic2",
+  "id": "IC2:blockElectric",
+  "name": "ic2__cesu",
+  "paragraphs": {
+   "Хранилище EU энергии": "МЭХ - механизм, позволяющий накапливать и распределять EU энергию.",
+   "Зарядка предметов": "Поместите любой предмет в слот ниже для его зарядки / разрядки",
+   "Принцип работы": "Все стороны механизма являются входами, кроме одной, отмеченной точкой - это выход МЭХ.\nПодключите EU провод к стороне с точкой для передачи энергии дальше.",
+   "Настройте выход": "Кликните ПКМ с гаечным ключом по любой стороне, чтобы переместить точку выхода на неё.\nПодсказка: клик ключом по стороне с уже существующей точкой демонтирует механизм."
+  }
+ },
+ {
+  "file": "ic2__cluster_unpacker.json",
+  "system": "ic2",
+  "id": "lolienergistics:cluster_unpacker",
+  "name": "ic2__cluster_unpacker",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__coke_oven.json",
+  "system": "ic2",
+  "id": "lolienergistics:coke_oven_brick",
+  "name": "ic2__coke_oven",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressed_neutron_s1_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressedNeutronS1",
+  "name": "ic2__compressed_neutron_s1_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressed_neutron_s1_x2.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressedNeutronS1",
+  "name": "ic2__compressed_neutron_s1_x2",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressed_neutron_s1_x3.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressedNeutronS1",
+  "name": "ic2__compressed_neutron_s1_x3",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressed_neutron_s1_x4.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressedNeutronS1",
+  "name": "ic2__compressed_neutron_s1_x4",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressed_neutron_s1_x5.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressedNeutronS1",
+  "name": "ic2__compressed_neutron_s1_x5",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressed_neutron_s2_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressedNeutronS2",
+  "name": "ic2__compressed_neutron_s2_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressed_neutron_s2_x2.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressedNeutronS2",
+  "name": "ic2__compressed_neutron_s2_x2",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressed_neutron_s2_x3.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressedNeutronS2",
+  "name": "ic2__compressed_neutron_s2_x3",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressed_neutron_s2_x4.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressedNeutronS2",
+  "name": "ic2__compressed_neutron_s2_x4",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressed_neutron_s2_x5.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressedNeutronS2",
+  "name": "ic2__compressed_neutron_s2_x5",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressed_neutron_s3_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressedNeutronS3",
+  "name": "ic2__compressed_neutron_s3_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressed_neutron_s3_x2.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressedNeutronS3",
+  "name": "ic2__compressed_neutron_s3_x2",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressed_neutron_s3_x3.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressedNeutronS3",
+  "name": "ic2__compressed_neutron_s3_x3",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressed_neutron_s3_x4.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressedNeutronS3",
+  "name": "ic2__compressed_neutron_s3_x4",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressed_neutron_s3_x5.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressedNeutronS3",
+  "name": "ic2__compressed_neutron_s3_x5",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__compressor.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine",
+  "name": "ic2__compressor",
+  "paragraphs": {
+   "Сжатие за энергию": "Компрессор - механизм, позволяющий сжимать ресурсы целыми стаками используя энергию.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости сжатия.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы компрессора подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__compressor_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressor",
+  "name": "ic2__compressor_x12",
+  "paragraphs": {
+   "Сжатие за энергию": "Компрессор - механизм, позволяющий сжимать ресурсы целыми стаками используя энергию.\nИмеет 12 независимых слотов для одновременной обработки сразу нескольких ресурсов.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости сжатия.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы компрессора подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__compressor_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockCompressor",
+  "name": "ic2__compressor_x6",
+  "paragraphs": {
+   "Сжатие за энергию": "Компрессор - механизм, позволяющий сжимать ресурсы целыми стаками используя энергию.\nИмеет 6 независимых слотов для одновременной обработки сразу нескольких ресурсов.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости сжатия.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы компрессора подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__condenser.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine2",
+  "name": "ic2__condenser",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__coolant_factory.json",
+  "system": "ic2",
+  "id": "lolienergistics:coolant_factory",
+  "name": "ic2__coolant_factory",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__cutter_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:advanced_cutter_machine",
+  "name": "ic2__cutter_x12",
+  "paragraphs": {
+   "Резка за энергию": "Промышленный режущий механизм - механизм, позволяющий резать блоки на пластины целыми стаками используя энергию.\nИмеет 12 независимых слотов для одновременной обработки сразу нескольких ресурсов.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости сжатия.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы режущего механизма подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__cutter_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:advanced_cutter_machine",
+  "name": "ic2__cutter_x6",
+  "paragraphs": {
+   "Резка за энергию": "Расширенный режущий механизм - механизм, позволяющий резать блоки на пластины целыми стаками используя энергию.\nИмеет 6 независимых слотов для одновременной обработки сразу нескольких ресурсов.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости сжатия.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы режущего механизма подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__dark_energon_generator.json",
+  "system": "ic2",
+  "id": "lolienergistics:dark_energon_generator",
+  "name": "ic2__dark_energon_generator",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__electric_furnace.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine",
+  "name": "ic2__electric_furnace",
+  "paragraphs": {
+   "Плавка без топлива": "Электропечь - механизм, позволяющий переплавлять ресурсы целыми стаками за энергию без использования горючего топлива.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости переплавки.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы электропечи подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__electric_furnace_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockElectricFurnace",
+  "name": "ic2__electric_furnace_x12",
+  "paragraphs": {
+   "Плавка без топлива": "Промышленная электропечь - механизм, позволяющий переплавлять ресурсы целыми стаками за энергию без использования горючего топлива.\nИмеет 12 независимых слотов для одновременной обработки сразу нескольких ресурсов.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости переплавки.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы электропечи подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__electric_furnace_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockElectricFurnace",
+  "name": "ic2__electric_furnace_x6",
+  "paragraphs": {
+   "Плавка без топлива": "Расширенная электропечь - механизм, позволяющий переплавлять ресурсы целыми стаками за энергию без использования горючего топлива.\nИмеет 6 независимых слотов для одновременной обработки сразу нескольких ресурсов.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости переплавки.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы электропечи подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__electric_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockElectric",
+  "name": "ic2__electric_x1",
+  "paragraphs": {
+   "Хранилище EU энергии": "Гибридное МФЭХ - механизм, позволяющий накапливать и распределять EU энергию.",
+   "Зарядка предметов": "Поместите любой предмет в слот ниже для его зарядки / разрядки",
+   "Принцип работы": "Все стороны механизма являются входами, кроме одной, отмеченной точкой - это выход МФЭХ.\nПодключите EU провод к стороне с точкой для передачи энергии дальше.",
+   "Настройте выход": "Кликните ПКМ с гаечным ключом по любой стороне, чтобы переместить точку выхода на неё.\nПодсказка: клик ключом по стороне с уже существующей точкой демонтирует механизм."
+  }
+ },
+ {
+  "file": "ic2__electric_x2.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockElectric",
+  "name": "ic2__electric_x2",
+  "paragraphs": {
+   "Хранилище EU энергии": "Расширенное гибридное МФЭХ - механизм, позволяющий накапливать и распределять EU энергию.",
+   "Зарядка предметов": "Поместите любой предмет в слот ниже для его зарядки / разрядки",
+   "Принцип работы": "Все стороны механизма являются входами, кроме одной, отмеченной точкой - это выход МФЭХ.\nПодключите EU провод к стороне с точкой для передачи энергии дальше.",
+   "Настройте выход": "Кликните ПКМ с гаечным ключом по любой стороне, чтобы переместить точку выхода на неё.\nПодсказка: клик ключом по стороне с уже существующей точкой демонтирует механизм."
+  }
+ },
+ {
+  "file": "ic2__electric_x3.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockElectric",
+  "name": "ic2__electric_x3",
+  "paragraphs": {
+   "Хранилище EU энергии": "Промышленное гибридное МФЭХ - механизм, позволяющий накапливать и распределять EU энергию.",
+   "Зарядка предметов": "Поместите любой предмет в слот ниже для его зарядки / разрядки",
+   "Принцип работы": "Все стороны механизма являются входами, кроме одной, отмеченной точкой - это выход МФЭХ.\nПодключите EU провод к стороне с точкой для передачи энергии дальше.",
+   "Настройте выход": "Кликните ПКМ с гаечным ключом по любой стороне, чтобы переместить точку выхода на неё.\nПодсказка: клик ключом по стороне с уже существующей точкой демонтирует механизм."
+  }
+ },
+ {
+  "file": "ic2__energy_neutron_combiner_t1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockEnergyNeutronCombiner",
+  "name": "ic2__energy_neutron_combiner_t1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__energy_neutron_combiner_t2.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockEnergyNeutronCombiner",
+  "name": "ic2__energy_neutron_combiner_t2",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__energy_neutron_combiner_t3.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockEnergyNeutronCombiner",
+  "name": "ic2__energy_neutron_combiner_t3",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__energy_neutron_combiner_t4.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockEnergyNeutronCombiner",
+  "name": "ic2__energy_neutron_combiner_t4",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__energy_neutron_combiner_t5.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockEnergyNeutronCombiner",
+  "name": "ic2__energy_neutron_combiner_t5",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__extractor.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine",
+  "name": "ic2__extractor",
+  "paragraphs": {
+   "Преобразование за энергию": "Экстрактор - механизм, позволяющий преобразовывать ресурсы целыми стаками за энергию.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости обработки.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы экстрактора подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__extractor_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockExtractor",
+  "name": "ic2__extractor_x12",
+  "paragraphs": {
+   "Преобразование за энергию": "Экстрактор - механизм, позволяющий преобразовывать ресурсы целыми стаками за энергию.\nИмеет 12 независимых слотов для одновременной обработки сразу нескольких ресурсов.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости обработки.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы экстрактора подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__extractor_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockExtractor",
+  "name": "ic2__extractor_x6",
+  "paragraphs": {
+   "Преобразование за энергию": "Экстрактор - механизм, позволяющий преобразовывать ресурсы целыми стаками за энергию.\nИмеет 6 независимых слотов для одновременной обработки сразу нескольких ресурсов.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости обработки.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы экстрактора подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__fluid_bottler.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine2",
+  "name": "ic2__fluid_bottler",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__fluid_canner.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine",
+  "name": "ic2__fluid_canner",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__generator.json",
+  "system": "ic2",
+  "id": "IC2:blockGenerator",
+  "name": "ic2__generator",
+  "paragraphs": {
+   "Производство EU энергии": "Генератор - механизм, позволяющий вырабатывать 50 EU энергии в секунду за счёт сжигания твёрдого горючего топлива.",
+   "Подключите EU провод": "Для передачи энергии подключите EU провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__geo_generator.json",
+  "system": "ic2",
+  "id": "IC2:blockGenerator",
+  "name": "ic2__geo_generator",
+  "paragraphs": {
+   "Выработка EU из лавы": "Геотермальный генератор - механизм, позволяющий вырабатывать EU энергию за счёт лавы.\nЗа одно ведро лавы вырабатывает 10 000 EU.",
+   "Подключите EU провод": "Для передачи энергии подключите EU провод с любой стороны механизма.",
+   "Демонтаж": "Демонтируйте механизм гаечным ключом или электроключом.\nОсобенность: при демонтаже кирками выпадет только обычный генератор, а не геотермальный."
+  }
+ },
+ {
+  "file": "ic2__hardening_bath.json",
+  "system": "ic2",
+  "id": "lolienergistics:hardening_bath",
+  "name": "ic2__hardening_bath",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__induction_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockInduction",
+  "name": "ic2__induction_x12",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__induction_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockInduction",
+  "name": "ic2__induction_x6",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__industrial_blast_furnace.json",
+  "system": "ic2",
+  "id": "lolienergistics:industrial_blast_furnace",
+  "name": "ic2__industrial_blast_furnace",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__industrial_capillary_filler.json",
+  "system": "ic2",
+  "id": "lolienergistics:industrial_capillary_filler",
+  "name": "ic2__industrial_capillary_filler",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__industrial_filling_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:industrial_filling",
+  "name": "ic2__industrial_filling_x12",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__industrial_filling_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:industrial_filling",
+  "name": "ic2__industrial_filling_x6",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__industrial_mixer.json",
+  "system": "ic2",
+  "id": "lolienergistics:mixer_core",
+  "name": "ic2__industrial_mixer",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__iron_furnace.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine",
+  "name": "ic2__iron_furnace",
+  "paragraphs": {
+   "Быстрее обычной печи": "Железная печь - механизм, позволяющий переплавлять ресурсы быстрее обычной каменной печи.\nОдна плавка занимает 8 секунд вместо 10, при том же времени горения топлива."
+  }
+ },
+ {
+  "file": "ic2__lava_generate_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockLavaGenerate",
+  "name": "ic2__lava_generate_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__lava_generate_x2.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockLavaGenerate",
+  "name": "ic2__lava_generate_x2",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__lava_generate_x3.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockLavaGenerate",
+  "name": "ic2__lava_generate_x3",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__legendary_replicator.json",
+  "system": "ic2",
+  "id": "lolienergistics:legendary_replicator_core",
+  "name": "ic2__legendary_replicator",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__liquid_neutron_compressor.json",
+  "system": "ic2",
+  "id": "lolienergistics:liquid_neutron_compressor",
+  "name": "ic2__liquid_neutron_compressor",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__macerator.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine",
+  "name": "ic2__macerator",
+  "paragraphs": {
+   "Дробление без топлива": "Дробитель - механизм, позволяющий дробить ресурсы целыми стаками используя энергию.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости дробления.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы дробителя подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__macerator_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMacerator",
+  "name": "ic2__macerator_x12",
+  "paragraphs": {
+   "Дробление без топлива": "Дробитель - механизм, позволяющий дробить ресурсы целыми стаками используя энергию.\nИмеет 12 независимых слотов для одновременной обработки сразу нескольких ресурсов.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости дробления.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы дробителя подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__macerator_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMacerator",
+  "name": "ic2__macerator_x6",
+  "paragraphs": {
+   "Дробление без топлива": "Дробитель - механизм, позволяющий дробить ресурсы целыми стаками используя энергию.\nИмеет 6 независимых слотов для одновременной обработки сразу нескольких ресурсов.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости дробления.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы дробителя подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__matter_combiner.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterCombiner",
+  "name": "Объединитель материи “Жидкой”",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t0_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX1",
+  "name": "ic2__matter_solid_t0_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t0_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX12",
+  "name": "ic2__matter_solid_t0_x12",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t0_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX6",
+  "name": "ic2__matter_solid_t0_x6",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t1_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX1",
+  "name": "ic2__matter_solid_t1_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t1_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX12",
+  "name": "ic2__matter_solid_t1_x12",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t1_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX6",
+  "name": "ic2__matter_solid_t1_x6",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t2_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX1",
+  "name": "ic2__matter_solid_t2_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t2_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX12",
+  "name": "ic2__matter_solid_t2_x12",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t2_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX6",
+  "name": "ic2__matter_solid_t2_x6",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t3_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX1",
+  "name": "ic2__matter_solid_t3_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t3_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX12",
+  "name": "ic2__matter_solid_t3_x12",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t3_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX6",
+  "name": "ic2__matter_solid_t3_x6",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t4_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX1",
+  "name": "ic2__matter_solid_t4_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t4_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX12",
+  "name": "ic2__matter_solid_t4_x12",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t4_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX6",
+  "name": "ic2__matter_solid_t4_x6",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t5_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX1",
+  "name": "ic2__matter_solid_t5_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t5_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX12",
+  "name": "ic2__matter_solid_t5_x12",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t5_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX6",
+  "name": "ic2__matter_solid_t5_x6",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t6_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX1",
+  "name": "ic2__matter_solid_t6_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t6_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX12",
+  "name": "ic2__matter_solid_t6_x12",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t6_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX6",
+  "name": "ic2__matter_solid_t6_x6",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t7_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX1",
+  "name": "ic2__matter_solid_t7_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t7_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX12",
+  "name": "ic2__matter_solid_t7_x12",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t7_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX6",
+  "name": "ic2__matter_solid_t7_x6",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t8_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX1",
+  "name": "ic2__matter_solid_t8_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t8_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX12",
+  "name": "ic2__matter_solid_t8_x12",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t8_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX6",
+  "name": "ic2__matter_solid_t8_x6",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t9_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX1",
+  "name": "ic2__matter_solid_t9_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t9_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX12",
+  "name": "ic2__matter_solid_t9_x12",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_solid_t9_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatterSolidX6",
+  "name": "ic2__matter_solid_t9_x6",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatter",
+  "name": "ic2__matter_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_x10.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatter",
+  "name": "ic2__matter_x10",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_x2.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatter",
+  "name": "ic2__matter_x2",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_x3.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatter",
+  "name": "ic2__matter_x3",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_x4.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatter",
+  "name": "ic2__matter_x4",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_x5.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatter",
+  "name": "ic2__matter_x5",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatter",
+  "name": "ic2__matter_x6",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_x7.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatter",
+  "name": "ic2__matter_x7",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_x8.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatter",
+  "name": "ic2__matter_x8",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__matter_x9.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMatter",
+  "name": "ic2__matter_x9",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__metal_former.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine2",
+  "name": "ic2__metal_former",
+  "paragraphs": {
+   "Металлоформовка за энергию": "Металлоформовочный механизм - механизм, позволяющий обрабатывать ресурсы целыми стаками за энергию в нескольких режимах.",
+   "Основные режимы работы": "Выдавливание - формирует ресурсы методом выдавливания.\nПрокатка - прокатывает ресурсы в плоские заготовки.\nРезка - разрезает заготовки на более мелкие элементы.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости обработки.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы металлоформовочного механизма подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__metal_former_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMetalFormer",
+  "name": "ic2__metal_former_x12",
+  "paragraphs": {
+   "Металлоформовка за энергию": "Металлоформовочный механизм - механизм, позволяющий обрабатывать ресурсы целыми стаками за энергию в нескольких режимах.\nИмеет 12 независимых слотов для одновременной обработки сразу нескольких ресурсов.",
+   "Основные режимы работы": "- Выдавливание - формирует ресурсы методом выдавливания.\n- Прокатка - прокатывает ресурсы в плоские заготовки.\n- Резка - разрезает заготовки на более мелкие элементы.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости обработки.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы металлоформовочного механизма подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__metal_former_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockMetalFormer",
+  "name": "ic2__metal_former_x6",
+  "paragraphs": {
+   "Металлоформовка за энергию": "Металлоформовочный механизм - механизм, позволяющий обрабатывать ресурсы целыми стаками за энергию в нескольких режимах.\nИмеет 6 независимых слотов для одновременной обработки сразу нескольких ресурсов.",
+   "Основные режимы работы": "- Выдавливание - формирует ресурсы методом выдавливания.\n- Прокатка - прокатывает ресурсы в плоские заготовки.\n- Резка - разрезает заготовки на более мелкие элементы.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости обработки.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы металлоформовочного механизма подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__mfe.json",
+  "system": "ic2",
+  "id": "IC2:blockElectric",
+  "name": "ic2__mfe",
+  "paragraphs": {
+   "Хранилище EU энергии": "МФЭ - механизм, позволяющий накапливать и распределять EU энергию.",
+   "Зарядка предметов": "Поместите любой предмет в слот ниже для его зарядки / разрядки",
+   "Принцип работы": "Все стороны механизма являются входами, кроме одной, отмеченной точкой — это выход МФЭ.\nПодключите EU провод к стороне с точкой для передачи энергии дальше.",
+   "Настройте выход": "Кликните ПКМ с гаечным ключом по любой стороне, чтобы переместить точку выхода на неё.\nПодсказка: клик ключом по стороне с уже существующей точкой демонтирует механизм."
+  }
+ },
+ {
+  "file": "ic2__mfsu.json",
+  "system": "ic2",
+  "id": "IC2:blockElectric",
+  "name": "ic2__mfsu",
+  "paragraphs": {
+   "Хранилище EU энергии": "МФЭХ - механизм, позволяющий накапливать и распределять EU энергию.",
+   "Зарядка предметов": "Поместите любой предмет в слот ниже для его зарядки / разрядки",
+   "Принцип работы": "Все стороны механизма являются входами, кроме одной, отмеченной точкой - это выход МФЭХ.\nПодключите EU провод к стороне с точкой для передачи энергии дальше.",
+   "Настройте выход": "Кликните ПКМ с гаечным ключом по любой стороне, чтобы переместить точку выхода на неё.\nПодсказка: клик ключом по стороне с уже существующей точкой демонтирует механизм."
+  }
+ },
+ {
+  "file": "ic2__neutron_base.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockNeutron",
+  "name": "ic2__neutron_base",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__neutron_combiner.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockNeutronCombiner",
+  "name": "Объединитель нейтрония",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__neutron_x1.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockNeutron",
+  "name": "ic2__neutron_x1",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__neutron_x2.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockNeutron",
+  "name": "ic2__neutron_x2",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__neutron_x3.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockNeutron",
+  "name": "ic2__neutron_x3",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__neutron_x4.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockNeutron",
+  "name": "ic2__neutron_x4",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__neutron_x5.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockNeutron",
+  "name": "ic2__neutron_x5",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__nuclear_reactor.json",
+  "system": "ic2",
+  "id": "IC2:blockGenerator",
+  "name": "ic2__nuclear_reactor",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__ore_washing.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine2",
+  "name": "ic2__ore_washing",
+  "paragraphs": {
+   "Больше ресурсов из дроблёных руд": "Рудопромывочный механизм - механизм, позволяющий получать из дроблёных руд больше ресурсов за счёт промывки водой.",
+   "Принцип работы": "Для работы механизма необходима вода.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости обработки.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.\nПоместите улучшение Жидкостный затягиватель для автоматического извлечения воды из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы рудопромывочного механизма подайте EU энергию через провод с любой его стороны."
+  }
+ },
+ {
+  "file": "ic2__pump.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine",
+  "name": "ic2__pump",
+  "paragraphs": {
+   "Откачка жидкостей": "Помпа - механизм, позволяющий автоматически откачивать жидкости.",
+   "Принцип работы": "Направьте лицевую сторону механизма в сторону жидкости, которую необходимо откачать.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости откачки.\nПоместите улучшение Жидкостный выталкиватель для автоматической выгрузки жидкости в соседний блок.",
+   "Подключите EU энергию": "Для работы помпы подайте EU энергию через провод с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__quantum_miner.json",
+  "system": "ic2",
+  "id": "lolienergistics:quantum_miner",
+  "name": "ic2__quantum_miner",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__quantum_miner_setting.json",
+  "system": "ic2",
+  "id": "lolienergistics:quantum_miner",
+  "name": "Квантовый шахтёр - Настройки",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__quantum_replicator.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockQuantumReplicator",
+  "name": "Квантовый репликатор",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__recycler.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine",
+  "name": "ic2__recycler",
+  "paragraphs": {
+   "Переработка любых предметов": "Утилизатор - механизм, позволяющий перерабатывать любые блоки и предметы в утильсырьё с шансом 12%.",
+   "Принцип работы": "Утильсырьё используется как топливо или катализатор при получении жидкой материи.\nПодсказка: стеклянные панели, палки, строительные леса и снежки утильсырья не дают.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости обработки.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы утилизатора подайте EU энергию через провод с любой его стороны."
+  }
+ },
+ {
+  "file": "ic2__recycler_x12.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockRecycler",
+  "name": "ic2__recycler_x12",
+  "paragraphs": {
+   "Переработка любых предметов": "Промышленный утилизатор - механизм, позволяющий перерабатывать любые блоки и предметы в утильсырьё с шансом 12%.\nИмеет 12 независимых слотов для одновременной переработки нескольких предметов.",
+   "Принцип работы": "Утильсырьё используется как топливо или катализатор при получении жидкой материи.\nПодсказка: стеклянные панели, палки, строительные леса и снежки утильсырья не дают.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости обработки.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы утилизатора подайте EU энергию через провод с любой его стороны."
+  }
+ },
+ {
+  "file": "ic2__recycler_x6.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockRecycler",
+  "name": "ic2__recycler_x6",
+  "paragraphs": {
+   "Переработка любых предметов": "Расширенный утилизатор - механизм, позволяющий перерабатывать любые блоки и предметы в утильсырьё с шансом 12%.\nИмеет 6 независимых слотов для одновременной переработки нескольких предметов.",
+   "Принцип работы": "Утильсырьё используется как топливо или катализатор при получении жидкой материи.\nПодсказка: стеклянные панели, палки, строительные леса и снежки утильсырья не дают.",
+   "Используйте улучшения": "Поместите улучшение Ускоритель для увеличения скорости обработки.\nПоместите улучшение Выталкиватель для автоматической выгрузки готовой продукции в соседний блок.\nПоместите улучшение Затягиватель для автоматического извлечения ресурсов из соседнего блока в механизм.",
+   "Подключите EU энергию": "Для работы утилизатора подайте EU энергию через провод с любой его стороны."
+  }
+ },
+ {
+  "file": "ic2__red_energon_generator.json",
+  "system": "ic2",
+  "id": "lolienergistics:red_energon_generator",
+  "name": "ic2__red_energon_generator",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__replicator.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine2",
+  "name": "ic2__replicator",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__smelting_plant.json",
+  "system": "ic2",
+  "id": "lolienergistics:smelting_plant",
+  "name": "ic2__smelting_plant",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__solar_destiller.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine3",
+  "name": "ic2__solar_destiller",
+  "paragraphs": {
+   "Создание дистиллированной воды": "Солнечный опреснитель - механизм, позволяющий преобразовывать воду в дистиллированную за счёт солнечной энергии.",
+   "Принцип работы": "Для работы механизма необходим открытый доступ к небу - над механизмом не должно быть никаких блоков.\nСкорость обработки - 3 mB за 1 секунду.",
+   "Вывод жидкости": "Подключите жидкостные трубы для подачи воды или извлечения дистиллированной воды с любой стороны механизма."
+  }
+ },
+ {
+  "file": "ic2__solid_canner.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine2",
+  "name": "ic2__solid_canner",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__stone_generator.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockStoneGenerator",
+  "name": "ic2__stone_generator",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__thermal_centrifuge.json",
+  "system": "ic2",
+  "id": "IC2:blockMachine2",
+  "name": "ic2__thermal_centrifuge",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__thermonuclear_smelting_complex.json",
+  "system": "ic2",
+  "id": "lolienergistics:thermonuclear_smelting_complex",
+  "name": "ic2__thermonuclear_smelting_complex",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__water_generate.json",
+  "system": "ic2",
+  "id": "lolienergistics:blockWaterGenerate",
+  "name": "Генератор воды",
+  "paragraphs": {}
+ },
+ {
+  "file": "ic2__wither_farm.json",
+  "system": "ic2",
+  "id": "lolienergistics:BlockWitcherFarm",
+  "name": "Ферма визеров",
+  "paragraphs": {}
+ },
+ {
+  "file": "loli_dragon_might__reactor.json",
+  "system": "loli_dragon_might",
+  "id": "loli_dragon_might:reactor_core",
+  "name": "Дракониевый реактор",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__ambient_gas_collector.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:ambient_gas_collector",
+  "name": "lolienergistics__ambient_gas_collector",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__crystal_charging_chamber.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:crystal_charging_chamber",
+  "name": "lolienergistics__crystal_charging_chamber",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__crystal_growth_chamber.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:crystal_growth_chamber",
+  "name": "lolienergistics__crystal_growth_chamber",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__crystallization_cooling_complex.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:crystallization_cooling_complex",
+  "name": "lolienergistics__crystallization_cooling_complex",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__deep_storage_unit.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:deep_storage_unit",
+  "name": "lolienergistics__deep_storage_unit",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__double_molecular.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:double_molecular",
+  "name": "lolienergistics__double_molecular",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__energon_converter.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:energon_converter_core",
+  "name": "lolienergistics__energon_converter",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__energon_synthesizer.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:energon_synthesizer_core",
+  "name": "lolienergistics__energon_synthesizer",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__gas_tank.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:gas_tank",
+  "name": "lolienergistics__gas_tank",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__heliospheric_charging_center.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:heliospheric_charging_center",
+  "name": "lolienergistics__heliospheric_charging_center",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__industrial_steam_boiler.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:industrial_steam_boiler",
+  "name": "lolienergistics__industrial_steam_boiler",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__legendary_molecular.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:BlockMolecular",
+  "name": "Молекулярный преобразователь",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__molecular_farm.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:BlockMolecularFarm",
+  "name": "Молекулярная ферма",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__molecular_x1.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:BlockMolecular",
+  "name": "Молекулярный преобразователь",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__molecular_x10.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:BlockMolecular",
+  "name": "Молекулярный преобразователь",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__plasma_charger.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:plasma_charger",
+  "name": "lolienergistics__plasma_charger",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__rotary_condensentrator.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:rotary_condensentrator",
+  "name": "lolienergistics__rotary_condensentrator",
+  "paragraphs": {}
+ },
+ {
+  "file": "lolienergistics__steam_boiler.json",
+  "system": "lolienergistics",
+  "id": "lolienergistics:steam_boiler",
+  "name": "lolienergistics__steam_boiler",
+  "paragraphs": {}
+ }
+]

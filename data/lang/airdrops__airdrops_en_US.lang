@@ -1,0 +1,6 @@
+commands.airdrop.usage=/airdrop <spawn>
+
+chat.airdrop.spawn.default=Приземляется лоли-бокс с бесплатным лутом для тебя, %s!
+chat.airdrop.spawn.legendary=Удача на твоей стороне, %s, для тебя приземляется легендарный лоли-бокс!
+
+entity.airdrops.Airdrop.name=Лоли-бокс

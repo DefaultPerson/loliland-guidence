@@ -1,0 +1,133 @@
+!§dОпыта накоплено:
+#§5Ускоряет копание.
+#§5активировать его.
+#§5его HP, а ему - ваши.
+&§5Уничтожает летящие
+&§5урон в §6истинный§5.
+'§5Ворует §6RF§5 энергию
+(§5Уменьшает в §610§5 раз
+(§5за спину атакующему.
+)§5Увеличивает прыжки и
+)§5и HP своего владельца.
+)§5максимального урона.
+)§5указанном диапазоне.
++§5за спину к противнику.
++§5какой-либо части сета.
+.§5владельцу и противнику.
+3§5Обнуляет невидимость всех
+4§5Увеличивает общий урон в §6
+4§5оно потребляет §6333 333 333 §5EU.
+5§5Накладывает драконивый-щит
+7§5Ускоряет регенерацию голода
+7§5наносимый и получаемый урон.
+8§5Увеличивает общую защиту в §6
+9§5Накладывает постоянные баффы
+9§5накопленный опыт обратно вам.
+9§5существ в радиусе 16-ти блоков.
+:§5Генерирует рандомные эффекты.
+;§5критического урона. Если атака
+<§5будет спасать Вам жизнь. Взамен
+=§5Обнуляет при ударе баффы своему
+=§5Увеличает скорость и с шансом 10%
+=§5отразите СВОЙ ЖЕ удар сами себе.
+>§5При нахождении в инвентаре, ядро
+>§5то при ударе Вам будут присвоены
+?§5Но, также есть вероятность что Вы
+@§5инвертировано, и он передаёт весь
+A§5Если у врага больше§6 85% §5здоровья
+A§5за §6RF§5 энергию и обнуляет старые.
+A§5скорость передвижения по воздуху.
+B§5С шансом §650% §5может отразить удар.
+B§5из инвентаря противника при ударе.
+B§5урон, равный разнице нанесённого и
+C§5то вы наносите гарантированные§6 50%
+D§5ваш опыт, пока остаётся в инвентаре.
+EU§5 в тик.
+E§5Если у Вас HP меньше чем у противника,
+E§5При каждом ударе, вы также получаете
+E§5Увеличает урон инверсивно вашим хп.
+E§5идет по мобу - он умирает с§6 1 §5удара
+F§5Конвертирует наносимый и получаемый
+F§5мгновенно контратакует, перемещаясь
+G§5Наносит случайное количество урона в
+H§5В режиме §6Извлечения§5, это поведение
+H§5Может хранить любое количество опыта.
+H§5С шансом§6 5%§5 при ударе разворачивает
+M§5Нажмите §6ПКМ§5, чтобы переключить режим.
+N§5Ухудшает проходимось ударов по носителю.
+O§5В режиме §6Поглощения§5, он поглощает весь
+O§5Увеличает урон луков/снарядов в§6 50 §5раз.
+Q§5Нажмите §6Shift§5+§6ПКМ§5, удерживая том, чтобы
+Q§5Накладывает пассивные эффекты при надетой
+U§5взгляд атакованного игрока в другую сторону.
+W§5Увеличает урон оружий из DraconicEvolution в§6 50 §5раз.
+X§5Не генерирует EU для ядер хаоса и надетой брони.
+\§5С шансом§6 10% §5при ударе телепортирует владельца
+item.ItemAntiInvisible.name=Аннулятор невидимок
+item.ItemArchersInfinityQuiver.name=Колчан Инфинити Лучника
+item.ItemArmorBoosterBase1.name=Усилитель Нано-Брони
+item.ItemArmorBoosterBase2.name=Усилитель Квант-Брони
+item.ItemBerserkersCirclet.name=Катализатор Берсерка
+item.ItemBuffAnnuler.name=Аннулятор Баффов
+item.ItemBuffsGenerator.name=Генератор рандомных эффектов
+item.ItemCoreofStealingPower.name=Ядро Кражи Силы
+item.ItemDamageAmplifier1.name=Усилитель урона 1-го уровня
+item.ItemDamageAmplifier2.name=Усилитель урона 2-го уровня
+item.ItemDamageAmplifier3.name=Усилитель урона 3-го уровня
+item.ItemDamageAmplifier4.name=Усилитель урона 4-го уровня
+item.ItemDamageAmplifier5.name=Усилитель урона 5-го уровня
+item.ItemDamageConverter.name=Конвертер Урона
+item.ItemDemonChestInfinity1.name=Демонический Нагрудник Бесконечности
+item.ItemDemonHelmetInfinity0.name=Демонический Шлем Бесконечности
+item.ItemDemonPantsInfinity2.name=Демонические Поножи Бесконечности
+item.ItemDemonShoesInfinity3.name=Демонические Ботинки Бесконечности
+item.ItemDemonSwordInfinity.name=Демонический Меч Бесконечности
+item.ItemDragonAnnihilator.name=Драконий Аннигилятор
+item.ItemEnergyMirror.name=Энергетическое Зеркало
+item.ItemEuGenerator1.name=Инвентарный EU-генератор 1-го уровня
+item.ItemEuGenerator2.name=Инвентарный EU-генератор 2-го уровня
+item.ItemEuGenerator3.name=Инвентарный EU-генератор 3-го уровня
+item.ItemEuGenerator4.name=Инвентарный EU-генератор 4-го уровня
+item.ItemEuGenerator5.name=Инвентарный EU-генератор 5-го уровня
+item.ItemHiraishin.name=Конденсатор Хирайшин
+item.ItemHiraishinBack.name=Обратный Конденсатор Хирайшин
+item.ItemKillerPowerKeeper.name=Хранитель Силы Убийцы
+item.ItemMiningCharm.name=Ускоритель Копания
+item.ItemNewChaosCore.name=Электролизированное Ядро Хаоса
+item.ItemParadox.name=Парадокс
+item.ItemProjectileAnnihilator.name=Аннигилятор Снарядов
+item.ItemProtectionAmplifier1.name=Усилитель защиты 1-го уровня
+item.ItemProtectionAmplifier2.name=Усилитель защиты 2-го уровня
+item.ItemProtectionAmplifier3.name=Усилитель защиты 3-го уровня
+item.ItemProtectionAmplifier4.name=Усилитель защиты 4-го уровня
+item.ItemProtectionAmplifier5.name=Усилитель защиты 5-го уровня
+item.ItemRegenerationBooster1.name=Ускоритель Регенерации 1-го уровня
+item.ItemRegenerationBooster2.name=Ускоритель Регенерации 2-го уровня
+item.ItemRegenerationBooster3.name=Ускоритель Регенерации 3-го уровня
+item.ItemRegenerationBooster4.name=Ускоритель Регенерации 4-го уровня
+item.ItemRegenerationBooster5.name=Ускоритель Регенерации 5-го уровня
+item.ItemSpeedBlitzGenerator.name=Скоростной Блиц-Генератор
+item.ItemTimeCatalyst.name=Катализатор Времени
+item.ItemTomeLawlessness.name=Том Беззакония
+item.ItemXPTome.name=Том Безграничной Мудрости
+item.ShiftTooltip.lore=Зажмите SHIFT, чтобы посмотреть подробнее.
+item.draconicevolution:ItemAmplifierRF.name=Усилитель RF
+item.draconicevolution:ItemDragonShield1LVL.name=Щит Дракона 1-го уровня
+item.draconicevolution:ItemDragonShield2LVL.name=Щит Дракона 2-го уровня
+item.draconicevolution:ItemDragonShield3LVL.name=Щит Дракона 3-го уровня
+item.draconicevolution:ItemParticleAccelerator.name=Ускоритель Частиц
+lolienergyrelics:item.demonic_infinity_catalyst.name=Демонический каталист бесконечности
+lolienergyrelics:item.demonic_infinity_dust.name=Демоническая пыль бесконечности
+lolienergyrelics:item.demonic_infinity_ingot.name=Демонический слиток бесконечности
+lolienergyrelics:item.demonic_infinity_nugget.name=Демонический самородок бесконечности
+tile.demonic_infinity_block.name=Демонический блок бесконечности
+§5 раз(а).
+§5Генерирует §6
+§5в вас снаряды.
+§6+1-10000 Урон
+§6Извлечение
+§6Неактивен
+§6Поглощение
+§6единиц, или
+§6уровней.
+§dТекущий режим:

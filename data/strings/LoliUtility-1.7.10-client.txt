@@ -1,0 +1,521 @@
+!Блокирующий режим
+!Генератор материи
+!ЗАПОЛНЕНИЕ МИКСОМ
+!Заполнение миксом
+!Настройки рюкзака
+!Промышленный улей
+!Скорость вращения
+!Умное копирование
+"Ссылка на картинку
+"Телепортироваться
+#Водяной накопитель
+#Настройки кисточки
+#Реагентная кузница
+#Совершенная пасека
+#Фабрика хладагента
+$Квантовое авто-сито
+$Сохранить все блоки
+%Автоматическое сито
+%Вулканический пресс
+%Квантовый конвертер
+%Настройки сохранены
+%Смена режима: §fShift + F
+%Циклический сборщик
+%Энтропийный реактор
+& для любых предметов.
+&§9# Выделение очищено
+' не настроен!
+'Автоматическая бочка
+'Автоматический молот
+'Копировать настройки
+'Копировать улучшения
+'Ледниковый осадитель
+'Плавильная установка
+'Разливочный механизм
+'Структура не найдена!
+(Легендарное авто-сито
+(Рамка для изображения
+)Автоматический подбор
+)Настройки установлены
+)Недостаточно ресурсов
+)Портативное хранилище
+)Солнечный опреснитель
+)Термальная центрифуга
+)Тип краски: §fНе выбран
+)Фитогенный светильник
+)Энергонный синтезатор
++Индукционная плавильня
++Легендарный репликатор
++Отсутствует улучшение:
++Промышленный смеситель
++Сброс выделения: §fShift + Z
++Совершенная центрифуга
+,Готовые пресеты фильтра
+,Лазерный сборочный стол
+-§7Shift для быстрой покупки
+-Алхимический синтезатор
+-Капиллярный наполнитель
+-Консервирующий механизм
+-Энергетический зарядник
+.Пробужденная адская печь
+/Быстрое выделение: §fShift + X
+/Индивидуальная настройка
+/Распределитель жидкостей
+/Рудопромывочный механизм
+/Сменить области работы: §f
+0Генератор твёрдой материи
+0Легендарный спавнер хаоса
+1Многоблочная структура 9x8x9
+1Преобразователь элементов
+1Преобразователь энергония
+2Промышленная доменная печь
+2Промышленный паровой котёл
+3§9# Режим работы сменен на: §6
+3Выделить вторую точку: §fПКМ
+3Выделить первую точку: §fЛКМ
+3Механизм не поддерживается.
+3Многоблочная структура 1х3х1
+3Многоблочная структура 3х3х2
+3Многоблочная структура 3х3х3
+3Многоблочная структура 3х5х3
+3Многоблочная структура 3х7х3
+3Многоблочная структура 5х5х5
+3Многоблочная структура 5х7х5
+3Многоблочная структура 9х5х9
+3Область работы изменена на:
+4Гелиосферный зарядный центр
+4Открыть интерфейс: §fShift + ПКМ
+4Улучшенный режущий механизм
+4Элементарная ядерная камера
+5Металлоформовочный механизм
+6§9# Выделен куб §67 на 7 §9блоков
+6Нажмите   ЛКМ, чтобы покрасить
+7Автоматический продвинутый QED
+8§9# Выделен куб §611 на 11 §9блоков
+8Внеземной преобразователь душ
+8Синтезатор магических слитков
+:Легендарный сборочный комплекс
+:Механический рунический алтарь
+;Настройка Белого/Чёрного списка
+<Нажмите Shift + ПКМ, чтобы настроить
+=Улучшенная версия сундука, имеет
+>Термоядерный плавильный комплекс
+>Элементарная термоядерная камера
+?Внеземной генератор энергии хаоса
+?Что-то мешает постройке структуры!
+@Автоматический магический верстак
+@Можно покрасить с помощью Кисточки
+BАктивация жезла: §fShift + ЛКМ (по блоку)
+BЭлементарный химический синтезатор
+DЭлементарный химический разложитель
+EПредмет, для хранения ресурсов.
+FПромышленный капиллярный наполнитель
+HПробужденная алхимическая конструкция
+HПробуждённая алхимическая конструкция
+IЗажмите §fShift §7для подробной информации
+IНажмите §fПКМ§7, чтобы открыть интерфейс
+JНе удалось загрузить модуль интеграции:
+LКристаллизационный охлаждающий комплекс
+NЛегендарный молекулярный преобразователь
+NНет структур, доступных для строительства!
+QЧто-то пошло не так! Нехватает нужного блока
+SМеханический рунический алтарь (продвинутый)
+UАвтоматический синтезатор магических слитков
+WЖидкостный/Твердотельный наполняющий механизм
+WНажмите §fЛКМ§7, чтобы покрасить блок или модель
+WУдаление NPC доступно только в творческом режиме
+X для хранения ресурсов. В каждом слоте хранит до
+XСтруктура не выбрана! Нажмите SHIFT+ПКМ для выбора.
+ZНевозможно активировать конструкцию со стороны:
+[Нажмите на кнопку автоподбора для переключения режима.
+]Что-то пошло не так! Неудалось достроить структуру!
+^Не возможно зафиксировать структуру! Что-то мешает.
+entity.CustomBohemite.name=Богемит
+entity.CustomChaosGuardian.name=Дракон Хаоса
+entity.CustomDragonEnd.name=Дракон Края
+entity.CustomEldritchWarden.name=Жуткий страж
+entity.CustomGalroid.name=Галроид
+entity.CustomRaglok.name=Раглок Годдур
+entity.CustomVamacheron.name=Вамашерон
+entity.CustomWither.name=Визер босс
+entity.loli_utility.npc_exchange.name=Торговец
+entity.loli_utility.npc_teleport.name=Путеводитель
+entity.loli_utility.training_dummy.name=Тренировочный манекен
+gui.conduit.item.blacklist=Чёрный список
+gui.conduit.item.ignoreMetaData=Игнорировать метаданные
+gui.conduit.item.matchMetaData=Соблюдать метаданные
+gui.conduit.item.whitelist=Белый список
+gui.installer.buildTooltip.text.failure=Не хватает ресурсов для постройки
+gui.installer.buildTooltip.text.success=Ресурсов достаточно
+gui.installer.button.build.title=Построить в мире
+gui.installer.structureComponents.label.title=Ресурсы для постройки
+gui.installer.textField.search.placeholder=Поиск
+gui.machine.button.retrieveall=Забрать все
+gui.machine.button.retrievelevel=Забрать 1
+gui.machine.button.retrievelevels=Забрать 10
+gui.machine.button.storeall=Отдать весь
+gui.machine.button.storelevel=Отдать 1
+gui.machine.button.storelevels=Отдать 10
+gui.machine.ioMode.overlay.tooltip.visible.line1=Shift-клик, чтобы сбросить все стороны
+gui.machine.ioMode.overlay.tooltip.visible.line2=на настройки по-умолчанию
+gui.machine.ioMode.overlay.tooltip=Настроить вход/выход
+gui.machine.tooltip.retrieveall=уровни опыта игрока
+gui.machine.tooltip.retrievelevel=уровень опыта игрока
+gui.machine.tooltip.retrievelevels=уровней опыта игрока
+gui.machine.tooltip.storeall=опыт игрока
+gui.machine.tooltip.storelevel=уровень опыта игрока
+gui.machine.tooltip.storelevels=уровней опыта игрока
+gui.tooltip.redstoneControlMode.ignore=Всегда активен
+gui.tooltip.redstoneControlMode.never=Всегда выключен
+gui.tooltip.redstoneControlMode.off=Активен без сигнала
+gui.tooltip.redstoneControlMode.on=Активен по сигналу
+gui.tooltip.redstoneControlMode=Режим красного камня
+gui.trade_o_mat.offer=Продажа:
+gui.trade_o_mat.stock=В наличии:
+gui.trade_o_mat.totalTrades0=Заключено
+gui.trade_o_mat.totalTrades1=Сделок:
+gui.trade_o_mat.want=Покупка:
+gui.travelAccessable.enterCode=Требуется код доступа
+gui.travelAccessable.ok=Авторизироваться
+gui.travelAccessable.private=Частный
+gui.travelAccessable.privateBlock1=Только
+gui.travelAccessable.privateBlock2=может управлять настройками этого блока.
+gui.travelAccessable.protected=Защищённый
+gui.travelAccessable.public=Общедоступный
+gui.travelAccessable.skipLocked=Закрытый якорь пропущен, используйте целевую телепортацию.
+gui.travelAccessable.skipObstructed=Заблокированный якорь пропущен.
+gui.travelAccessable.skipPrivate=Личный якорь пропущен.
+gui.travelAccessable.unauthorised=Вам запрещён доступ к этому блоку.
+gui.vacuum.header.chest=Вакуумный сундук
+gui.vacuum.header.filter=Предметный фильтр
+gui.vacuum.header.range=Дальность
+gui.vacuum.range=Сила всасывания
+hВы пытаетесь построить структуру слишком далеко от себя!
+hНажмите на кнопку со значком замочка, чтобы заблокировать доступ к рюкзаку другим игрокам.
+info.UpgradeFTInfinite1.txt=Отменяет затраты энергии
+info.UpgradeFTInfinite2.txt=в Преобразователь удачи
+info.UpgradeFTSmelting1.txt=Плавит руды по типу железо, золото
+info.UpgradeFTSmelting2.txt=и аналогичные руды в Преобразователь удачи
+info.UpgradeFTStack1.txt=Перерабатывает по 64 руды в каждом слоте
+info.UpgradeFTStack2.txt=за 1 операцию в Преобразователь удачи
+info.teleporterInfUnset1.txt=Кристалл не привязан
+info.teleporterInfUnset2.txt=Нажмите Shift + ПКМ,
+info.teleporterInfUnset3.txt=чтобы записать текущие координаты,
+info.teleporterInfUnset4.txt=а затем вставьте кристалл
+info.teleporterInfUnset5.txt=в плиту телепортации.
+item.CrystalTeleporter.name=Кристалл телепортации
+item.FortuneModuleX1.name=Модуль удачи (3 уровня)
+item.FortuneModuleX10.name=Модуль удачи (50 уровня)
+item.FortuneModuleX11.name=Модуль удачи (100 уровня)
+item.FortuneModuleX2.name=Модуль удачи (5 уровня)
+item.FortuneModuleX3.name=Модуль удачи (10 уровня)
+item.FortuneModuleX4.name=Модуль удачи (15 уровня)
+item.FortuneModuleX5.name=Модуль удачи (20 уровня)
+item.FortuneModuleX6.name=Модуль удачи (25 уровня)
+item.FortuneModuleX7.name=Модуль удачи (30 уровня)
+item.FortuneModuleX8.name=Модуль удачи (35 уровня)
+item.FortuneModuleX9.name=Модуль удачи (40 уровня)
+item.ItemFilter.name=Основной предметный фильтр
+item.UpgradeFTInfinite.name=Улучшение Бесконечный двигатель
+item.UpgradeFTSmelting.name=Улучшение Автоплавка
+item.UpgradeFTStack.name=Улучшение стак
+item.XpTransfer.name=Стержень опыта
+itemGroup.loli_utility.global=LoliUtility: Основное
+loli_utility:entity.npc_exchange_type1.name=Джейд
+loli_utility:entity.npc_exchange_type1_desc.name=Торговец
+loli_utility:entity.npc_exchange_type2.name=Эмбер
+loli_utility:entity.npc_exchange_type2_desc.name=Торговец
+loli_utility:entity.npc_exchange_type3.name=Скарлетт
+loli_utility:entity.npc_exchange_type3_desc.name=Торговец
+loli_utility:entity.npc_teleport.name=Вайолет
+loli_utility:entity.npc_teleport_desc.name=Мастер телепортации
+loli_utility:item.amethyst_shard.name=Аметист
+loli_utility:item.big_bag.name=Большой рюкзак
+loli_utility:item.brush.name=Кисточка
+loli_utility:item.builder_wand_creative.name=Творческий жезл строителя
+loli_utility:item.builder_wand_normal.name=Обычный жезл строителя
+loli_utility:item.builder_wand_universal_1.name=Универсальный жезл строителя
+loli_utility:item.builder_wand_universal_2.name=Универсальный жезл строителя
+loli_utility:item.builder_wand_universal_3.name=Универсальный жезл строителя
+loli_utility:item.builder_wand_universal_4.name=Универсальный жезл строителя
+loli_utility:item.chest_upgrade_amethyst_obsidian.name=Улучшение Аметистовый > Обсидиановый сундук
+loli_utility:item.chest_upgrade_copper_iron.name=Улучшение Медный > Железный сундук
+loli_utility:item.chest_upgrade_diamond_amethyst.name=Улучшение Алмазный > Аметистовый сундук
+loli_utility:item.chest_upgrade_emerald_netherite.name=Улучшение Изумрудный > Незеритовый сундук
+loli_utility:item.chest_upgrade_gold_lapis.name=Улучшение Золотой > Лазуритовый сундук
+loli_utility:item.chest_upgrade_iron_quartz.name=Улучшение Железный > Кварцевый сундук
+loli_utility:item.chest_upgrade_lapis_redstone.name=Улучшение Лазуритовый > Сундук из красного камня
+loli_utility:item.chest_upgrade_obsidian_emerald.name=Улучшение Обсидиановый > Изумрудный сундук
+loli_utility:item.chest_upgrade_quartz_gold.name=Улучшение Кварцевый > Золотой сундук
+loli_utility:item.chest_upgrade_redstone_diamond.name=Улучшение Сундук из красного камня > Алмазный сундук
+loli_utility:item.medium_bag.name=Средний рюкзак
+loli_utility:item.npc_exchange.name=NPC торговец
+loli_utility:item.npc_teleport.name=NPC путеводитель
+loli_utility:item.setting_duplicator.name=Дубликатор настроек
+loli_utility:item.small_bag.name=Малый рюкзак
+loli_utility:item.structure_builder.name=Строитель мультиструктур
+loli_utility:item.subject_case_amethyst.name=Amethyst кейс
+loli_utility:item.subject_case_copper.name=Copper кейс
+loli_utility:item.subject_case_default.name=Default кейс
+loli_utility:item.subject_case_diamond.name=Diamond кейс
+loli_utility:item.subject_case_emerald.name=Emerald кейс
+loli_utility:item.subject_case_gold.name=Gold кейс
+loli_utility:item.subject_case_iron.name=Iron кейс
+loli_utility:item.subject_case_lapis.name=Lapis кейс
+loli_utility:item.subject_case_netherite.name=Netherite кейс
+loli_utility:item.subject_case_obsidian.name=Obsidian кейс
+loli_utility:item.subject_case_quartz.name=Quartz кейс
+loli_utility:item.subject_case_redstone.name=Redstone кейс
+loli_utility:item.training_dummy.name=Тренировочный манекен
+loli_utility:key.tool_size_change=Смена области работы инструмента
+loli_utility:misc.shape.cuboid.text=Параллелепипед
+loli_utility:misc.shape.cylinder.text=Цилиндр
+loli_utility:misc.shape.ellipsoid.text=Эллипсоид
+loli_utility:misc.shape.full_cuboid.text=Параллелепипед
+loli_utility:misc.shape.hexagon.text=Шестиугольник
+loli_utility:misc.shape.octagon.text=Восьмиугольник
+loli_utility:misc.shape.pentagon.text=Пятиугольник
+loli_utility:misc.shape.semi_ellipsoid.text=Полуэллипсоид
+loli_utility:misc.shape.triangle.text=Треугольник
+loli_utility:palette.color_group0.name=Оранжевые оттенки
+loli_utility:palette.color_group0_shade0.name=Янтарный
+loli_utility:palette.color_group0_shade1.name=Тыквенный
+loli_utility:palette.color_group0_shade2.name=Лимонный
+loli_utility:palette.color_group0_shade3.name=Персиковый
+loli_utility:palette.color_group0_shade4.name=Жженая охра
+loli_utility:palette.color_group0_shade5.name=Терракотовый
+loli_utility:palette.color_group0_shade6.name=Облепиховый
+loli_utility:palette.color_group1.name=Красные оттенки
+loli_utility:palette.color_group1_shade0.name=Красный закат
+loli_utility:palette.color_group1_shade1.name=Бордовый
+loli_utility:palette.color_group1_shade2.name=Сангрия
+loli_utility:palette.color_group1_shade3.name=Рубиновый
+loli_utility:palette.color_group1_shade4.name=Малиновый
+loli_utility:palette.color_group1_shade5.name=Ягодный
+loli_utility:palette.color_group1_shade6.name=Вишневый
+loli_utility:palette.color_group2.name=Розовые оттенки
+loli_utility:palette.color_group2_shade0.name=Розовая фуксия
+loli_utility:palette.color_group2_shade1.name=Сливовый
+loli_utility:palette.color_group2_shade2.name=Фламинго
+loli_utility:palette.color_group2_shade3.name=Розово-коралловый
+loli_utility:palette.color_group2_shade4.name=Маджента
+loli_utility:palette.color_group2_shade5.name=Неоново-розовый
+loli_utility:palette.color_group2_shade6.name=Темная фуксия
+loli_utility:palette.color_group3.name=Фиолетовые оттенки
+loli_utility:palette.color_group3_shade0.name=Лиловый
+loli_utility:palette.color_group3_shade1.name=Фиалковый
+loli_utility:palette.color_group3_shade2.name=Неоново-пурпурный
+loli_utility:palette.color_group3_shade3.name=Дымчато-фиолетовый
+loli_utility:palette.color_group3_shade4.name=Аметистовый
+loli_utility:palette.color_group3_shade5.name=Фиолетовый индиго
+loli_utility:palette.color_group3_shade6.name=Звездная ночь
+loli_utility:palette.color_group4.name=Синие оттенки
+loli_utility:palette.color_group4_shade0.name=Сине-голубой
+loli_utility:palette.color_group4_shade1.name=Электрический синий
+loli_utility:palette.color_group4_shade2.name=Морская волна
+loli_utility:palette.color_group4_shade3.name=Сапфировый
+loli_utility:palette.color_group4_shade4.name=Электрический индиго
+loli_utility:palette.color_group4_shade5.name=Кобальт
+loli_utility:palette.color_group4_shade6.name=Графитовый синий
+loli_utility:palette.color_group5.name=Голубые оттенки
+loli_utility:palette.color_group5_shade0.name=Ярко-голубой
+loli_utility:palette.color_group5_shade1.name=Лазурный
+loli_utility:palette.color_group5_shade2.name=Морская пена
+loli_utility:palette.color_group5_shade3.name=Ультрамарин
+loli_utility:palette.color_group5_shade4.name=Небесно-голубой
+loli_utility:palette.color_group5_shade5.name=Неоново-сине-зеленый
+loli_utility:palette.color_group5_shade6.name=Грозовая буря
+loli_utility:palette.color_group6.name=Бирюзовые оттенки
+loli_utility:palette.color_group6_shade0.name=Электрический зеленый
+loli_utility:palette.color_group6_shade1.name=Нефритовый
+loli_utility:palette.color_group6_shade2.name=Хвойный
+loli_utility:palette.color_group6_shade3.name=Изумрудный
+loli_utility:palette.color_group6_shade4.name=Стальной сине-зеленый
+loli_utility:palette.color_group6_shade5.name=Графитовый сине-зеленый
+loli_utility:palette.color_group6_shade6.name=Малахитовый
+loli_utility:palette.color_group7.name=Зеленые оттенки
+loli_utility:palette.color_group7_shade0.name=Салатовый
+loli_utility:palette.color_group7_shade1.name=Веридиан
+loli_utility:palette.color_group7_shade2.name=Оливковый
+loli_utility:palette.color_group7_shade3.name=Лаймовый
+loli_utility:palette.color_group7_shade4.name=Травяной
+loli_utility:palette.color_group7_shade5.name=Лесной зеленый
+loli_utility:palette.color_group7_shade6.name=Матрица
+loli_utility:palette.color_group8.name=Серые оттенки
+loli_utility:palette.color_group8_shade0.name=Пепельный белый
+loli_utility:palette.color_group8_shade1.name=Призрачый белый
+loli_utility:palette.color_group8_shade2.name=Камея
+loli_utility:palette.color_group8_shade3.name=Облачно-белый
+loli_utility:palette.color_group8_shade4.name=Серый
+loli_utility:palette.color_group8_shade5.name=Стальной серый
+loli_utility:palette.color_group8_shade6.name=Графитовый серый
+loli_utility:palette.color_group_none.name=Неизвестные оттенки
+loli_utility:palette.color_none.name=Цвет не выбран
+loli_utility:palette.light0.name=Без свечения
+loli_utility:palette.light1.name=Флуоресцентная краска
+loli_utility:palette.light2.name=Светящаяся краска
+loli_utility:palette.style0.name=По умолчанию
+loli_utility:palette.style1.name=Стиль #1
+loli_utility:tile.advanced_chest_amethyst.name=Аметистовый сундук
+loli_utility:tile.advanced_chest_amethyst_crystal.name=Кристальный аметистовый сундук
+loli_utility:tile.advanced_chest_copper.name=Медный сундук
+loli_utility:tile.advanced_chest_copper_crystal.name=Кристальный медный сундук
+loli_utility:tile.advanced_chest_diamond.name=Алмазный сундук
+loli_utility:tile.advanced_chest_diamond_crystal.name=Кристальный алмазный сундук
+loli_utility:tile.advanced_chest_emerald.name=Изумрудный сундук
+loli_utility:tile.advanced_chest_emerald_crystal.name=Кристальный изумрудный сундук
+loli_utility:tile.advanced_chest_gold.name=Золотой сундук
+loli_utility:tile.advanced_chest_gold_crystal.name=Кристальный золотой сундук
+loli_utility:tile.advanced_chest_iron.name=Железный сундук
+loli_utility:tile.advanced_chest_iron_crystal.name=Кристальный железный сундук
+loli_utility:tile.advanced_chest_lapis.name=Лазуритный сундук
+loli_utility:tile.advanced_chest_lapis_crystal.name=Кристальный лазуритный сундук
+loli_utility:tile.advanced_chest_netherite.name=Незеритовый сундук
+loli_utility:tile.advanced_chest_netherite_crystal.name=Кристальный незеритовый сундук
+loli_utility:tile.advanced_chest_obsidian.name=Обсидиановый сундук
+loli_utility:tile.advanced_chest_obsidian_crystal.name=Кристальный обсидиановый сундук
+loli_utility:tile.advanced_chest_quartz.name=Кварцевый сундук
+loli_utility:tile.advanced_chest_quartz_crystal.name=Кристальный кварцевый сундук
+loli_utility:tile.advanced_chest_redstone.name=Сундук из красного камня
+loli_utility:tile.advanced_chest_redstone_crystal.name=Кристальный сундук из красного камня
+loli_utility:tile.amethyst_block.name=Аметистовый блок
+loli_utility:tile.angel_block.name=Ангельский блок
+loli_utility:tile.armor_stand.name=Стойка для брони
+loli_utility:tile.big_pedestal.name=Большой пьедестал
+loli_utility:tile.builder.name=Строитель
+loli_utility:tile.compressed_chest.name=Сжатый сундук
+loli_utility:tile.elevator.name=Лифт
+loli_utility:tile.event_end_stone.name=Ивентовый блок: Ендерняк
+loli_utility:tile.event_snow.name=Ивентовый блок: Снег
+loli_utility:tile.frame.name=Рамка
+loli_utility:tile.glowing_barrier.name=Световой барьер
+loli_utility:tile.infinity_chest.name=Сундук Бесконечности
+loli_utility:tile.obelisk_experience.name=Обелиск опыта
+loli_utility:tile.painting_table.name=Стол для покраски
+loli_utility:tile.picture_frame.name=Рамка для изображения
+loli_utility:tile.public_chest.name=Публичный сундук
+loli_utility:tile.small_pedestal.name=Маленький пьедестал
+loli_utility:tile.spectral_door.name=Спектральная дверь
+loli_utility:tile.spectral_platform.name=Спектральная платформа
+loli_utility:tile.structural.name=Структурный блок
+loli_utility:tile.teleport.name=Плита телепортации
+loli_utility:tile.trade_o_mat.name=Торговый аппарат
+loli_utility:tile.translucent.name=Восстанавливающийся блок
+loli_utility:tile.travel_anchor.name=Якорь путешествия
+loli_utility:tile.vacuum_chest.name=Вакуумный сундук
+msg.teleporterBound.txt=§aКристалл привязан к:
+structure.category.defense=Защита
+structure.category.energy=Энергия
+structure.category.teleport=Телепортация
+tile.Barrier.name=Барьер
+tile.ChargingPlateEU.name=Плита зарядки EU
+tile.ChargingPlateMana.name=Плита зарядки Маны
+tile.ChargingPlateRF.name=Плита зарядки RF
+tile.ChargingPlateWand.name=Плита зарядки Жезлов
+tile.FortuneTransformer.name=Преобразователь удачи
+tile.Hologram.name=Голограмма
+tile.InvisibilityDispel.name=Блок снимающий эффект невидимости
+tile.Regeneration.name=Блок регенерации
+tile.Reservoir.name=Резервуар
+wВыбранная область будет изменена согласно выбранным параметрам.
+xНе удалось активировать структура. Отсутствует изучение 'THAUMATORIUM'!
+{Не удалось активировать структура. Отсутствует изучение 'INFERNALFURNACE'!
+{При включении автоматически настраивает улучшения на нужный режим
+§6# Выделено
+§6Содержит: §a
+§6Статус:
+§aЗапечатан
+§c# Кейс '
+§cОткрыт
+§eБыстрая покупка
+Безопасный режим
+Белый список - подбирать только те, предметы, что указаны в слотах выше.
+В заблокированном состоянии только владелец может открывать рюкзак и взаимодействовать с его ресурсами.
+Включен
+Во включённом состоянии рюкзак автоматически будет складывать подобранные предметы в свой инвентарь согласно настроенным фильтрам.
+Всего выделено:
+Выбранный блок: §f
+Выключен
+Высота
+Гемотрансмутатор
+Голограмма
+Даёт возможность блокировать доступ к рюкзаку от посторонних игроков, автоматически помещать подобранные предметы в рюкзак, а также настраивать фильтры подбора.
+Длина
+Для настройки слотов просто переместите нужный предмет в любой из слотов настроек рюкзака.
+Доменная печь
+Дробитель
+ЗАПОЛНЕНИЕ
+Закалочная ванна
+Заполнение
+Измельчитель
+Имеет
+Ключ:
+Коксовая печь
+Компрессор
+Копировать всё
+Красная печь
+Лесопилка
+Магмовый тигель
+Мультитеплица
+Нажмите
+Нажмите на левую нижнюю кнопку со значком воронки для переключения режима фильтра.
+Нажмите на любую из кнопок в правом нижнем углу для включения уже готового шаблона фильтра.
+Настройки
+ОЧИСТКА
+Область работы:
+Область работы: §f
+Облачная печь
+Ожидание:
+Отмена
+Отображение
+Отсутствует:
+Очистка
+Подробнее можно узнать в описании при наведении на каждый пресет.
+Поисковик
+Помпа
+Продолжить
+Пчелиная фабрика
+Размер предмета
+Размер текста
+Размер:
+Рамка:
+Реактор хаоса
+Режим
+Режим наблюдения
+Режим работы: §6
+Режим: §6
+Режущий механизм
+Репликатор
+Сборочный цех
+Сгуститель
+Сервомеханизм
+Смеситель
+Совершить обмен
+Сохранить
+Спавнер хаоса
+Сплавная печь
+Стиль: §f
+Стиль: §fНе выбран
+Стол наполнения
+Тип краски: §f
+Торговец
+Удалить
+Умный режим: §6
+Уровень: §6
+Утилизатор
+Фильтр
+Цвет: §f
+Цвет: §fНе выбран
+Чёрный список - подбирать всё, кроме предметов из слотов выше.
+Ширена
+Ширина
+Экстрактор
+Электропечь
+блока
+блоков
+не выбран
+предметов.
+слота
+слотов
+стакa
+стаков

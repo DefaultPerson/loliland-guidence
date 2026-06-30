@@ -1,0 +1,9 @@
+itemGroup.tabLWSL=LWSL Mod
+tile.structure_transience.name=Structural Transience
+tile.structure_air.name=Structural Air
+tile.cold_structure_air.name=Cold Structural Air
+tile.structure_red.name=Red Structure
+tile.structure_green.name=Green Structure
+tile.structure_blue.name=Blue Structure
+tile.hypothetical_snow.name=Hypothetical Snow
+item.structure_selector.name=Structure Selector
