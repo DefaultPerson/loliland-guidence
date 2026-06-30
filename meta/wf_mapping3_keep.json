@@ -6,5 +6,8 @@
 "Жидкостная Нейтрониевая сингулярность": "lolienergistics::items/singularity/molten_neutronium",
 "Стабилизированный спаунер": "minecraft::blocks/mob_spawner",
 "Микрозвезда: Солнце": "lolienergistics::misc/microstar/sun/normal/glow",
-"Микрозвезда: Zodius": "lolienergistics::misc/microstar/zodius/normal/glow"
+"Микрозвезда: Zodius": "lolienergistics::misc/microstar/zodius/normal/glow",
+"Сканер": "ic2::items/itemScanner",
+"Водяное колесо": "lolienergistics::items/consumable/part_waterwheel",
+"Энергонный синтезатор": "lolienergistics::blocks/energon_synthesizer_core"
 }
