@@ -24,10 +24,10 @@ for s in sections:
                 "items": [], "serverNote": "", "coop": "", "optional": True})
 
 # --- курированная модель волн/треков/параллельности (prereqKeys агентов шумные, не используем) ---
-PHASE = {"start": 1, "tinkers": 2, "processing": 2, "thaumcraft": 3, "botania": 3, "bloodmagic": 3,
+PHASE = {"lifehacks": 1, "start": 1, "tinkers": 2, "processing": 2, "thaumcraft": 3, "botania": 3, "bloodmagic": 3,
          "bees": 3, "ae2": 3, "mekanism": 3, "energistics": 3, "dimensions": 3,
          "draconic": 4, "dragons": 4, "relics_elements": 4, "avaritia": 5}
-TRACK = {"start": "base", "tinkers": "tech", "processing": "tech", "ae2": "tech", "mekanism": "tech",
+TRACK = {"lifehacks": "base", "start": "base", "tinkers": "tech", "processing": "tech", "ae2": "tech", "mekanism": "tech",
          "energistics": "tech", "thaumcraft": "magic", "botania": "magic", "bloodmagic": "magic",
          "bees": "magic", "dimensions": "explore", "draconic": "endgame", "dragons": "endgame",
          "relics_elements": "endgame", "avaritia": "endgame"}

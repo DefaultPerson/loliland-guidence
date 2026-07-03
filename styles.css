@@ -275,6 +275,14 @@ button { font-family: inherit; }
 .note-opt b { color: #7ee0b8; }
 .note-kit { background: rgba(231, 192, 105, .08); border: 1px solid rgba(231, 192, 105, .3); border-left: 3px solid var(--n-kit); }
 .note-kit b { color: #f0d28a; }
+.note-trap { background: rgba(240, 150, 80, .09); border: 1px solid rgba(240, 150, 80, .32); border-left: 3px solid #f0964e; }
+.note-trap b { color: #f5b184; }
+.note-skip { background: rgba(120, 200, 220, .08); border: 1px solid rgba(120, 200, 220, .28); border-left: 3px solid #78c8dc; }
+.note-skip b { color: #9fd8e6; }
+.note-tipv { background: rgba(180, 150, 230, .08); border: 1px solid rgba(180, 150, 230, .28); border-left: 3px solid #b496e6; }
+.note-tipv b { color: #c9b3f0; }
+.note-trick { background: rgba(90, 200, 190, .08); border: 1px solid rgba(90, 200, 190, .28); border-left: 3px solid #5ac8be; }
+.note-trick b { color: #86ddd3; }
 .task-tools { margin-top: 11px; }
 .note-btn { background: none; border: none; cursor: pointer; font: 500 11px var(--fmono); color: var(--dim); display: inline-flex; align-items: center; gap: 5px; padding: 0; }
 .note-btn:hover { color: var(--mut); }

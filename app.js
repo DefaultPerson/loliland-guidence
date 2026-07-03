@@ -36,6 +36,7 @@
 
   /* game-asset icon per stage (extracted client textures) */
   var STAGE_ICON = {
+    lifehacks: "icons/lolienergyrelics_ItemXPTome.png",
     start: "icons/divinerpg_wildwoodPickaxe.png",
     tinkers: "icons/ThermalExpansion_wrench.png",
     processing: "icons/ThermalExpansion_Cell.png",
@@ -310,6 +311,10 @@
     if (st.coop && String(st.coop).trim()) body.appendChild(noteBox("coop", "users", "Кооп", st.coop));
     if (st.opt && String(st.opt).trim()) body.appendChild(noteBox("opt", "zap", "Оптимизация", st.opt));
     if (st.kit && String(st.kit).trim()) body.appendChild(noteBox("kit", "package", "С привилегией", st.kit));
+    if (st.trap && String(st.trap).trim()) body.appendChild(noteBox("trap", "triangle-alert", "Грабли — не повторяй", st.trap));
+    if (st.skip && String(st.skip).trim()) body.appendChild(noteBox("skip", "scissors", "Скип", st.skip));
+    if (st.trick && String(st.trick).trim()) body.appendChild(noteBox("trick", "zap", "Хитрость / дюп", st.trick));
+    if (st.tipv && String(st.tipv).trim()) body.appendChild(noteBox("tipv", "lightbulb", "Совет из комментов", st.tipv));
     var tools = el("div", "task-tools");
     var nb = el("button", "note-btn"); nb.type = "button"; nb.innerHTML = (notes[st._id] ? ico("square-pen") : ico("pencil")) + " заметка";
     var ta = el("textarea", "mynote" + (notes[st._id] ? " show" : "")); ta.placeholder = "Личная заметка к шагу…"; ta.value = notes[st._id] || "";
