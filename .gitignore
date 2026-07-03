@@ -34,3 +34,11 @@ Thumbs.db
 *.swp
 .idea/
 .vscode/
+
+# Node (jsdom render-test only)
+node_modules/
+package.json
+package-lock.json
+
+# user-dropped subtitle export (raw)
+*DownSub*.txt
