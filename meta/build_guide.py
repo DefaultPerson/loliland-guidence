@@ -26,10 +26,10 @@ for s in sections:
 # --- курированная модель волн/треков/параллельности (prereqKeys агентов шумные, не используем) ---
 # ae2 -> волна 2 (общий фундамент: hard-prereq для thaumcraft/bloodmagic/dimensions, в видео с ~10%);
 # bees -> волна 4 (hard-prereq draconic: Драконье слияние для машин Gendustry + ~600 квантовых стёкол)
-PHASE = {"lifehacks": 1, "start": 1, "tinkers": 2, "processing": 2, "ae2": 2, "thaumcraft": 3, "botania": 3,
+PHASE = {"start": 1, "tinkers": 2, "processing": 2, "ae2": 2, "thaumcraft": 3, "botania": 3,
          "bloodmagic": 3, "bees": 4, "mekanism": 3, "energistics": 3, "dimensions": 3,
          "draconic": 4, "dragons": 4, "relics_elements": 4, "avaritia": 5}
-TRACK = {"lifehacks": "base", "start": "base", "tinkers": "tech", "processing": "tech", "ae2": "tech", "mekanism": "tech",
+TRACK = {"start": "base", "tinkers": "tech", "processing": "tech", "ae2": "tech", "mekanism": "tech",
          "energistics": "tech", "thaumcraft": "magic", "botania": "magic", "bloodmagic": "magic",
          "bees": "magic", "dimensions": "explore", "draconic": "endgame", "dragons": "endgame",
          "relics_elements": "endgame", "avaritia": "endgame"}

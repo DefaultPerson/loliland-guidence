@@ -36,7 +36,6 @@
 
   /* game-asset icon per stage (extracted client textures) */
   var STAGE_ICON = {
-    lifehacks: "icons/lolienergyrelics_ItemXPTome.png",
     start: "icons/divinerpg_wildwoodPickaxe.png",
     tinkers: "icons/ThermalExpansion_wrench.png",
     processing: "icons/ThermalExpansion_Cell.png",
