@@ -7,10 +7,12 @@
  "estTime": "16 часов видео / ~10-14 вечеров: ядра дракона и дюп руды → тиры инжекторов и преобразователь душ → кастомные души драконов → печать Озанора и творческая ячейка → демонический дракон Бесконечности",
  "prereqKeys": [
   "draconic",
-  "ae2",
-  "energy",
-  "bees",
-  "avaritia"
+  "dimensions",
+  "energistics",
+  "mekanism",
+  "thaumcraft",
+  "botania",
+  "bloodmagic"
  ],
  "steps": [
   {
