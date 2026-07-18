@@ -42,3 +42,5 @@ package-lock.json
 
 # user-dropped subtitle export (raw)
 *DownSub*.txt
+/game_new/
+/game_old/
