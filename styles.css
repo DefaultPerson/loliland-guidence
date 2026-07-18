@@ -283,6 +283,14 @@ button { font-family: inherit; }
 .note-tipv b { color: #c9b3f0; }
 .note-trick { background: rgba(90, 200, 190, .08); border: 1px solid rgba(90, 200, 190, .28); border-left: 3px solid #5ac8be; }
 .note-trick b { color: #86ddd3; }
+.wipe-banner { position: relative; margin: 14px 0 4px; padding: 12px 40px 12px 14px; border-radius: 12px;
+  font: 400 13px/1.55 var(--fbody); color: var(--desc);
+  background: rgba(240, 150, 80, .10); border: 1px solid rgba(240, 150, 80, .38); border-left: 4px solid #f0964e; }
+.wipe-banner > .ico { width: 14px; height: 14px; vertical-align: -2px; color: #f5b184; }
+.wipe-banner b { color: #f5b184; }
+.wipe-x { position: absolute; top: 8px; right: 8px; background: none; border: none; cursor: pointer; color: var(--dim); padding: 4px; }
+.wipe-x:hover { color: var(--mut); }
+.wipe-x .ico { width: 14px; height: 14px; }
 .task-tools { margin-top: 11px; }
 .note-btn { background: none; border: none; cursor: pointer; font: 500 11px var(--fmono); color: var(--dim); display: inline-flex; align-items: center; gap: 5px; padding: 0; }
 .note-btn:hover { color: var(--mut); }

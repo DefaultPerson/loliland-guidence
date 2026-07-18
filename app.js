@@ -100,6 +100,13 @@
   function renderMap() {
     var root = $("#view-map"); root.innerHTML = "";
     var wrap = el("div", "wrap");
+    if (G.meta && G.meta.wipeBanner && !load("wipeban.18072026", false)) {
+      var wb = el("div", "wipe-banner", ico("triangle-alert") + " <b>Вайп!</b> " + esc(G.meta.wipeBanner));
+      var wx = el("button", "wipe-x", ico("x")); wx.type = "button"; wx.setAttribute("aria-label", "Скрыть");
+      wx.onclick = function () { save("wipeban.18072026", true); wb.remove(); };
+      wb.appendChild(wx);
+      wrap.appendChild(wb);
+    }
     wrap.appendChild(heroNode());
     var waves = el("div", "waves");
     PHASE_LIST.forEach(function (ph) { waves.appendChild(waveNode(ph)); });
