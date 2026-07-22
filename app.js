@@ -16,11 +16,11 @@
 
   /* ---------- static config ---------- */
   var WAVES = {
-    1: { name: "Старт", sub: "Фундамент — проходится первым." },
-    2: { name: "Ранняя техника", sub: "Инструменты, базовая обработка и базовая AE2-автоматизация — фундамент для обеих веток; можно вести параллельно." },
-    3: { name: "Развитие — параллельные ветки", sub: "Эти этапы проходятся одновременно. Вдвоём удобно делить: техник углубляет автоматизацию (LoliEnergistics, Mekanism, энергия) поверх базовой AE2, магик ведёт Таумкрафт -> Botania -> кровь." },
-    4: { name: "Эндгейм-сборка", sub: "Сходятся ветки: энергия, драконы, пчёлы-хаб, реликвии — частично параллелятся." },
-    5: { name: "Финал", sub: "«Дорога к Бесконечному» — собирается из всего предыдущего." }
+    1: { name: "Старт и обустройство", sub: "База, киты, первые инструменты, шахта по трём мирам, книга квестов." },
+    2: { name: "Ранняя техника", sub: "IC2-энергия и машины, первая ME-сеть и автокрафт, руда 1:6, наносет → квант." },
+    3: { name: "Развитие", sub: "Техника и магия параллельно: Таумкрафт, Ботания, Кровь, измерения, глубокая автоматизация. Вдвоём — делите ветки по кооп-заметкам шагов." },
+    4: { name: "Эндгейм-сборка", sub: "Draconic, драконы и души, пчёлы, реликвии, панели высоких тиров, нейтроний." },
+    5: { name: "Финал", sub: "«Дорога к Бесконечному»: Катализатор -> Слиток -> Infinity-сет -> THE TRUE END." }
   };
   var TRACK = {
     base: { v: "--t-base", label: "Старт" },
@@ -36,21 +36,11 @@
 
   /* game-asset icon per stage (extracted client textures) */
   var STAGE_ICON = {
-    start: "icons/divinerpg_wildwoodPickaxe.png",
-    tinkers: "icons/ThermalExpansion_wrench.png",
-    processing: "icons/ThermalExpansion_Cell.png",
-    thaumcraft: "icons/Thaumcraft_blockTable.png",
-    botania: "icons/Botania_blackLotus.png",
-    dimensions: "icons/lolidimensions_end_portal_eye.png",
-    bloodmagic: "icons/lolimagically_blood_crystal.png",
-    ae2: "icons/lolienergistics_niobium_chip.png",
-    energistics: "icons/lolienergistics_quantum_core.png",
-    mekanism: "icons/uniresources_ingotMithril.png",
-    bees: "icons/Forestry_beeCombs.png",
-    draconic: "icons/DraconicEvolution_draconicCore.png",
-    dragons: "icons/lolidimensions_dragon_heart.png",
-    relics_elements: "icons/lolienergyrelics_ItemNewChaosCore.png",
-    avaritia: "icons/Avaritia_Crystal_Matrix.png"
+    stage1: "icons/divinerpg_wildwoodPickaxe.png",
+    stage2: "icons/lolienergistics_niobium_chip.png",
+    stage3: "icons/Botania_blackLotus.png",
+    stage4: "icons/lolidimensions_dragon_heart.png",
+    stage5: "icons/Avaritia_Crystal_Matrix.png"
   };
 
   /* ---------- ordered sections + stable step ids (preserve saved progress) ---------- */
