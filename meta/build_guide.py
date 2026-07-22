@@ -23,9 +23,10 @@ for s in sections:
                 "title": txt, "detail": "(добавлено для полноты — проверь в игре)",
                 "items": [], "serverNote": "", "coop": "", "optional": True})
 
-# --- 5 линейных этапов-квестов (реструктуризация 2026-07: вместо мод-разделов) ---
-PHASE = {"stage1": 1, "stage2": 2, "stage3": 3, "stage4": 4, "stage5": 5}
-TRACK = {"stage1": "base", "stage2": "tech", "stage3": "magic", "stage4": "endgame", "stage5": "endgame"}
+# --- 7 линейных этапов-квестов (5->7: этапы «Развитие» и «Эндгейм» разрезаны по вехам) ---
+PHASE = {"stage1": 1, "stage2": 2, "stage3": 3, "stage4": 4, "stage5": 5, "stage6": 6, "stage7": 7}
+TRACK = {"stage1": "base", "stage2": "tech", "stage3": "magic", "stage4": "magic",
+         "stage5": "endgame", "stage6": "tech", "stage7": "endgame"}
 for s in sections:
     ph = PHASE.get(s["key"], 3)
     s["phase"] = ph
