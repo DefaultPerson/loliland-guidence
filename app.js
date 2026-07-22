@@ -18,7 +18,7 @@
   var WAVES = {
     1: { name: "Старт и обустройство", sub: "База, киты, первые инструменты, шахта по трём мирам, книга квестов." },
     2: { name: "Ранняя техника", sub: "IC2-энергия и машины, первая ME-сеть и автокрафт, руда 1:6, наносет → квант." },
-    3: { name: "Развитие", sub: "Техника и магия параллельно: Таумкрафт, Ботания, Кровь, измерения, глубокая автоматизация. Вдвоём — делите ветки по кооп-заметкам шагов." },
+    3: { name: "Развитие", sub: "Техника и магия параллельно: Таумкрафт, Ботания, Кровь, измерения, глубокая автоматизация. Втроём: А ведёт технику, Б — магию, В — снабжение (роли в кооп-заметках шагов)." },
     4: { name: "Эндгейм-сборка", sub: "Draconic, драконы и души, пчёлы, реликвии, панели высоких тиров, нейтроний." },
     5: { name: "Финал", sub: "«Дорога к Бесконечному»: Катализатор -> Слиток -> Infinity-сет -> THE TRUE END." }
   };
@@ -29,8 +29,15 @@
     explore: { v: "--t-explore", label: "Исслед." },
     endgame: { v: "--t-endgame", label: "Эндгейм" }
   };
-  var ROLE = { tech: { l: "A · техника", i: "server" }, magic: { l: "B · магия", i: "zap" } };
-  function roleOf(t) { return ROLE[t] || { l: "оба игрока", i: "users" }; }
+  /* кооп на троих: А играет много (критический путь), Б средне (магия), В мало (пассив/снабжение) */
+  var STAGE_ROLE = {
+    stage1: "все вместе · В: кейсы и свои квесты",
+    stage2: "ведёт А · Б помогает · В: кейсы/экономика",
+    stage3: "А: техника · Б: магия · В: снабжение",
+    stage4: "А+Б: сборка · В: пчёлы и фермы",
+    stage5: "финал: все · В: каталики и кейсы"
+  };
+  function roleOf(s) { return { l: STAGE_ROLE[s.key] || "втроём — роли в кооп-заметках шагов", i: "users" }; }
   function trk(s) { return TRACK[s.track] || TRACK.tech; }
   function trackC(s) { return "var(" + trk(s).v + ")"; }
 
@@ -141,7 +148,7 @@
     head.appendChild(el("span", "wave-no", "Волна " + ph));
     head.appendChild(el("span", "wave-name", esc(w.name)));
     head.appendChild(el("span", "wave-pct", wavePct(secs) + "%"));
-    if (secs.some(function (s) { return s.parallel; })) head.appendChild(el("span", "wave-par", ico("arrow-left-right") + " параллельно — вдвоём"));
+    if (secs.some(function (s) { return s.parallel; })) head.appendChild(el("span", "wave-par", ico("arrow-left-right") + " параллельно — втроём"));
     wave.appendChild(head);
     if (w.sub) wave.appendChild(el("div", "wave-sub", esc(w.sub)));
     var grid = el("div", "wave-grid");
@@ -274,10 +281,10 @@
     head.appendChild(top);
     var badges = el("div", "stage-badges");
     badges.appendChild(el("span", "pill pill-branch", trk(s).label));
-    var r = roleOf(s.track); badges.appendChild(el("span", "pill pill-role", ico(r.i) + " Роль: " + r.l));
+    var r = roleOf(s); badges.appendChild(el("span", "pill pill-role", ico(r.i) + " Роли: " + r.l));
     if (s.questGroupGuess && s.questGroupGuess.trim()) badges.appendChild(el("span", "pill pill-soft", ico("flag") + " " + esc(s.questGroupGuess)));
     if (s.estTime) badges.appendChild(el("span", "pill pill-soft", ico("timer") + " " + esc(s.estTime)));
-    if (s.parallel) badges.appendChild(el("span", "pill pill-par", ico("arrow-left-right") + " параллельный этап — оба игрока"));
+    if (s.parallel) badges.appendChild(el("span", "pill pill-par", ico("arrow-left-right") + " параллельный этап — делите роли А/Б/В"));
     head.appendChild(badges);
     if (s.intro) head.appendChild(el("div", "stage-intro", esc(s.intro)));
     var prog = el("div", "stage-prog");
